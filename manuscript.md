@@ -26,8 +26,8 @@ header-includes: |
   <meta name="dc.date" content="2023-06-23" />
   <meta name="citation_publication_date" content="2023-06-23" />
   <meta property="article:published_time" content="2023-06-23" />
-  <meta name="dc.modified" content="2023-06-23T15:11:56+00:00" />
-  <meta property="article:modified_time" content="2023-06-23T15:11:56+00:00" />
+  <meta name="dc.modified" content="2023-06-23T17:04:02+00:00" />
+  <meta property="article:modified_time" content="2023-06-23T17:04:02+00:00" />
   <meta name="dc.language" content="en-US" />
   <meta name="citation_language" content="en-US" />
   <meta name="dc.relation.ispartof" content="Manubot" />
@@ -48,9 +48,9 @@ header-includes: |
   <meta name="citation_fulltext_html_url" content="https://hwong23.github.io/fna-dd-f2-e2/" />
   <meta name="citation_pdf_url" content="https://hwong23.github.io/fna-dd-f2-e2/manuscript.pdf" />
   <link rel="alternate" type="application/pdf" href="https://hwong23.github.io/fna-dd-f2-e2/manuscript.pdf" />
-  <link rel="alternate" type="text/html" href="https://hwong23.github.io/fna-dd-f2-e2/v/41c9cab9a3c7db60948bde0b565373deca107b98/" />
-  <meta name="manubot_html_url_versioned" content="https://hwong23.github.io/fna-dd-f2-e2/v/41c9cab9a3c7db60948bde0b565373deca107b98/" />
-  <meta name="manubot_pdf_url_versioned" content="https://hwong23.github.io/fna-dd-f2-e2/v/41c9cab9a3c7db60948bde0b565373deca107b98/manuscript.pdf" />
+  <link rel="alternate" type="text/html" href="https://hwong23.github.io/fna-dd-f2-e2/v/cdf3eda605992144e13f28f82e3656d0fffb6718/" />
+  <meta name="manubot_html_url_versioned" content="https://hwong23.github.io/fna-dd-f2-e2/v/cdf3eda605992144e13f28f82e3656d0fffb6718/" />
+  <meta name="manubot_pdf_url_versioned" content="https://hwong23.github.io/fna-dd-f2-e2/v/cdf3eda605992144e13f28f82e3656d0fffb6718/manuscript.pdf" />
   <meta property="og:type" content="article" />
   <meta property="twitter:card" content="summary_large_image" />
   <link rel="icon" type="image/png" sizes="192x192" href="https://manubot.org/favicon-192x192.png" />
@@ -69,13 +69,13 @@ manubot-clear-requests-cache: false
 
 
 
-<small><em>Este producto ([Web](https://hwong23.github.io/fna-dd-f2-e2/v/41c9cab9a3c7db60948bde0b565373deca107b98/))
+<small><em>Este producto ([Web](https://hwong23.github.io/fna-dd-f2-e2/v/cdf3eda605992144e13f28f82e3656d0fffb6718/))
 está basada en el resultado de la consultoría "Arquitectura E-Service",
-[Sharepoint STEF@41c9cab](https://stefaninilatam.sharepoint.com/:f:/r/sites/PROYECTOARQUITECTURAE-SERVICEFNA/Documentos%20compartidos/General/Repositorio%20SOA/Procesos%20Fase%20II/181-2020.%20E-SERV.%20Fase%202-ETAPA%200.%20docx?csf=1&web=1&e=BiNcBP)
+[Sharepoint STEF@cdf3eda](https://stefaninilatam.sharepoint.com/:f:/r/sites/PROYECTOARQUITECTURAE-SERVICEFNA/Documentos%20compartidos/General/Repositorio%20SOA/Procesos%20Fase%20II/181-2020.%20E-SERV.%20Fase%202-ETAPA%200.%20docx?csf=1&web=1&e=BiNcBP)
 del June 23, 2023.
 </em></small>
 
-|    **Versión** del producto 1.41c9cab de 23 Jun 2023
+|    **Versión** del producto 1.cdf3eda de 23 Jun 2023
 
 
 
@@ -142,7 +142,7 @@ Entrega de los productos de la Etapa 2, PR04 y PR05, del proyecto Gobierno SOA: 
 | Palabras clave | SOA, E-Service, FNA, Análisis de brecha, GAP, Comparativa              |
 | Autor          |                            |
 | Fuente         |                            |
-| Versión        | 1.41c9cab del 23 Jun 2023 |
+| Versión        | 1.cdf3eda del 23 Jun 2023 |
 | Vínculos       | [N003a Vista Segmento SOA FNA](N03a%a20Vsta%20aSegenta%20SOA%20FNA.md) |
 
 <br>
@@ -173,25 +173,25 @@ tablenos-caption-name: Tabla
 >
 >    23 Jun 2023
 >
->    **Versión** 1.41c9cab
+>    **Versión** 1.cdf3eda
 
 <br>
 
 # Producto 4: PR04. Definición de roles y responsabilidades y selección e instalación del comité
-Políticas y procedimiento, paquetes de trabajo, identificación de personas, roles y herramientas a desplegar a cargo de la oficina de arquitectura del FNA por concepto de la instauración del gobierno.
+Desarrollo de procedimientos, funciones, entregables, selección de roles y herramientas a desplegar para la puesta en marcha de un Comité de Arquitectura del FNA adscrito a la Vicepresidencia de Tecnología FNA y en cumplimiento con el Gobierno SOA, versión 0.5, objeto de este proyecto.
 
 **Nota**: los análisis de este producto están dirigidos a cumplir los objetivos del proyecto PRY01, Gobierno SOA: desarrollo, gestión, gobierno de arquitectura y adopción.
 
 <br>
 
 ## Justificación
-El resultados del análisis de riesgos técnicos realizado en la Fase I de la consultoría E-Service, causados en parte por los retos de complejidad y agilidad que enfrenta el FNA, los cuales configuran una red de aplicaciones y servicios que aumenta el impacto, el esfuerzo y la incertidumbre de los cambios en las arquitecturas del Fondo, obliga a crear la oficina de arquitectua del FNA y a desplegar las mejoras en los flujos críticos de trabajo a cargo esta.
+El Comité de Arquitectura es la entidad de supervisión ubicada entre la oficina de arquitectura (PR02, objeto de este proyecto) y los líderes de grupo de productos del FNA y áreas interesadas. Es una figura necesaria dado los resultados de los diagnósticos SOA, en particular el de riesgos técnicos, realizados en la Fase I de la consultoría E-Service que señalan como causantes a la complejidad y (baja) agilidad que enfrenta el FNA. El Comité de Arquitectura funge como complemento, apoyo y arbitraje (directriz) de los decisiones conciernentes a los trabajo de arquitectura del FNA dirigidos a la solución de estos problemas.
 
 ## Contenidos
 1. Modelo operativo del Comité de Gobierno de Arquitectura del FNA: actores, información y procedimientos
 1. Consideraciones para la puesta en marcha de Comité
 1. Aplicaciones de soporte a la Oficina de Arquitecura y a la Vicepresidencia de Tecnología del FNA
-1. Matriz de responsabilidades del Comité
+1. Matriz de responsabilidades y procedimiento del Comité
 
 <br>
 
