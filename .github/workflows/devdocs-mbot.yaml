@@ -1,4 +1,4 @@
-name: devdocs-mbot
+name: pry1-devdocs
 on:
   push:
     branches:
@@ -36,7 +36,7 @@ on:
         default: true
 jobs:
   devdocs:
-    name: devdocs-Mbot
+    name: pry1-e1-devdocs
     runs-on: ubuntu-latest
     env:
       GITHUB_PULL_REQUEST_SHA: ${{ github.event.pull_request.head.sha }}
