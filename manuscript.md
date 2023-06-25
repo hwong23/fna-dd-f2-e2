@@ -6,7 +6,7 @@ keywords:
 - gobierno
 - FNA
 lang: en-US
-date-meta: '2023-06-23'
+date-meta: '2023-06-25'
 author-meta:
 - Harry Wong, ing.
 - Wilson Morales, ing.
@@ -23,11 +23,11 @@ header-includes: |
   <meta name="citation_title" content="Etapa 2. Ejecución Gobierno. Incremento 1" />
   <meta property="og:title" content="Etapa 2. Ejecución Gobierno. Incremento 1" />
   <meta property="twitter:title" content="Etapa 2. Ejecución Gobierno. Incremento 1" />
-  <meta name="dc.date" content="2023-06-23" />
-  <meta name="citation_publication_date" content="2023-06-23" />
-  <meta property="article:published_time" content="2023-06-23" />
-  <meta name="dc.modified" content="2023-06-23T20:38:56+00:00" />
-  <meta property="article:modified_time" content="2023-06-23T20:38:56+00:00" />
+  <meta name="dc.date" content="2023-06-25" />
+  <meta name="citation_publication_date" content="2023-06-25" />
+  <meta property="article:published_time" content="2023-06-25" />
+  <meta name="dc.modified" content="2023-06-25T03:24:49+00:00" />
+  <meta property="article:modified_time" content="2023-06-25T03:24:49+00:00" />
   <meta name="dc.language" content="en-US" />
   <meta name="citation_language" content="en-US" />
   <meta name="dc.relation.ispartof" content="Manubot" />
@@ -48,9 +48,9 @@ header-includes: |
   <meta name="citation_fulltext_html_url" content="https://hwong23.github.io/fna-dd-f2-e2/" />
   <meta name="citation_pdf_url" content="https://hwong23.github.io/fna-dd-f2-e2/manuscript.pdf" />
   <link rel="alternate" type="application/pdf" href="https://hwong23.github.io/fna-dd-f2-e2/manuscript.pdf" />
-  <link rel="alternate" type="text/html" href="https://hwong23.github.io/fna-dd-f2-e2/v/1f8f1b1ef7abfb9ca4321e64d84d0c888fccd2af/" />
-  <meta name="manubot_html_url_versioned" content="https://hwong23.github.io/fna-dd-f2-e2/v/1f8f1b1ef7abfb9ca4321e64d84d0c888fccd2af/" />
-  <meta name="manubot_pdf_url_versioned" content="https://hwong23.github.io/fna-dd-f2-e2/v/1f8f1b1ef7abfb9ca4321e64d84d0c888fccd2af/manuscript.pdf" />
+  <link rel="alternate" type="text/html" href="https://hwong23.github.io/fna-dd-f2-e2/v/9a8d1c7b9adfd1b106b6300e1d00e94c1c199d34/" />
+  <meta name="manubot_html_url_versioned" content="https://hwong23.github.io/fna-dd-f2-e2/v/9a8d1c7b9adfd1b106b6300e1d00e94c1c199d34/" />
+  <meta name="manubot_pdf_url_versioned" content="https://hwong23.github.io/fna-dd-f2-e2/v/9a8d1c7b9adfd1b106b6300e1d00e94c1c199d34/manuscript.pdf" />
   <meta property="og:type" content="article" />
   <meta property="twitter:card" content="summary_large_image" />
   <link rel="icon" type="image/png" sizes="192x192" href="https://manubot.org/favicon-192x192.png" />
@@ -69,13 +69,13 @@ manubot-clear-requests-cache: false
 
 
 
-<small><em>Este producto ([Web](https://hwong23.github.io/fna-dd-f2-e2/v/1f8f1b1ef7abfb9ca4321e64d84d0c888fccd2af/))
-está basada en el resultado de la consultoría "Arquitectura E-Service",
-[Sharepoint STEF@1f8f1b1](https://stefaninilatam.sharepoint.com/:f:/r/sites/PROYECTOARQUITECTURAE-SERVICEFNA/Documentos%20compartidos/General/Repositorio%20SOA/Procesos%20Fase%20II/181-2020.%20E-SERV.%20Fase%202-ETAPA%200.%20docx?csf=1&web=1&e=BiNcBP)
-del June 23, 2023.
+<small><em>Los productos contractuales (PR0n) de esta etapa([Web](https://hwong23.github.io/fna-dd-f2-e2/v/9a8d1c7b9adfd1b106b6300e1d00e94c1c199d34/))
+están basados en el resultado de la consultoría "Arquitectura E-Service",
+[Sharepoint STEF@9a8d1c7](https://stefaninilatam.sharepoint.com/:f:/r/sites/PROYECTOARQUITECTURAE-SERVICEFNA/Documentos%20compartidos/General/Repositorio%20SOA/Procesos%20Fase%20II/181-2020.%20E-SERV.%20Fase%202-ETAPA%200.%20docx?csf=1&web=1&e=BiNcBP)
+del June 25, 2023.
 </em></small>
 
-|    **Versión** del producto 1.1f8f1b1 de 23 Jun 2023
+|    **Versión** del producto 1.9a8d1c7 de 25 Jun 2023
 
 
 
@@ -142,7 +142,7 @@ Entrega de los productos de la Etapa 2, PR04 y PR05, del proyecto Gobierno SOA: 
 | Palabras clave | SOA, E-Service, FNA, Análisis de brecha, GAP, Comparativa              |
 | Autor          |                            |
 | Fuente         |                            |
-| Versión        | 1.1f8f1b1 del 23 Jun 2023 |
+| Versión        | 1.9a8d1c7 del 25 Jun 2023 |
 | Vínculos       | [N003a Vista Segmento SOA FNA](N03a%a20Vsta%20aSegenta%20SOA%20FNA.md) |
 
 <br>
@@ -171,9 +171,9 @@ tablenos-caption-name: Tabla
 >
 >    FNA, Stefanini
 >
->    23 Jun 2023
+>    25 Jun 2023
 >
->    **Versión** 1.1f8f1b1
+>    **Versión** 1.9a8d1c7
 
 <br>
 
