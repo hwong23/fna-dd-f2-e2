@@ -5,6 +5,7 @@ filters:
 - pandoc-eqnos
 - pandoc-tablenos
 - pandoc-manubot-cite
+- pandoc-docx-pagebreakpy
 - citeproc
 wrap: preserve
 metadata:
