@@ -26,8 +26,8 @@ header-includes: |
   <meta name="dc.date" content="2023-06-28" />
   <meta name="citation_publication_date" content="2023-06-28" />
   <meta property="article:published_time" content="2023-06-28" />
-  <meta name="dc.modified" content="2023-06-28T13:03:17+00:00" />
-  <meta property="article:modified_time" content="2023-06-28T13:03:17+00:00" />
+  <meta name="dc.modified" content="2023-06-28T18:37:43+00:00" />
+  <meta property="article:modified_time" content="2023-06-28T18:37:43+00:00" />
   <meta name="dc.language" content="en-US" />
   <meta name="citation_language" content="en-US" />
   <meta name="dc.relation.ispartof" content="Manubot" />
@@ -48,9 +48,9 @@ header-includes: |
   <meta name="citation_fulltext_html_url" content="https://hwong23.github.io/fna-dd-f2-e2/" />
   <meta name="citation_pdf_url" content="https://hwong23.github.io/fna-dd-f2-e2/manuscript.pdf" />
   <link rel="alternate" type="application/pdf" href="https://hwong23.github.io/fna-dd-f2-e2/manuscript.pdf" />
-  <link rel="alternate" type="text/html" href="https://hwong23.github.io/fna-dd-f2-e2/v/898f789b4927ad5557615c2f560cc04bcbd6cdea/" />
-  <meta name="manubot_html_url_versioned" content="https://hwong23.github.io/fna-dd-f2-e2/v/898f789b4927ad5557615c2f560cc04bcbd6cdea/" />
-  <meta name="manubot_pdf_url_versioned" content="https://hwong23.github.io/fna-dd-f2-e2/v/898f789b4927ad5557615c2f560cc04bcbd6cdea/manuscript.pdf" />
+  <link rel="alternate" type="text/html" href="https://hwong23.github.io/fna-dd-f2-e2/v/07acbc1bf9082bd06e960ec1c9658eb2f55ff111/" />
+  <meta name="manubot_html_url_versioned" content="https://hwong23.github.io/fna-dd-f2-e2/v/07acbc1bf9082bd06e960ec1c9658eb2f55ff111/" />
+  <meta name="manubot_pdf_url_versioned" content="https://hwong23.github.io/fna-dd-f2-e2/v/07acbc1bf9082bd06e960ec1c9658eb2f55ff111/manuscript.pdf" />
   <meta property="og:type" content="article" />
   <meta property="twitter:card" content="summary_large_image" />
   <link rel="icon" type="image/png" sizes="192x192" href="https://manubot.org/favicon-192x192.png" />
@@ -69,13 +69,13 @@ manubot-clear-requests-cache: false
 
 
 
-<small><em>Los productos contractuales (PR0n) de esta etapa([Web](https://hwong23.github.io/fna-dd-f2-e2/v/898f789b4927ad5557615c2f560cc04bcbd6cdea/))
+<small><em>Los productos contractuales (PR0n) de esta etapa([Web](https://hwong23.github.io/fna-dd-f2-e2/v/07acbc1bf9082bd06e960ec1c9658eb2f55ff111/))
 están basados en el resultado de la consultoría "Arquitectura E-Service",
-[Sharepoint STEF@898f789](https://stefaninilatam.sharepoint.com/:f:/r/sites/PROYECTOARQUITECTURAE-SERVICEFNA/Documentos%20compartidos/General/Repositorio%20SOA/Procesos%20Fase%20II/181-2020.%20E-SERV.%20Fase%202-ETAPA%200.%20docx?csf=1&web=1&e=BiNcBP)
+[Sharepoint STEF@07acbc1](https://stefaninilatam.sharepoint.com/:f:/r/sites/PROYECTOARQUITECTURAE-SERVICEFNA/Documentos%20compartidos/General/Repositorio%20SOA/Procesos%20Fase%20II/181-2020.%20E-SERV.%20Fase%202-ETAPA%200.%20docx?csf=1&web=1&e=BiNcBP)
 del June 28, 2023.
 </em></small>
 
-|    **Versión** del producto 1.898f789 de 28 Jun 2023
+|    **Versión** del producto 1.07acbc1 de 28 Jun 2023
 
 
 
@@ -135,6 +135,7 @@ del June 28, 2023.
 ## Objetivo del Documento
 Entrega de los productos de la Etapa 2, PR04 y PR05, del proyecto Gobierno SOA: Políticas, flujos de trabajo y personas que ejercitan y conforman (cumplen) con el gobierno SOA del FNA a desplegar a cargo de la oficina de arquitectura.
 
+\newpage
 
 ##  Control de Cambios {.page_break_before}
 | Tema           | PRY01 Gobierno SOA FNA     |
@@ -142,7 +143,7 @@ Entrega de los productos de la Etapa 2, PR04 y PR05, del proyecto Gobierno SOA: 
 | Palabras clave | SOA, E-Service, FNA, Análisis de brecha, GAP, Comparativa              |
 | Autor          |                            |
 | Fuente         |                            |
-| Versión        | 1.898f789 del 28 Jun 2023 |
+| Versión        | 1.07acbc1 del 28 Jun 2023 |
 | Vínculos       | [N003a Vista Segmento SOA FNA](N03a%a20Vsta%20aSegenta%20SOA%20FNA.md) |
 
 <br>
@@ -151,6 +152,8 @@ Entrega de los productos de la Etapa 2, PR04 y PR05, del proyecto Gobierno SOA: 
 
 ***
 <div style="page-break-before: always;"></div>
+
+\newpage
 
 
 ---
@@ -173,7 +176,7 @@ tablenos-caption-name: Tabla
 >
 >    28 Jun 2023
 >
->    **Versión** 1.898f789
+>    **Versión** 1.07acbc1
 
 <br>
 
@@ -210,6 +213,9 @@ _Fuente: Elaboración propia._
 <br>
 
 
+Modelo operativo del Comité
+
+
 ---
 geometry:
   - top=1in
@@ -232,7 +238,7 @@ tablenos-caption-name: Tabla
 >
 >    28 Jun 2023
 >
->    **Versión** 1.898f789
+>    **Versión** 1.07acbc1
 
 <br>
 
