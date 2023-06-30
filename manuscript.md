@@ -26,8 +26,8 @@ header-includes: |
   <meta name="dc.date" content="2023-06-30" />
   <meta name="citation_publication_date" content="2023-06-30" />
   <meta property="article:published_time" content="2023-06-30" />
-  <meta name="dc.modified" content="2023-06-30T13:46:12+00:00" />
-  <meta property="article:modified_time" content="2023-06-30T13:46:12+00:00" />
+  <meta name="dc.modified" content="2023-06-30T14:05:13+00:00" />
+  <meta property="article:modified_time" content="2023-06-30T14:05:13+00:00" />
   <meta name="dc.language" content="en-US" />
   <meta name="citation_language" content="en-US" />
   <meta name="dc.relation.ispartof" content="Manubot" />
@@ -48,9 +48,9 @@ header-includes: |
   <meta name="citation_fulltext_html_url" content="https://hwong23.github.io/fna-dd-f2-e2/" />
   <meta name="citation_pdf_url" content="https://hwong23.github.io/fna-dd-f2-e2/manuscript.pdf" />
   <link rel="alternate" type="application/pdf" href="https://hwong23.github.io/fna-dd-f2-e2/manuscript.pdf" />
-  <link rel="alternate" type="text/html" href="https://hwong23.github.io/fna-dd-f2-e2/v/79a7fb4b526944dbe6a16be635d8f6d7ba8f7b39/" />
-  <meta name="manubot_html_url_versioned" content="https://hwong23.github.io/fna-dd-f2-e2/v/79a7fb4b526944dbe6a16be635d8f6d7ba8f7b39/" />
-  <meta name="manubot_pdf_url_versioned" content="https://hwong23.github.io/fna-dd-f2-e2/v/79a7fb4b526944dbe6a16be635d8f6d7ba8f7b39/manuscript.pdf" />
+  <link rel="alternate" type="text/html" href="https://hwong23.github.io/fna-dd-f2-e2/v/102a45a99a65f01e71ebfefefd0a6a9c10cb3656/" />
+  <meta name="manubot_html_url_versioned" content="https://hwong23.github.io/fna-dd-f2-e2/v/102a45a99a65f01e71ebfefefd0a6a9c10cb3656/" />
+  <meta name="manubot_pdf_url_versioned" content="https://hwong23.github.io/fna-dd-f2-e2/v/102a45a99a65f01e71ebfefefd0a6a9c10cb3656/manuscript.pdf" />
   <meta property="og:type" content="article" />
   <meta property="twitter:card" content="summary_large_image" />
   <link rel="icon" type="image/png" sizes="192x192" href="https://manubot.org/favicon-192x192.png" />
@@ -69,13 +69,13 @@ manubot-clear-requests-cache: false
 
 
 
-<small><em>Los productos contractuales (PR0n) de esta etapa([Web](https://hwong23.github.io/fna-dd-f2-e2/v/79a7fb4b526944dbe6a16be635d8f6d7ba8f7b39/))
+<small><em>Los productos contractuales (PR0n) de esta etapa([Web](https://hwong23.github.io/fna-dd-f2-e2/v/102a45a99a65f01e71ebfefefd0a6a9c10cb3656/))
 están basados en el resultado de la consultoría "Arquitectura E-Service",
-[Sharepoint STEF@79a7fb4](https://stefaninilatam.sharepoint.com/:f:/r/sites/PROYECTOARQUITECTURAE-SERVICEFNA/Documentos%20compartidos/General/Repositorio%20SOA/Procesos%20Fase%20II/181-2020.%20E-SERV.%20Fase%202-ETAPA%200.%20docx?csf=1&web=1&e=BiNcBP)
+[Sharepoint STEF@102a45a](https://stefaninilatam.sharepoint.com/:f:/r/sites/PROYECTOARQUITECTURAE-SERVICEFNA/Documentos%20compartidos/General/Repositorio%20SOA/Procesos%20Fase%20II/181-2020.%20E-SERV.%20Fase%202-ETAPA%200.%20docx?csf=1&web=1&e=BiNcBP)
 del June 30, 2023.
 </em></small>
 
-|    **Versión** del producto 1.79a7fb4 de 30 Jun 2023
+|    **Versión** del producto 1.102a45a de 30 Jun 2023
 
 
 
@@ -143,7 +143,7 @@ Entrega de los productos de la Etapa 2, PR04 y PR05, del proyecto Gobierno SOA: 
 | Palabras clave | SOA, E-Service, FNA, Análisis de brecha, GAP, Comparativa              |
 | Autor          |                            |
 | Fuente         |                            |
-| Versión        | 1.79a7fb4 del 30 Jun 2023 |
+| Versión        | 1.102a45a del 30 Jun 2023 |
 | Vínculos       | [N003a Vista Segmento SOA FNA](N03a%a20Vsta%20aSegenta%20SOA%20FNA.md) |
 
 <br>
@@ -177,7 +177,7 @@ tablenos-caption-name: Tabla
 >
 >    30 Jun 2023
 >
->    **Versión** 1.79a7fb4
+>    **Versión** 1.102a45a
 
 <br>
 
@@ -257,7 +257,7 @@ tablenos-caption-name: Tabla
 >
 >    30 Jun 2023
 >
->    **Versión** 1.79a7fb4
+>    **Versión** 1.102a45a
 
 <br>
 
@@ -318,7 +318,7 @@ Junto a esta complicación, que de por sí hace obligatoria la introdución de l
 |Palabras clave|SOA, Gobierno, Riesgo, Objetivos de negocio|
 |Autor||
 |Fuente||
-|Version|**79a7fb4** del 30 Jun 2023|
+|Version|**102a45a** del 30 Jun 2023|
 |Vínculos|[Fase 2 PR6 Gobierno SOA](N03a%a20Vsta%20aSegenta%20SOA%20FNA.md)|
 
 <br>
