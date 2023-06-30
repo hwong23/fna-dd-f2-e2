@@ -26,8 +26,8 @@ header-includes: |
   <meta name="dc.date" content="2023-06-30" />
   <meta name="citation_publication_date" content="2023-06-30" />
   <meta property="article:published_time" content="2023-06-30" />
-  <meta name="dc.modified" content="2023-06-30T12:53:15+00:00" />
-  <meta property="article:modified_time" content="2023-06-30T12:53:15+00:00" />
+  <meta name="dc.modified" content="2023-06-30T13:46:12+00:00" />
+  <meta property="article:modified_time" content="2023-06-30T13:46:12+00:00" />
   <meta name="dc.language" content="en-US" />
   <meta name="citation_language" content="en-US" />
   <meta name="dc.relation.ispartof" content="Manubot" />
@@ -48,9 +48,9 @@ header-includes: |
   <meta name="citation_fulltext_html_url" content="https://hwong23.github.io/fna-dd-f2-e2/" />
   <meta name="citation_pdf_url" content="https://hwong23.github.io/fna-dd-f2-e2/manuscript.pdf" />
   <link rel="alternate" type="application/pdf" href="https://hwong23.github.io/fna-dd-f2-e2/manuscript.pdf" />
-  <link rel="alternate" type="text/html" href="https://hwong23.github.io/fna-dd-f2-e2/v/f1a554b4ab42d4a1c23887935d2b228a4e4dc367/" />
-  <meta name="manubot_html_url_versioned" content="https://hwong23.github.io/fna-dd-f2-e2/v/f1a554b4ab42d4a1c23887935d2b228a4e4dc367/" />
-  <meta name="manubot_pdf_url_versioned" content="https://hwong23.github.io/fna-dd-f2-e2/v/f1a554b4ab42d4a1c23887935d2b228a4e4dc367/manuscript.pdf" />
+  <link rel="alternate" type="text/html" href="https://hwong23.github.io/fna-dd-f2-e2/v/79a7fb4b526944dbe6a16be635d8f6d7ba8f7b39/" />
+  <meta name="manubot_html_url_versioned" content="https://hwong23.github.io/fna-dd-f2-e2/v/79a7fb4b526944dbe6a16be635d8f6d7ba8f7b39/" />
+  <meta name="manubot_pdf_url_versioned" content="https://hwong23.github.io/fna-dd-f2-e2/v/79a7fb4b526944dbe6a16be635d8f6d7ba8f7b39/manuscript.pdf" />
   <meta property="og:type" content="article" />
   <meta property="twitter:card" content="summary_large_image" />
   <link rel="icon" type="image/png" sizes="192x192" href="https://manubot.org/favicon-192x192.png" />
@@ -69,13 +69,13 @@ manubot-clear-requests-cache: false
 
 
 
-<small><em>Los productos contractuales (PR0n) de esta etapa([Web](https://hwong23.github.io/fna-dd-f2-e2/v/f1a554b4ab42d4a1c23887935d2b228a4e4dc367/))
+<small><em>Los productos contractuales (PR0n) de esta etapa([Web](https://hwong23.github.io/fna-dd-f2-e2/v/79a7fb4b526944dbe6a16be635d8f6d7ba8f7b39/))
 están basados en el resultado de la consultoría "Arquitectura E-Service",
-[Sharepoint STEF@f1a554b](https://stefaninilatam.sharepoint.com/:f:/r/sites/PROYECTOARQUITECTURAE-SERVICEFNA/Documentos%20compartidos/General/Repositorio%20SOA/Procesos%20Fase%20II/181-2020.%20E-SERV.%20Fase%202-ETAPA%200.%20docx?csf=1&web=1&e=BiNcBP)
+[Sharepoint STEF@79a7fb4](https://stefaninilatam.sharepoint.com/:f:/r/sites/PROYECTOARQUITECTURAE-SERVICEFNA/Documentos%20compartidos/General/Repositorio%20SOA/Procesos%20Fase%20II/181-2020.%20E-SERV.%20Fase%202-ETAPA%200.%20docx?csf=1&web=1&e=BiNcBP)
 del June 30, 2023.
 </em></small>
 
-|    **Versión** del producto 1.f1a554b de 30 Jun 2023
+|    **Versión** del producto 1.79a7fb4 de 30 Jun 2023
 
 
 
@@ -143,7 +143,7 @@ Entrega de los productos de la Etapa 2, PR04 y PR05, del proyecto Gobierno SOA: 
 | Palabras clave | SOA, E-Service, FNA, Análisis de brecha, GAP, Comparativa              |
 | Autor          |                            |
 | Fuente         |                            |
-| Versión        | 1.f1a554b del 30 Jun 2023 |
+| Versión        | 1.79a7fb4 del 30 Jun 2023 |
 | Vínculos       | [N003a Vista Segmento SOA FNA](N03a%a20Vsta%20aSegenta%20SOA%20FNA.md) |
 
 <br>
@@ -177,7 +177,7 @@ tablenos-caption-name: Tabla
 >
 >    30 Jun 2023
 >
->    **Versión** 1.f1a554b
+>    **Versión** 1.79a7fb4
 
 <br>
 
@@ -257,7 +257,7 @@ tablenos-caption-name: Tabla
 >
 >    30 Jun 2023
 >
->    **Versión** 1.f1a554b
+>    **Versión** 1.79a7fb4
 
 <br>
 
@@ -274,7 +274,7 @@ El producto 5 es el detalle de los procedimientos y técnicas de tratamiento y m
 El tratamiento de los riesgos tecnológicos identifidos en el diagnóstco SOA de Fase I, E-Service (2022) (ver [03.Fase 1 PR3 Resultado Diagnóstico Situación Actual](N03a%a20Vsta%20aSegenta%20SOA%20FNA.md)) exigen acciones tal que mitiguen y adviertan al FNA sobre los impactos que estos comportan. El desarrollo de la vigilancia de los riesgos técnicos entra a reforzar al gobierno SOA del Fondo Nacional del Ahorro en curso en este proyecto y resulta en la personalización y aplicación de métodos que den tratamiento a estos. Además, operar los riesgos técnicos es de carácter obligatorio, dado que es un objetivo del Gobierno SOA del FNA: objtivo Vigilancia del riesgo tecnológico (G-OBJ1).
 
 ## Contenidos
-1. Definición, identificación del riesgo técnico del FNA (E-Service, Fase I)
+1. Definición e identificación del riesgo técnico del FNA (E-Service, Fase I)
 1. Métodos para el tratamiento de los riesgos técnicos E-Service Fase I
 1. Modelamiento del riesgo técnico del FNA (Oficina de Arquitectura FNA)
 
@@ -318,7 +318,7 @@ Junto a esta complicación, que de por sí hace obligatoria la introdución de l
 |Palabras clave|SOA, Gobierno, Riesgo, Objetivos de negocio|
 |Autor||
 |Fuente||
-|Version|**f1a554b** del 30 Jun 2023|
+|Version|**79a7fb4** del 30 Jun 2023|
 |Vínculos|[Fase 2 PR6 Gobierno SOA](N03a%a20Vsta%20aSegenta%20SOA%20FNA.md)|
 
 <br>
@@ -336,7 +336,7 @@ El gobierno SOA del FNA debe buscar la capacidad para medir y gestionar (agregar
 * R3. Riesgo de crecimiento de dependencias entre servicios SOA
 * R4. Riesgo de crecimiento de adaptadores particulares --opuesto al estándar-- (ver imagen 3)
 * R5. Riesgo de baja reutilización de servicios SOA
-* R6. Riesgo de permanencia de aplicaciones silos
+* R6. Riesgo de permanencia de silos (islas) de servicios SOA y aplicaciones
 * R7. Riesgo de falta de trazabilidad para la evolución e implementación de los servicios SOA
 
 <br>
