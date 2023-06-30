@@ -72,7 +72,7 @@ jobs:
           echo "COMPILATION_DATE=$(date +'%d %b %Y')" >> $GITHUB_ENV
           echo "PROYECTO=PRY01" >> $GITHUB_ENV
           echo "PROY_DESCR=Gobierno SOA del FNA" >> $GITHUB_ENV
-          echo "PR05=PR04. PR04. Definición de roles y responsabilidades e instalación del comité" >> $GITHUB_ENV
+          echo "PR04=PR04. Definición de roles y responsabilidades e instalación del comité" >> $GITHUB_ENV
           echo "PR05=PR05. Procesos de mejoramiento de diseño y vigilancia de riesgos técnicos" >> $GITHUB_ENV
 
       - name: Cache
