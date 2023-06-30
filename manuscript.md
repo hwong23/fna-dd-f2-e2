@@ -6,7 +6,7 @@ keywords:
 - gobierno
 - FNA
 lang: en-US
-date-meta: '2023-06-28'
+date-meta: '2023-06-30'
 author-meta:
 - Harry Wong, ing.
 - Wilson Morales, ing.
@@ -23,11 +23,11 @@ header-includes: |
   <meta name="citation_title" content="Etapa 2. Ejecución Gobierno. Incremento 1" />
   <meta property="og:title" content="Etapa 2. Ejecución Gobierno. Incremento 1" />
   <meta property="twitter:title" content="Etapa 2. Ejecución Gobierno. Incremento 1" />
-  <meta name="dc.date" content="2023-06-28" />
-  <meta name="citation_publication_date" content="2023-06-28" />
-  <meta property="article:published_time" content="2023-06-28" />
-  <meta name="dc.modified" content="2023-06-28T19:29:40+00:00" />
-  <meta property="article:modified_time" content="2023-06-28T19:29:40+00:00" />
+  <meta name="dc.date" content="2023-06-30" />
+  <meta name="citation_publication_date" content="2023-06-30" />
+  <meta property="article:published_time" content="2023-06-30" />
+  <meta name="dc.modified" content="2023-06-30T02:18:37+00:00" />
+  <meta property="article:modified_time" content="2023-06-30T02:18:37+00:00" />
   <meta name="dc.language" content="en-US" />
   <meta name="citation_language" content="en-US" />
   <meta name="dc.relation.ispartof" content="Manubot" />
@@ -48,9 +48,9 @@ header-includes: |
   <meta name="citation_fulltext_html_url" content="https://hwong23.github.io/fna-dd-f2-e2/" />
   <meta name="citation_pdf_url" content="https://hwong23.github.io/fna-dd-f2-e2/manuscript.pdf" />
   <link rel="alternate" type="application/pdf" href="https://hwong23.github.io/fna-dd-f2-e2/manuscript.pdf" />
-  <link rel="alternate" type="text/html" href="https://hwong23.github.io/fna-dd-f2-e2/v/a9005e420ec9ac60ba286d83bdd9c8f8279ddae2/" />
-  <meta name="manubot_html_url_versioned" content="https://hwong23.github.io/fna-dd-f2-e2/v/a9005e420ec9ac60ba286d83bdd9c8f8279ddae2/" />
-  <meta name="manubot_pdf_url_versioned" content="https://hwong23.github.io/fna-dd-f2-e2/v/a9005e420ec9ac60ba286d83bdd9c8f8279ddae2/manuscript.pdf" />
+  <link rel="alternate" type="text/html" href="https://hwong23.github.io/fna-dd-f2-e2/v/7081dd0d14a65a84a07c2e80111ac1f7d39d91d4/" />
+  <meta name="manubot_html_url_versioned" content="https://hwong23.github.io/fna-dd-f2-e2/v/7081dd0d14a65a84a07c2e80111ac1f7d39d91d4/" />
+  <meta name="manubot_pdf_url_versioned" content="https://hwong23.github.io/fna-dd-f2-e2/v/7081dd0d14a65a84a07c2e80111ac1f7d39d91d4/manuscript.pdf" />
   <meta property="og:type" content="article" />
   <meta property="twitter:card" content="summary_large_image" />
   <link rel="icon" type="image/png" sizes="192x192" href="https://manubot.org/favicon-192x192.png" />
@@ -69,13 +69,13 @@ manubot-clear-requests-cache: false
 
 
 
-<small><em>Los productos contractuales (PR0n) de esta etapa([Web](https://hwong23.github.io/fna-dd-f2-e2/v/a9005e420ec9ac60ba286d83bdd9c8f8279ddae2/))
+<small><em>Los productos contractuales (PR0n) de esta etapa([Web](https://hwong23.github.io/fna-dd-f2-e2/v/7081dd0d14a65a84a07c2e80111ac1f7d39d91d4/))
 están basados en el resultado de la consultoría "Arquitectura E-Service",
-[Sharepoint STEF@a9005e4](https://stefaninilatam.sharepoint.com/:f:/r/sites/PROYECTOARQUITECTURAE-SERVICEFNA/Documentos%20compartidos/General/Repositorio%20SOA/Procesos%20Fase%20II/181-2020.%20E-SERV.%20Fase%202-ETAPA%200.%20docx?csf=1&web=1&e=BiNcBP)
-del June 28, 2023.
+[Sharepoint STEF@7081dd0](https://stefaninilatam.sharepoint.com/:f:/r/sites/PROYECTOARQUITECTURAE-SERVICEFNA/Documentos%20compartidos/General/Repositorio%20SOA/Procesos%20Fase%20II/181-2020.%20E-SERV.%20Fase%202-ETAPA%200.%20docx?csf=1&web=1&e=BiNcBP)
+del June 30, 2023.
 </em></small>
 
-|    **Versión** del producto 1.a9005e4 de 28 Jun 2023
+|    **Versión** del producto 1.7081dd0 de 30 Jun 2023
 
 
 
@@ -143,7 +143,7 @@ Entrega de los productos de la Etapa 2, PR04 y PR05, del proyecto Gobierno SOA: 
 | Palabras clave | SOA, E-Service, FNA, Análisis de brecha, GAP, Comparativa              |
 | Autor          |                            |
 | Fuente         |                            |
-| Versión        | 1.a9005e4 del 28 Jun 2023 |
+| Versión        | 1.7081dd0 del 30 Jun 2023 |
 | Vínculos       | [N003a Vista Segmento SOA FNA](N03a%a20Vsta%20aSegenta%20SOA%20FNA.md) |
 
 <br>
@@ -175,9 +175,9 @@ tablenos-caption-name: Tabla
 >
 >    FNA, Stefanini
 >
->    28 Jun 2023
+>    30 Jun 2023
 >
->    **Versión** 1.a9005e4
+>    **Versión** 1.7081dd0
 
 <br>
 
@@ -255,9 +255,9 @@ tablenos-caption-name: Tabla
 >
 >    FNA, Stefanini
 >
->    28 Jun 2023
+>    30 Jun 2023
 >
->    **Versión** 1.a9005e4
+>    **Versión** 1.7081dd0
 
 <br>
 
@@ -274,9 +274,9 @@ El producto 5 es el detalle de los procedimientos y técnicas de tratamiento y m
 El tratamiento de los riesgos tecnológicos identifidos en el diagnóstco SOA de Fase I, E-Service (2022) (ver [03.Fase 1 PR3 Resultado Diagnóstico Situación Actual](N03a%a20Vsta%20aSegenta%20SOA%20FNA.md)) exigen acciones tal que mitiguen y adviertan al FNA sobre los impactos que estos comportan. El desarrollo de la vigilancia de los riesgos técnicos entra a reforzar al gobierno SOA del Fondo Nacional del Ahorro en curso en este proyecto y resulta en la personalización y aplicación de métodos que den tratamiento a estos. Además, operar los riesgos técnicos es de carácter obligatorio, dado que es un objetivo del Gobierno SOA del FNA: objtivo Vigilancia del riesgo tecnológico (G-OBJ1).
 
 ## Contenidos
-1. Definición y tratamiento del riesgo técnico del FNA
-1. Modelamiento del riesgo técnico del FNA
+1. Definición, identificación del riesgo técnico del FNA (E-Service, Fase I)
 1. Métodos para el tratamiento de los riesgos técnicos E-Service Fase I
+1. Modelamiento del riesgo técnico del FNA (Oficina de Arquitectura FNA)
 
 <br>
 
