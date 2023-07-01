@@ -6,7 +6,7 @@ keywords:
 - gobierno
 - FNA
 lang: en-US
-date-meta: '2023-06-30'
+date-meta: '2023-07-01'
 author-meta:
 - Harry Wong, ing.
 - Wilson Morales, ing.
@@ -23,11 +23,11 @@ header-includes: |
   <meta name="citation_title" content="Etapa 2. Ejecución Gobierno. Incremento 1" />
   <meta property="og:title" content="Etapa 2. Ejecución Gobierno. Incremento 1" />
   <meta property="twitter:title" content="Etapa 2. Ejecución Gobierno. Incremento 1" />
-  <meta name="dc.date" content="2023-06-30" />
-  <meta name="citation_publication_date" content="2023-06-30" />
-  <meta property="article:published_time" content="2023-06-30" />
-  <meta name="dc.modified" content="2023-06-30T20:31:08+00:00" />
-  <meta property="article:modified_time" content="2023-06-30T20:31:08+00:00" />
+  <meta name="dc.date" content="2023-07-01" />
+  <meta name="citation_publication_date" content="2023-07-01" />
+  <meta property="article:published_time" content="2023-07-01" />
+  <meta name="dc.modified" content="2023-07-01T17:49:30+00:00" />
+  <meta property="article:modified_time" content="2023-07-01T17:49:30+00:00" />
   <meta name="dc.language" content="en-US" />
   <meta name="citation_language" content="en-US" />
   <meta name="dc.relation.ispartof" content="Manubot" />
@@ -48,9 +48,9 @@ header-includes: |
   <meta name="citation_fulltext_html_url" content="https://hwong23.github.io/fna-dd-f2-e2/" />
   <meta name="citation_pdf_url" content="https://hwong23.github.io/fna-dd-f2-e2/manuscript.pdf" />
   <link rel="alternate" type="application/pdf" href="https://hwong23.github.io/fna-dd-f2-e2/manuscript.pdf" />
-  <link rel="alternate" type="text/html" href="https://hwong23.github.io/fna-dd-f2-e2/v/848dfe09c48afc950425af3dc9d0c9000d97764f/" />
-  <meta name="manubot_html_url_versioned" content="https://hwong23.github.io/fna-dd-f2-e2/v/848dfe09c48afc950425af3dc9d0c9000d97764f/" />
-  <meta name="manubot_pdf_url_versioned" content="https://hwong23.github.io/fna-dd-f2-e2/v/848dfe09c48afc950425af3dc9d0c9000d97764f/manuscript.pdf" />
+  <link rel="alternate" type="text/html" href="https://hwong23.github.io/fna-dd-f2-e2/v/7241ad7e1ffac23d628ec5c78e8417ab00237b40/" />
+  <meta name="manubot_html_url_versioned" content="https://hwong23.github.io/fna-dd-f2-e2/v/7241ad7e1ffac23d628ec5c78e8417ab00237b40/" />
+  <meta name="manubot_pdf_url_versioned" content="https://hwong23.github.io/fna-dd-f2-e2/v/7241ad7e1ffac23d628ec5c78e8417ab00237b40/manuscript.pdf" />
   <meta property="og:type" content="article" />
   <meta property="twitter:card" content="summary_large_image" />
   <link rel="icon" type="image/png" sizes="192x192" href="https://manubot.org/favicon-192x192.png" />
@@ -69,13 +69,13 @@ manubot-clear-requests-cache: false
 
 
 
-<small><em>Los productos contractuales (PR0n) de esta etapa([Web](https://hwong23.github.io/fna-dd-f2-e2/v/848dfe09c48afc950425af3dc9d0c9000d97764f/))
+<small><em>Los productos contractuales (PR0n) de esta etapa([Web](https://hwong23.github.io/fna-dd-f2-e2/v/7241ad7e1ffac23d628ec5c78e8417ab00237b40/))
 están basados en el resultado de la consultoría "Arquitectura E-Service",
-[Sharepoint STEF@848dfe0](https://stefaninilatam.sharepoint.com/:f:/r/sites/PROYECTOARQUITECTURAE-SERVICEFNA/Documentos%20compartidos/General/Repositorio%20SOA/Procesos%20Fase%20II/181-2020.%20E-SERV.%20Fase%202-ETAPA%200.%20docx?csf=1&web=1&e=BiNcBP)
-del June 30, 2023.
+[Sharepoint STEF@7241ad7](https://stefaninilatam.sharepoint.com/:f:/r/sites/PROYECTOARQUITECTURAE-SERVICEFNA/Documentos%20compartidos/General/Repositorio%20SOA/Procesos%20Fase%20II/181-2020.%20E-SERV.%20Fase%202-ETAPA%200.%20docx?csf=1&web=1&e=BiNcBP)
+del July 1, 2023.
 </em></small>
 
-|    **Versión** del producto 1.848dfe0 de 30 Jun 2023
+|    **Versión** del producto 1.7241ad7 de 01 Jul 2023
 
 
 
@@ -141,7 +141,7 @@ Entrega de los productos de la Etapa 2, PR04. Definición de roles y responsabil
 | Palabras clave | SOA, E-Service, FNA, Análisis de brecha, GAP, Comparativa              |
 | Autor          |                            |
 | Fuente         |                            |
-| Versión        | 1.848dfe0 del 30 Jun 2023 |
+| Versión        | 1.7241ad7 del 01 Jul 2023 |
 | Vínculos       | [N003a Vista Segmento SOA FNA](N03a%a20Vsta%20aSegenta%20SOA%20FNA.md) |
 
 <br>
@@ -173,9 +173,9 @@ tablenos-caption-name: Tabla
 >
 >    FNA, Stefanini
 >
->    30 Jun 2023
+>    01 Jul 2023
 >
->    **Versión** 1.848dfe0
+>    **Versión** 1.7241ad7
 
 <br>
 
@@ -253,9 +253,9 @@ tablenos-caption-name: Tabla
 >
 >    FNA, Stefanini
 >
->    30 Jun 2023
+>    01 Jul 2023
 >
->    **Versión** 1.848dfe0
+>    **Versión** 1.7241ad7
 
 <br>
 
@@ -299,7 +299,7 @@ _Fuente: Elaboración propia._
 | Palabras clave | SOA, Contexto, Áreas, Procesos, Objetivo                      |
 | Autor          |                                                               |
 | Fuente         |                                                               |
-| Versión        | **1.848dfe0** del 30 Jun 2023                          |
+| Versión        | **1.7241ad7** del 01 Jul 2023                          |
 | Vínculos       | [Ejecución Plan de Trabajo SOA](onenote:#N001d.sharepoint.com); [Procesos de Negocio FNA](onenote:#N003a.com)|
 
 <br>
@@ -333,7 +333,13 @@ Desde aquí consideramos el concepto de riesgo técnico de arquitectura FNA que 
 
 
 # Antecedentes de Riesgo Técnico de Arquitectura FNA
-Para elaborar los antecedentes de los riesgos técnicos de arquitectura del FNA, sujetos del gobierno de este proyecto, tomaremos como base los análisis previamente realizados en el FNA: 
+Para elaborar los antecedentes de los riesgos técnicos de arquitectura del FNA, sujetos del gobierno de este proyecto, tomaremos como base los análisis previamente realizados en el FNA durante la fase anterior de esta consultoría. 
+
+
+## Identificación de Riesgos Técnicos del FNA
+Junto a esta complicación, que de por sí hace obligatoria la introdución de la figura del gobierno SOA en el Fondo, y que organizaciones como el OpenGroup señalan que se dan por la falta de Arquitectura SOA y Arquitectura Empresarial, y por consiguiente, por un débil gobierno SOA, se encuentran otras que fueron levantadas en la Fase 1 del presente diagnóstico: agilidad limitada, complejidad e imprecisión en la trazabilidad, ocultamiento de funcionalidades (ver [04b.Resumen Fase 1](N03a%a20Vsta%20aSegenta%20SOA%20FNA.md)).
+
+Los análisis siguientes dan cuenta de los riesgos técnicos hallados en Fase I.
 
 1. Análisis de Madurez SOA del FNA (OSIMM, Open Group; E-Service, Fase I, 2022)
 1. Análisis de Fortalezas/Debilidades SOA del FNA (SOA Patterns, Enterprise Integration Patterns; E-Service, Fase I, 2022)
@@ -342,7 +348,7 @@ Para elaborar los antecedentes de los riesgos técnicos de arquitectura del FNA,
 
 <br>
 
-De aquí extraemos trece áreas de riesgo técnico de arquitectura a considerar en este proyecto. El gobierno SOA del FNA debe buscar las capacidades internas para medir y gestionar tales riesgos que lo están afectando.
+De los análisis nombrados extraemos siete áreas de riesgo técnico de arquitectura a considerar en este proyecto que consideramos como materia antecedente. El gobierno SOA del FNA debe contar con las capacidades, recursos y roles, funciones y procedimientos para medir y gestionar los riesgos que de estas provengan y que lo están afectando.
 
 * R1. Riesgo de agilidad limitada (ver imagen 1)
 * R2. Riesgo de baja orquestación SOA (ver imagen 2a y 2b)
@@ -354,17 +360,12 @@ De aquí extraemos trece áreas de riesgo técnico de arquitectura a considerar 
 
 
 
-# Identificación de Riesgos Técnicos del FNA
-Junto a esta complicación, que de por sí hace obligatoria la introdución de la figura del gobierno SOA en el Fondo, y que organizaciones como el OpenGroup señalan que se dan por la falta de Arquitectura Empresarial, y por consiguiente, por un débil gobierno, se encuentran otras que fueron levantadas en la Fase 1 del presente diagnóstico: agilidad limitada, complejidad e imprecisión en la trazabilidad, ocultamiento de funcionalidades (ver [04b.Resumen Fase 1](N03a%a20Vsta%20aSegenta%20SOA%20FNA.md)).
-
-<br>
-
 |Tema            |Gobierno SOA: **Riesgos tecnológicos del FNA** |
 |----------------|---------------------------------------------------|
 |Palabras clave|SOA, Gobierno, Riesgo, Objetivos de negocio|
 |Autor||
 |Fuente||
-|Version|**848dfe0** del 30 Jun 2023|
+|Version|**7241ad7** del 01 Jul 2023|
 |Vínculos|[Fase 2 PR6 Gobierno SOA](N03a%a20Vsta%20aSegenta%20SOA%20FNA.md)|
 
 <br>
@@ -426,7 +427,7 @@ _Fuente: Diagnóstico SOA. E-Service (2022)._
 | Palabras clave | SOA, Riesgo técnico, Modelo, Arquitectura                     |
 | Autor          |                                                               |
 | Fuente         |                                                               |
-| Versión        | **1.848dfe0** del 30 Jun 2023                          |
+| Versión        | **1.7241ad7** del 01 Jul 2023                          |
 | Vínculos       | [Ejecución Plan de Trabajo SOA](onenote:#N001d.sharepoint.com); [Procesos de Negocio FNA](onenote:#N003a.com)|
 
 <br>
