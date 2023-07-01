@@ -26,8 +26,8 @@ header-includes: |
   <meta name="dc.date" content="2023-07-01" />
   <meta name="citation_publication_date" content="2023-07-01" />
   <meta property="article:published_time" content="2023-07-01" />
-  <meta name="dc.modified" content="2023-07-01T17:49:30+00:00" />
-  <meta property="article:modified_time" content="2023-07-01T17:49:30+00:00" />
+  <meta name="dc.modified" content="2023-07-01T18:09:17+00:00" />
+  <meta property="article:modified_time" content="2023-07-01T18:09:17+00:00" />
   <meta name="dc.language" content="en-US" />
   <meta name="citation_language" content="en-US" />
   <meta name="dc.relation.ispartof" content="Manubot" />
@@ -48,9 +48,9 @@ header-includes: |
   <meta name="citation_fulltext_html_url" content="https://hwong23.github.io/fna-dd-f2-e2/" />
   <meta name="citation_pdf_url" content="https://hwong23.github.io/fna-dd-f2-e2/manuscript.pdf" />
   <link rel="alternate" type="application/pdf" href="https://hwong23.github.io/fna-dd-f2-e2/manuscript.pdf" />
-  <link rel="alternate" type="text/html" href="https://hwong23.github.io/fna-dd-f2-e2/v/7241ad7e1ffac23d628ec5c78e8417ab00237b40/" />
-  <meta name="manubot_html_url_versioned" content="https://hwong23.github.io/fna-dd-f2-e2/v/7241ad7e1ffac23d628ec5c78e8417ab00237b40/" />
-  <meta name="manubot_pdf_url_versioned" content="https://hwong23.github.io/fna-dd-f2-e2/v/7241ad7e1ffac23d628ec5c78e8417ab00237b40/manuscript.pdf" />
+  <link rel="alternate" type="text/html" href="https://hwong23.github.io/fna-dd-f2-e2/v/9ee9ec8139990e71bc7388a53b3439b4d1aa46c1/" />
+  <meta name="manubot_html_url_versioned" content="https://hwong23.github.io/fna-dd-f2-e2/v/9ee9ec8139990e71bc7388a53b3439b4d1aa46c1/" />
+  <meta name="manubot_pdf_url_versioned" content="https://hwong23.github.io/fna-dd-f2-e2/v/9ee9ec8139990e71bc7388a53b3439b4d1aa46c1/manuscript.pdf" />
   <meta property="og:type" content="article" />
   <meta property="twitter:card" content="summary_large_image" />
   <link rel="icon" type="image/png" sizes="192x192" href="https://manubot.org/favicon-192x192.png" />
@@ -69,13 +69,13 @@ manubot-clear-requests-cache: false
 
 
 
-<small><em>Los productos contractuales (PR0n) de esta etapa([Web](https://hwong23.github.io/fna-dd-f2-e2/v/7241ad7e1ffac23d628ec5c78e8417ab00237b40/))
+<small><em>Los productos contractuales (PR0n) de esta etapa([Web](https://hwong23.github.io/fna-dd-f2-e2/v/9ee9ec8139990e71bc7388a53b3439b4d1aa46c1/))
 están basados en el resultado de la consultoría "Arquitectura E-Service",
-[Sharepoint STEF@7241ad7](https://stefaninilatam.sharepoint.com/:f:/r/sites/PROYECTOARQUITECTURAE-SERVICEFNA/Documentos%20compartidos/General/Repositorio%20SOA/Procesos%20Fase%20II/181-2020.%20E-SERV.%20Fase%202-ETAPA%200.%20docx?csf=1&web=1&e=BiNcBP)
+[Sharepoint STEF@9ee9ec8](https://stefaninilatam.sharepoint.com/:f:/r/sites/PROYECTOARQUITECTURAE-SERVICEFNA/Documentos%20compartidos/General/Repositorio%20SOA/Procesos%20Fase%20II/181-2020.%20E-SERV.%20Fase%202-ETAPA%200.%20docx?csf=1&web=1&e=BiNcBP)
 del July 1, 2023.
 </em></small>
 
-|    **Versión** del producto 1.7241ad7 de 01 Jul 2023
+|    **Versión** del producto 1.9ee9ec8 de 01 Jul 2023
 
 
 
@@ -141,7 +141,7 @@ Entrega de los productos de la Etapa 2, PR04. Definición de roles y responsabil
 | Palabras clave | SOA, E-Service, FNA, Análisis de brecha, GAP, Comparativa              |
 | Autor          |                            |
 | Fuente         |                            |
-| Versión        | 1.7241ad7 del 01 Jul 2023 |
+| Versión        | 1.9ee9ec8 del 01 Jul 2023 |
 | Vínculos       | [N003a Vista Segmento SOA FNA](N03a%a20Vsta%20aSegenta%20SOA%20FNA.md) |
 
 <br>
@@ -175,7 +175,7 @@ tablenos-caption-name: Tabla
 >
 >    01 Jul 2023
 >
->    **Versión** 1.7241ad7
+>    **Versión** 1.9ee9ec8
 
 <br>
 
@@ -255,7 +255,7 @@ tablenos-caption-name: Tabla
 >
 >    01 Jul 2023
 >
->    **Versión** 1.7241ad7
+>    **Versión** 1.9ee9ec8
 
 <br>
 
@@ -299,7 +299,7 @@ _Fuente: Elaboración propia._
 | Palabras clave | SOA, Contexto, Áreas, Procesos, Objetivo                      |
 | Autor          |                                                               |
 | Fuente         |                                                               |
-| Versión        | **1.7241ad7** del 01 Jul 2023                          |
+| Versión        | **1.9ee9ec8** del 01 Jul 2023                          |
 | Vínculos       | [Ejecución Plan de Trabajo SOA](onenote:#N001d.sharepoint.com); [Procesos de Negocio FNA](onenote:#N003a.com)|
 
 <br>
@@ -358,35 +358,13 @@ De los análisis nombrados extraemos siete áreas de riesgo técnico de arquitec
 * R6. Riesgo de permanencia de silos (islas) de servicios SOA y aplicaciones
 * R7. Riesgo de falta de trazabilidad para la evolución e implementación de los servicios SOA
 
-
-
-|Tema            |Gobierno SOA: **Riesgos tecnológicos del FNA** |
-|----------------|---------------------------------------------------|
-|Palabras clave|SOA, Gobierno, Riesgo, Objetivos de negocio|
-|Autor||
-|Fuente||
-|Version|**7241ad7** del 01 Jul 2023|
-|Vínculos|[Fase 2 PR6 Gobierno SOA](N03a%a20Vsta%20aSegenta%20SOA%20FNA.md)|
-
 <br>
 
-## Riesgos Tecnológicos del FNA
-Los riesgos tecnológicos encontrados en el diagnóstco SOA de Fase 1 (ver [03.Fase 1 PR3 Resultado Diagnóstico Situación Actual](N03a%a20Vsta%20aSegenta%20SOA%20FNA.md)), y que describimos abajo, están incorporados a las vigilancias del gobierno SOA propuesto. A la vez, estos mismos riesgos descritos a continuación deben ser agregados a la matriz de gestión actual del Fondo, y gestionados por los métodos propios con los que ya cuenta el FNA.
 
-<br>
 
-### Gobierno SOA y Riesgos Tecnológicos del FNA
-El gobierno SOA del FNA debe buscar la capacidad para medir y gestionar (agregar a la lista de riesgos de la empresa) los riesgos que lo están afectando.
+05a3.md
+En esta parte ejemplificaremos con diagramas y modelos aquellas áreas sensibles de tratamiento que nombramos en los temas anteriores y que tienen como base el diagnóstco SOA de Fase 1 (ver [03.Fase 1 PR3 Resultado Diagnóstico Situación Actual](N03a%a20Vsta%20aSegenta%20SOA%20FNA.md)). Estas áreas de riesgo serán incorporados a las vigilancias del gobierno SOA propuesto, objeto de este proyecto. A la vez, los riesgos derivados de estas debenrán ser agregados a la matriz de gestión actual del Fondo, y gestionados por los métodos propios con los que ya cuenta el FNA.
 
-* R1. Riesgo de agilidad limitada (ver imagen 1)
-* R2. Riesgo de baja orquestación SOA (ver imagen 2a y 2b)
-* R3. Riesgo de crecimiento de dependencias entre servicios SOA
-* R4. Riesgo de crecimiento de adaptadores particulares --opuesto al estándar-- (ver imagen 3)
-* R5. Riesgo de baja reutilización de servicios SOA
-* R6. Riesgo de permanencia de silos (islas) de servicios SOA y aplicaciones
-* R7. Riesgo de falta de trazabilidad para la evolución e implementación de los servicios SOA
-
-<br>
 
 ![Riesgo no. 1 y 2. Agilidad limitada por el proliferación de la copmlejidad en los servicios SOA del Fondo](images/ESB-IBM.png)
 
@@ -411,7 +389,33 @@ _Fuente: ae_fna_as_is.archimate._
 _Fuente: ae_fna_as_is.archimate._
 
 
-# Modelos de Gobiernos con Gestión de Riesgos Técnicos (versión 0.6)
+
+|Tema            |Gobierno SOA: **Riesgos tecnológicos del FNA** |
+|----------------|---------------------------------------------------|
+|Palabras clave|SOA, Gobierno, Riesgo, Objetivos de negocio|
+|Autor||
+|Fuente||
+|Version|**9ee9ec8** del 01 Jul 2023|
+|Vínculos|[Fase 2 PR6 Gobierno SOA](N03a%a20Vsta%20aSegenta%20SOA%20FNA.md)|
+
+<br>
+
+# Tratamiento a los Riesgos Tecnológicos del FNA
+
+<br>
+
+### Gobierno SOA y Riesgos Tecnológicos del FNA
+El gobierno SOA del FNA debe buscar la capacidad para medir y gestionar (agregar a la lista de riesgos de la empresa) los riesgos que lo están afectando.
+
+* R1. Riesgo de agilidad limitada (ver imagen 1)
+* R2. Riesgo de baja orquestación SOA (ver imagen 2a y 2b)
+* R3. Riesgo de crecimiento de dependencias entre servicios SOA
+* R4. Riesgo de crecimiento de adaptadores particulares --opuesto al estándar-- (ver imagen 3)
+* R5. Riesgo de baja reutilización de servicios SOA
+* R6. Riesgo de permanencia de silos (islas) de servicios SOA y aplicaciones
+* R7. Riesgo de falta de trazabilidad para la evolución e implementación de los servicios SOA
+
+<br>
 
 ![Modelo de gobierno SOA del FNA, versión 0.6. Incorpora las actividades de gestión de riesgo, y las capaciddes del repositorio de arquitectura.  ](images/modelogob05-riesgos.png){#fig: width=}
 
@@ -427,7 +431,7 @@ _Fuente: Diagnóstico SOA. E-Service (2022)._
 | Palabras clave | SOA, Riesgo técnico, Modelo, Arquitectura                     |
 | Autor          |                                                               |
 | Fuente         |                                                               |
-| Versión        | **1.7241ad7** del 01 Jul 2023                          |
+| Versión        | **1.9ee9ec8** del 01 Jul 2023                          |
 | Vínculos       | [Ejecución Plan de Trabajo SOA](onenote:#N001d.sharepoint.com); [Procesos de Negocio FNA](onenote:#N003a.com)|
 
 <br>
