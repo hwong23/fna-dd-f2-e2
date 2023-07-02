@@ -82,7 +82,7 @@ jobs:
           restore-keys: |
             ci-cache-${{ env.DEFAULT_BRANCH_REF }}
       - name: Build Manuscript
-        run: bash build/build.sh
+        run: bash build/build-simpl.sh
       - name: Upload Artifacts
         uses: actions/upload-artifact@v3
         with:
