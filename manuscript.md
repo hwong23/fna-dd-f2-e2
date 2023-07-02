@@ -26,8 +26,8 @@ header-includes: |
   <meta name="dc.date" content="2023-07-02" />
   <meta name="citation_publication_date" content="2023-07-02" />
   <meta property="article:published_time" content="2023-07-02" />
-  <meta name="dc.modified" content="2023-07-02T12:56:41+00:00" />
-  <meta property="article:modified_time" content="2023-07-02T12:56:41+00:00" />
+  <meta name="dc.modified" content="2023-07-02T14:08:32+00:00" />
+  <meta property="article:modified_time" content="2023-07-02T14:08:32+00:00" />
   <meta name="dc.language" content="en-US" />
   <meta name="citation_language" content="en-US" />
   <meta name="dc.relation.ispartof" content="Manubot" />
@@ -48,9 +48,9 @@ header-includes: |
   <meta name="citation_fulltext_html_url" content="https://hwong23.github.io/fna-dd-f2-e2/" />
   <meta name="citation_pdf_url" content="https://hwong23.github.io/fna-dd-f2-e2/manuscript.pdf" />
   <link rel="alternate" type="application/pdf" href="https://hwong23.github.io/fna-dd-f2-e2/manuscript.pdf" />
-  <link rel="alternate" type="text/html" href="https://hwong23.github.io/fna-dd-f2-e2/v/1db88f71b45e7a417cf14de489295e700fa04c51/" />
-  <meta name="manubot_html_url_versioned" content="https://hwong23.github.io/fna-dd-f2-e2/v/1db88f71b45e7a417cf14de489295e700fa04c51/" />
-  <meta name="manubot_pdf_url_versioned" content="https://hwong23.github.io/fna-dd-f2-e2/v/1db88f71b45e7a417cf14de489295e700fa04c51/manuscript.pdf" />
+  <link rel="alternate" type="text/html" href="https://hwong23.github.io/fna-dd-f2-e2/v/4be42d21665a61bb07687ae97d5ac1b2879b1efa/" />
+  <meta name="manubot_html_url_versioned" content="https://hwong23.github.io/fna-dd-f2-e2/v/4be42d21665a61bb07687ae97d5ac1b2879b1efa/" />
+  <meta name="manubot_pdf_url_versioned" content="https://hwong23.github.io/fna-dd-f2-e2/v/4be42d21665a61bb07687ae97d5ac1b2879b1efa/manuscript.pdf" />
   <meta property="og:type" content="article" />
   <meta property="twitter:card" content="summary_large_image" />
   <link rel="icon" type="image/png" sizes="192x192" href="https://manubot.org/favicon-192x192.png" />
@@ -69,13 +69,13 @@ manubot-clear-requests-cache: false
 
 
 
-<small><em>Los productos contractuales (PR0n) de esta etapa([Web](https://hwong23.github.io/fna-dd-f2-e2/v/1db88f71b45e7a417cf14de489295e700fa04c51/))
+<small><em>Los productos contractuales (PR0n) de esta etapa([Web](https://hwong23.github.io/fna-dd-f2-e2/v/4be42d21665a61bb07687ae97d5ac1b2879b1efa/))
 están basados en el resultado de la consultoría "Arquitectura E-Service",
-[Sharepoint STEF@1db88f7](https://stefaninilatam.sharepoint.com/:f:/r/sites/PROYECTOARQUITECTURAE-SERVICEFNA/Documentos%20compartidos/General/Repositorio%20SOA/Procesos%20Fase%20II/181-2020.%20E-SERV.%20Fase%202-ETAPA%200.%20docx?csf=1&web=1&e=BiNcBP)
+[Sharepoint STEF@4be42d2](https://stefaninilatam.sharepoint.com/:f:/r/sites/PROYECTOARQUITECTURAE-SERVICEFNA/Documentos%20compartidos/General/Repositorio%20SOA/Procesos%20Fase%20II/181-2020.%20E-SERV.%20Fase%202-ETAPA%200.%20docx?csf=1&web=1&e=BiNcBP)
 del July 2, 2023.
 </em></small>
 
-|    **Versión** del producto 1.1db88f7 de 02 Jul 2023
+|    **Versión** del producto 1.4be42d2 de 02 Jul 2023
 
 
 
@@ -141,7 +141,7 @@ Entrega de los productos de la Etapa 2, PR04. Definición de roles y responsabil
 | Palabras clave | SOA, E-Service, FNA, Análisis de brecha, GAP, Comparativa              |
 | Autor          |                            |
 | Fuente         |                            |
-| Versión        | 1.1db88f7 del 02 Jul 2023 |
+| Versión        | 1.4be42d2 del 02 Jul 2023 |
 | Vínculos       | [N003a Vista Segmento SOA FNA](N03a%a20Vsta%20aSegenta%20SOA%20FNA.md) |
 
 <br>
@@ -169,6 +169,7 @@ fignos-caption-name: Imagen
 tablenos-caption-name: Tabla
 ...
 
+<div style="page-break-before: always;"></div>
 \newpage
 
 >    E-Service. Fase II
@@ -181,7 +182,7 @@ tablenos-caption-name: Tabla
 >
 >    02 Jul 2023
 >
->    **Versión** 1.1db88f7
+>    **Versión** 1.4be42d2
 
 <br>
 
@@ -262,7 +263,7 @@ tablenos-caption-name: Tabla
 >
 >    02 Jul 2023
 >
->    **Versión** 1.1db88f7
+>    **Versión** 1.4be42d2
 
 <br>
 
@@ -300,6 +301,7 @@ _Fuente: Elaboración propia._
 
 
 
+<div style="page-break-before: always;"></div>
 \newpage
 
 | Tema           | Gobierno SOA del FNA: **Riesgo Técnico de Arquitectura del FNA** |
@@ -307,7 +309,7 @@ _Fuente: Elaboración propia._
 | Palabras clave | SOA, Contexto, Áreas, Procesos, Objetivo                      |
 | Autor          |                                                               |
 | Fuente         |                                                               |
-| Versión        | **1.1db88f7** del 02 Jul 2023                          |
+| Versión        | **1.4be42d2** del 02 Jul 2023                          |
 | Vínculos       | [Ejecución Plan de Trabajo SOA](onenote:#N001d.sharepoint.com); [Procesos de Negocio FNA](onenote:#N003a.com)|
 
 <br>
@@ -411,7 +413,7 @@ _Fuente: ae_fna_as_is.archimate._
 |Palabras clave|SOA, Gobierno, Riesgo, Objetivos de negocio|
 |Autor||
 |Fuente||
-|Version|**1db88f7** del 02 Jul 2023|
+|Version|**4be42d2** del 02 Jul 2023|
 |Vínculos|[Fase 2 PR6 Gobierno SOA](N03a%a20Vsta%20aSegenta%20SOA%20FNA.md)|
 
 <br>
@@ -448,17 +450,53 @@ El modelo de colaboración muestra cómo la Oficina y el Gobierno 0.6 se relacio
 
 
 
-05c.modelo riesgo
 
-| Tema           | Gobierno SOA del FNA: **Modelamiento del riesgo técnico del FNA (Oficina de Arquitectura FNA)** |
+| Tema           | Gobierno SOA del FNA: **Modelamiento del Riesgo Técnico de Arquitectura del FNA** |
 |----------------|---------------------------------------------------------------|
 | Palabras clave | SOA, Riesgo técnico, Modelo, Arquitectura                     |
 | Autor          |                                                               |
 | Fuente         |                                                               |
-| Versión        | **1.1db88f7** del 02 Jul 2023                          |
+| Versión        | **1.4be42d2** del 02 Jul 2023                          |
 | Vínculos       | [Ejecución Plan de Trabajo SOA](onenote:#N001d.sharepoint.com); [Procesos de Negocio FNA](onenote:#N003a.com)|
 
 <br>
+
+# Técnica para Modelar Riesgos de Arquitectura para el FNA
+Para completar el cumplimiento del objetivo de manejo de riesgos del Gobierno SOA del FNA, versión 0.6, y de dotar a la oficina de arquitectura de los recursos para cumplir tal objetivo, desarrollamos a continuación las consideraciones para modelar en el repositorio de arquitectura los riesgos de la arquitectura, lo cual contribye de gran manera a la gestión y tratamiento de los mismos.
+
+## Correspondencia de Conceptos del Riesgo y Arquitectura
+Es fundamental establecer una correspondencia de conceptos con el "mundo" y el lenguaje de modelado, que en el caso de la arquitectura es ArchiMate 2.1 (o superior). La siguiente tabla presenta una posible correspondencia entre los conceptos del riesgo técnico de la arquitectura y el lenguaje indicado.
+
+<br>
+
+| Correspondencia | Concepto real        | Concepto Archimate       |
+|-----------------|----------------------|--------------------------|
+|  1.             | Riesgo               | Outcome                  |
+|  2.             | Amenaza              | Assessment               |
+|  3.             | Vulnerabilidad       | Assessment               |
+|  4.             | Impacto              | Outcome                  |
+|  5.             | Activo / ítem        | Resource, Core Element   |
+|  6.             | Agente riesgo        | Active Structure Element |
+|  7.             | Evento riesgoso      | Business Event           |
+|  8.             | Security Goal        | Goal                     |
+|  9.             | Security Outcome     | Outcome                  |
+|  10.            | Security Principle   | Principle                |
+|  11.            | Security Requirement | Requirement              |
+|  12.            | Security Compliance  | Requirement              |
+|  13.            | Security Control     | Requirement              |
+|  14.            | Security Measure     | Requirement              |
+|  15.            | Security Constraint  | Constraint               |
+|  16.            | Riesgo.auditor       | Stakeholder              |
+|  17.            | Riesgo.análisis      | Stakeholder              |
+|  18.            | Riesgo.asesor        | Stakeholder              |
+|  19.            | Security Resource    | Architect                |
+|  20.            | Security Service     | Capability               |
+|  21.            | Security Capability  | Service                  |
+
+Table: Correspondencia de Conceptos del Riesgo del Gobierno SOA del FNA, versión 0.6. {#tbl:riesgo1-id}
+
+## Modelo Simple de Riesgo de Arquitectura
+Desarrollamos un modelo de riesgo tomando como entrada un caso particular del FNA descrito anteriomente.
 
 
 
