@@ -26,8 +26,8 @@ header-includes: |
   <meta name="dc.date" content="2023-07-03" />
   <meta name="citation_publication_date" content="2023-07-03" />
   <meta property="article:published_time" content="2023-07-03" />
-  <meta name="dc.modified" content="2023-07-03T03:52:32+00:00" />
-  <meta property="article:modified_time" content="2023-07-03T03:52:32+00:00" />
+  <meta name="dc.modified" content="2023-07-03T03:56:38+00:00" />
+  <meta property="article:modified_time" content="2023-07-03T03:56:38+00:00" />
   <meta name="dc.language" content="en-US" />
   <meta name="citation_language" content="en-US" />
   <meta name="dc.relation.ispartof" content="Manubot" />
@@ -48,9 +48,9 @@ header-includes: |
   <meta name="citation_fulltext_html_url" content="https://hwong23.github.io/fna-dd-f2-e2/" />
   <meta name="citation_pdf_url" content="https://hwong23.github.io/fna-dd-f2-e2/manuscript.pdf" />
   <link rel="alternate" type="application/pdf" href="https://hwong23.github.io/fna-dd-f2-e2/manuscript.pdf" />
-  <link rel="alternate" type="text/html" href="https://hwong23.github.io/fna-dd-f2-e2/v/6f47d6ca3a134be59677738fc535196fc7dbd180/" />
-  <meta name="manubot_html_url_versioned" content="https://hwong23.github.io/fna-dd-f2-e2/v/6f47d6ca3a134be59677738fc535196fc7dbd180/" />
-  <meta name="manubot_pdf_url_versioned" content="https://hwong23.github.io/fna-dd-f2-e2/v/6f47d6ca3a134be59677738fc535196fc7dbd180/manuscript.pdf" />
+  <link rel="alternate" type="text/html" href="https://hwong23.github.io/fna-dd-f2-e2/v/71bfd461cb2255cd44533135db7734b0588b06c4/" />
+  <meta name="manubot_html_url_versioned" content="https://hwong23.github.io/fna-dd-f2-e2/v/71bfd461cb2255cd44533135db7734b0588b06c4/" />
+  <meta name="manubot_pdf_url_versioned" content="https://hwong23.github.io/fna-dd-f2-e2/v/71bfd461cb2255cd44533135db7734b0588b06c4/manuscript.pdf" />
   <meta property="og:type" content="article" />
   <meta property="twitter:card" content="summary_large_image" />
   <link rel="icon" type="image/png" sizes="192x192" href="https://manubot.org/favicon-192x192.png" />
@@ -69,13 +69,13 @@ manubot-clear-requests-cache: false
 
 
 
-<small><em>Los productos contractuales (PR0n) de esta etapa([Web](https://hwong23.github.io/fna-dd-f2-e2/v/6f47d6ca3a134be59677738fc535196fc7dbd180/))
+<small><em>Los productos contractuales (PR0n) de esta etapa([Web](https://hwong23.github.io/fna-dd-f2-e2/v/71bfd461cb2255cd44533135db7734b0588b06c4/))
 están basados en el resultado de la consultoría "Arquitectura E-Service",
-[Sharepoint STEF@6f47d6c](https://stefaninilatam.sharepoint.com/:f:/r/sites/PROYECTOARQUITECTURAE-SERVICEFNA/Documentos%20compartidos/General/Repositorio%20SOA/Procesos%20Fase%20II/181-2020.%20E-SERV.%20Fase%202-ETAPA%200.%20docx?csf=1&web=1&e=BiNcBP)
+[Sharepoint STEF@71bfd46](https://stefaninilatam.sharepoint.com/:f:/r/sites/PROYECTOARQUITECTURAE-SERVICEFNA/Documentos%20compartidos/General/Repositorio%20SOA/Procesos%20Fase%20II/181-2020.%20E-SERV.%20Fase%202-ETAPA%200.%20docx?csf=1&web=1&e=BiNcBP)
 del July 3, 2023.
 </em></small>
 
-|    **Versión** del producto 1.6f47d6c de 03 Jul 2023
+|    **Versión** del producto 1.71bfd46 de 03 Jul 2023
 
 
 
@@ -141,7 +141,7 @@ Entrega de los productos de la Etapa 2, PR04. Definición de roles y responsabil
 | Palabras clave | SOA, E-Service, FNA, Análisis de brecha, GAP, Comparativa              |
 | Autor          |                            |
 | Fuente         |                            |
-| Versión        | 1.6f47d6c del 03 Jul 2023 |
+| Versión        | 1.71bfd46 del 03 Jul 2023 |
 | Vínculos       | [N003a Vista Segmento SOA FNA](N03a%a20Vsta%20aSegenta%20SOA%20FNA.md) |
 
 <br>
@@ -182,7 +182,7 @@ tablenos-caption-name: Tabla
 >
 >    03 Jul 2023
 >
->    **Versión** 1.6f47d6c
+>    **Versión** 1.71bfd46
 
 <br>
 
@@ -263,7 +263,7 @@ tablenos-caption-name: Tabla
 >
 >    03 Jul 2023
 >
->    **Versión** 1.6f47d6c
+>    **Versión** 1.71bfd46
 
 <br>
 
@@ -309,7 +309,7 @@ _Fuente: Elaboración propia._
 | Palabras clave | SOA, Contexto, Áreas, Procesos, Objetivo                      |
 | Autor          |                                                               |
 | Fuente         |                                                               |
-| Versión        | **1.6f47d6c** del 03 Jul 2023                          |
+| Versión        | **1.71bfd46** del 03 Jul 2023                          |
 | Vínculos       | [Ejecución Plan de Trabajo SOA](onenote:#N001d.sharepoint.com); [Procesos de Negocio FNA](onenote:#N003a.com)|
 
 <br>
@@ -413,7 +413,7 @@ _Fuente: ae_fna_as_is.archimate._
 |Palabras clave|SOA, Gobierno, Riesgo, Objetivos de negocio|
 |Autor||
 |Fuente||
-|Version|**6f47d6c** del 03 Jul 2023|
+|Version|**71bfd46** del 03 Jul 2023|
 |Vínculos|[Fase 2 PR6 Gobierno SOA](N03a%a20Vsta%20aSegenta%20SOA%20FNA.md)|
 
 <br>
@@ -456,7 +456,7 @@ El modelo de colaboración muestra cómo la Oficina y el Gobierno 0.6 se relacio
 | Palabras clave | SOA, Riesgo técnico, Modelo, Arquitectura                     |
 | Autor          |                                                               |
 | Fuente         |                                                               |
-| Versión        | **1.6f47d6c** del 03 Jul 2023                          |
+| Versión        | **1.71bfd46** del 03 Jul 2023                          |
 | Vínculos       | [Ejecución Plan de Trabajo SOA](onenote:#N001d.sharepoint.com); [Procesos de Negocio FNA](onenote:#N003a.com)|
 
 <br>
@@ -523,6 +523,7 @@ _Fuente: Diagnóstico SOA. E-Service (2022)._
 
 <br>
 
+    Importante: Para todos los riesgos, la herramienta de implementación del repositorio de arquitecrtura del FNA (que para el proyecto es Mega) debe tener la capacidad de generar la documentación técnica del riesgo a partir de su modelo. 
 
 ## Modelo Simple de Riesgo de Arquitectura
 Desarrollamos un modelo de riesgo tomando como entrada un caso particular del FNA descrito anteriomente.
@@ -535,7 +536,12 @@ _Fuente: elaboración propia._
 
 Para la identificación y trazabilidad del estado de un riesgo necesitamos etiquetar con una identificación única a cada riesgo gestionado. En el modelo que presentamos el identificador es el 001.
 
+    Importante: Para todos los riesgos, la herramienta de implementación del repositorio de arquitecrtura del FNA (que para el proyecto es Mega) debe tener la capacidad de generar la documentación técnica del riesgo a partir de su modelo. 
 
+<br>
+
+<div style="page-break-before: always;"></div>
+\newpage
 
 # Referencias {.page_break_before}
 <!-- Explicitly insert bibliography here -->
