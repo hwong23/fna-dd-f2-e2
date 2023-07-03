@@ -26,8 +26,8 @@ header-includes: |
   <meta name="dc.date" content="2023-07-03" />
   <meta name="citation_publication_date" content="2023-07-03" />
   <meta property="article:published_time" content="2023-07-03" />
-  <meta name="dc.modified" content="2023-07-03T16:15:13+00:00" />
-  <meta property="article:modified_time" content="2023-07-03T16:15:13+00:00" />
+  <meta name="dc.modified" content="2023-07-03T16:19:46+00:00" />
+  <meta property="article:modified_time" content="2023-07-03T16:19:46+00:00" />
   <meta name="dc.language" content="en-US" />
   <meta name="citation_language" content="en-US" />
   <meta name="dc.relation.ispartof" content="Manubot" />
@@ -48,9 +48,9 @@ header-includes: |
   <meta name="citation_fulltext_html_url" content="https://hwong23.github.io/fna-dd-f2-e2/" />
   <meta name="citation_pdf_url" content="https://hwong23.github.io/fna-dd-f2-e2/manuscript.pdf" />
   <link rel="alternate" type="application/pdf" href="https://hwong23.github.io/fna-dd-f2-e2/manuscript.pdf" />
-  <link rel="alternate" type="text/html" href="https://hwong23.github.io/fna-dd-f2-e2/v/599f0c4582bf98c96acdaa05787ca8c7a10c9b9a/" />
-  <meta name="manubot_html_url_versioned" content="https://hwong23.github.io/fna-dd-f2-e2/v/599f0c4582bf98c96acdaa05787ca8c7a10c9b9a/" />
-  <meta name="manubot_pdf_url_versioned" content="https://hwong23.github.io/fna-dd-f2-e2/v/599f0c4582bf98c96acdaa05787ca8c7a10c9b9a/manuscript.pdf" />
+  <link rel="alternate" type="text/html" href="https://hwong23.github.io/fna-dd-f2-e2/v/3987cda446d659806640085d4f723edc3ede1dcb/" />
+  <meta name="manubot_html_url_versioned" content="https://hwong23.github.io/fna-dd-f2-e2/v/3987cda446d659806640085d4f723edc3ede1dcb/" />
+  <meta name="manubot_pdf_url_versioned" content="https://hwong23.github.io/fna-dd-f2-e2/v/3987cda446d659806640085d4f723edc3ede1dcb/manuscript.pdf" />
   <meta property="og:type" content="article" />
   <meta property="twitter:card" content="summary_large_image" />
   <link rel="icon" type="image/png" sizes="192x192" href="https://manubot.org/favicon-192x192.png" />
@@ -69,13 +69,13 @@ manubot-clear-requests-cache: false
 
 
 
-<small><em>Los productos contractuales (PR0n) de esta etapa([Web](https://hwong23.github.io/fna-dd-f2-e2/v/599f0c4582bf98c96acdaa05787ca8c7a10c9b9a/))
+<small><em>Los productos contractuales (PR0n) de esta etapa([Web](https://hwong23.github.io/fna-dd-f2-e2/v/3987cda446d659806640085d4f723edc3ede1dcb/))
 están basados en el resultado de la consultoría "Arquitectura E-Service",
-[Sharepoint STEF@599f0c4](https://stefaninilatam.sharepoint.com/:f:/r/sites/PROYECTOARQUITECTURAE-SERVICEFNA/Documentos%20compartidos/General/Repositorio%20SOA/Procesos%20Fase%20II/181-2020.%20E-SERV.%20Fase%202-ETAPA%200.%20docx?csf=1&web=1&e=BiNcBP)
+[Sharepoint STEF@3987cda](https://stefaninilatam.sharepoint.com/:f:/r/sites/PROYECTOARQUITECTURAE-SERVICEFNA/Documentos%20compartidos/General/Repositorio%20SOA/Procesos%20Fase%20II/181-2020.%20E-SERV.%20Fase%202-ETAPA%200.%20docx?csf=1&web=1&e=BiNcBP)
 del July 3, 2023.
 </em></small>
 
-|    **Versión** del producto 1.599f0c4 de 03 Jul 2023
+|    **Versión** del producto 1.3987cda de 03 Jul 2023
 
 
 
@@ -141,7 +141,7 @@ Entrega de los productos de la Etapa 2, PR04. Definición de roles y responsabil
 | Palabras clave | SOA, E-Service, FNA, Análisis de brecha, GAP, Comparativa              |
 | Autor          |                            |
 | Fuente         |                            |
-| Versión        | 1.599f0c4 del 03 Jul 2023 |
+| Versión        | 1.3987cda del 03 Jul 2023 |
 | Vínculos       | [N003a Vista Segmento SOA FNA](N03a%a20Vsta%20aSegenta%20SOA%20FNA.md) |
 
 <br>
@@ -182,7 +182,7 @@ tablenos-caption-name: Tabla
 >
 >    03 Jul 2023
 >
->    **Versión** 1.599f0c4
+>    **Versión** 1.3987cda
 
 <br>
 
@@ -266,7 +266,7 @@ tablenos-caption-name: Tabla
 >
 >    03 Jul 2023
 >
->    **Versión** 1.599f0c4
+>    **Versión** 1.3987cda
 
 <br>
 
@@ -312,7 +312,7 @@ _Fuente: Elaboración propia._
 | Palabras clave | SOA, Contexto, Áreas, Procesos, Objetivo                      |
 | Autor          |                                                               |
 | Fuente         |                                                               |
-| Versión        | **1.599f0c4** del 03 Jul 2023                          |
+| Versión        | **1.3987cda** del 03 Jul 2023                          |
 | Vínculos       | [Ejecución Plan de Trabajo SOA](onenote:#N001d.sharepoint.com); [Procesos de Negocio FNA](onenote:#N003a.com)|
 
 <br>
@@ -416,7 +416,7 @@ _Fuente: ae_fna_as_is.archimate._
 |Palabras clave|SOA, Gobierno, Riesgo, Objetivos de negocio|
 |Autor||
 |Fuente||
-|Version|**599f0c4** del 03 Jul 2023|
+|Version|**3987cda** del 03 Jul 2023|
 |Vínculos|[Fase 2 PR6 Gobierno SOA](N03a%a20Vsta%20aSegenta%20SOA%20FNA.md)|
 
 <br>
@@ -459,7 +459,7 @@ El modelo de colaboración muestra cómo la Oficina y el Gobierno 0.6 se relacio
 | Palabras clave | SOA, Riesgo técnico, Modelo, Arquitectura                     |
 | Autor          |                                                               |
 | Fuente         |                                                               |
-| Versión        | **1.599f0c4** del 03 Jul 2023                          |
+| Versión        | **1.3987cda** del 03 Jul 2023                          |
 | Vínculos       | [Ejecución Plan de Trabajo SOA](onenote:#N001d.sharepoint.com); [Procesos de Negocio FNA](onenote:#N003a.com)|
 
 <br>
@@ -559,4 +559,7 @@ Para la identificación y trazabilidad del estado de un riesgo necesitamos etiqu
 <div id="refs">E-Service. Hoja de Ruta e Iniciativas. Etapa III. (2023).</div>
 <div id="refs">TOGAF 9.1. Risk Management (2023). En https://pubs.opengroup.org/architecture/togaf9-doc/arch/chap27.html</div>
 
+
+::: {#refs}
+:::
 
