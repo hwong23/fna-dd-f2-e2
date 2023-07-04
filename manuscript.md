@@ -6,7 +6,7 @@ keywords:
 - gobierno
 - FNA
 lang: en-US
-date-meta: '2023-07-03'
+date-meta: '2023-07-04'
 author-meta:
 - Harry Wong, ing.
 - Wilson Morales, ing.
@@ -23,11 +23,11 @@ header-includes: |
   <meta name="citation_title" content="Etapa 2. Ejecución Gobierno. Incremento 1" />
   <meta property="og:title" content="Etapa 2. Ejecución Gobierno. Incremento 1" />
   <meta property="twitter:title" content="Etapa 2. Ejecución Gobierno. Incremento 1" />
-  <meta name="dc.date" content="2023-07-03" />
-  <meta name="citation_publication_date" content="2023-07-03" />
-  <meta property="article:published_time" content="2023-07-03" />
-  <meta name="dc.modified" content="2023-07-03T19:29:00+00:00" />
-  <meta property="article:modified_time" content="2023-07-03T19:29:00+00:00" />
+  <meta name="dc.date" content="2023-07-04" />
+  <meta name="citation_publication_date" content="2023-07-04" />
+  <meta property="article:published_time" content="2023-07-04" />
+  <meta name="dc.modified" content="2023-07-04T12:09:42+00:00" />
+  <meta property="article:modified_time" content="2023-07-04T12:09:42+00:00" />
   <meta name="dc.language" content="en-US" />
   <meta name="citation_language" content="en-US" />
   <meta name="dc.relation.ispartof" content="Manubot" />
@@ -48,9 +48,9 @@ header-includes: |
   <meta name="citation_fulltext_html_url" content="https://hwong23.github.io/fna-dd-f2-e2/" />
   <meta name="citation_pdf_url" content="https://hwong23.github.io/fna-dd-f2-e2/manuscript.pdf" />
   <link rel="alternate" type="application/pdf" href="https://hwong23.github.io/fna-dd-f2-e2/manuscript.pdf" />
-  <link rel="alternate" type="text/html" href="https://hwong23.github.io/fna-dd-f2-e2/v/dda745db89bc355d3f335c8b4d370614e8f771eb/" />
-  <meta name="manubot_html_url_versioned" content="https://hwong23.github.io/fna-dd-f2-e2/v/dda745db89bc355d3f335c8b4d370614e8f771eb/" />
-  <meta name="manubot_pdf_url_versioned" content="https://hwong23.github.io/fna-dd-f2-e2/v/dda745db89bc355d3f335c8b4d370614e8f771eb/manuscript.pdf" />
+  <link rel="alternate" type="text/html" href="https://hwong23.github.io/fna-dd-f2-e2/v/f166c29093e7522c265eb41f87db42124cecf2e0/" />
+  <meta name="manubot_html_url_versioned" content="https://hwong23.github.io/fna-dd-f2-e2/v/f166c29093e7522c265eb41f87db42124cecf2e0/" />
+  <meta name="manubot_pdf_url_versioned" content="https://hwong23.github.io/fna-dd-f2-e2/v/f166c29093e7522c265eb41f87db42124cecf2e0/manuscript.pdf" />
   <meta property="og:type" content="article" />
   <meta property="twitter:card" content="summary_large_image" />
   <link rel="icon" type="image/png" sizes="192x192" href="https://manubot.org/favicon-192x192.png" />
@@ -69,13 +69,13 @@ manubot-clear-requests-cache: false
 
 
 
-<small><em>Los productos contractuales (PR0n) de esta etapa([Web](https://hwong23.github.io/fna-dd-f2-e2/v/dda745db89bc355d3f335c8b4d370614e8f771eb/))
+<small><em>Los productos contractuales (PR0n) de esta etapa([Web](https://hwong23.github.io/fna-dd-f2-e2/v/f166c29093e7522c265eb41f87db42124cecf2e0/))
 están basados en el resultado de la consultoría "Arquitectura E-Service",
-[Sharepoint STEF@dda745d](https://stefaninilatam.sharepoint.com/:f:/r/sites/PROYECTOARQUITECTURAE-SERVICEFNA/Documentos%20compartidos/General/Repositorio%20SOA/Procesos%20Fase%20II/181-2020.%20E-SERV.%20Fase%202-ETAPA%200.%20docx?csf=1&web=1&e=BiNcBP)
-del July 3, 2023.
+[Sharepoint STEF@f166c29](https://stefaninilatam.sharepoint.com/:f:/r/sites/PROYECTOARQUITECTURAE-SERVICEFNA/Documentos%20compartidos/General/Repositorio%20SOA/Procesos%20Fase%20II/181-2020.%20E-SERV.%20Fase%202-ETAPA%200.%20docx?csf=1&web=1&e=BiNcBP)
+del July 4, 2023.
 </em></small>
 
-|    **Versión** del producto 1.dda745d de 03 Jul 2023
+|    **Versión** del producto 1.f166c29 de 04 Jul 2023
 
 
 
@@ -141,7 +141,7 @@ Entrega de los productos de la Etapa 2, PR04. Definición de roles y responsabil
 | Palabras clave | SOA, E-Service, FNA, Análisis de brecha, GAP, Comparativa              |
 | Autor          |                            |
 | Fuente         |                            |
-| Versión        | 1.dda745d del 03 Jul 2023 |
+| Versión        | 1.f166c29 del 04 Jul 2023 |
 | Vínculos       | [N003a Vista Segmento SOA FNA](N03a%a20Vsta%20aSegenta%20SOA%20FNA.md) |
 
 <br>
@@ -180,9 +180,9 @@ tablenos-caption-name: Tabla
 >
 >    FNA, Stefanini
 >
->    03 Jul 2023
+>    04 Jul 2023
 >
->    **Versión** 1.dda745d
+>    **Versión** 1.f166c29
 
 <br>
 
@@ -199,7 +199,7 @@ El Comité de Arquitectura es la entidad de supervisión ubicada entre la oficin
 ## Contenidos
 1. Modelo operativo del Comité de Gobierno de Arquitectura del FNA: actores, información y procedimientos
 1. Consideraciones para la puesta en marcha del Comité
-1. Aplicaciones de soporte a la Oficina de Arquitecura (Pr02) y a la Vicepresidencia de Tecnología del FNA
+1. Soporte a la Oficina de Arquitecura (Pr02) y a la Vicepresidencia de Tecnología del FNA
 1. Matriz de responsabilidades y procedimiento del Comité de Arquitectura
 1. Métodos de evaluación de arquitecturas para el FNA
 
@@ -222,8 +222,56 @@ Blah blah [soton403913].
 <br>
 
 
-Modelo operativo del Comité
+<div style="page-break-before: always;"></div>
+\newpage
 
+| Tema           | Comité de Arquitectura del FNA: **Descripción del Comité de Gobierno de Arquitecturas del FNA** |
+|----------------|--------------------------------------------------------------|
+| Palabras clave | SOA, Comité arquitectura, Procesos, Objetivos, Modelo        |
+| Autor          |                                                              |
+| Fuente         |                                                              |
+| Versión        | **1.f166c29** del 04 Jul 2023                         |
+| Vínculos       | [Ejecución Plan de Trabajo SOA](onenote:#N001d.sharepoint.com); [Procesos de Negocio FNA](onenote:#N003a.com)|
+
+<br>
+
+# Modelo operativo del Comité de Arquitectura del FNA
+A partir del modelo inicial del Comité descrito en [Descripción del Comité de Gobierno de Arquitecturas del FNA](<../../fna-dd-f2-e1/content/03n.1.descripcion comite.md>), en esta sección ampliaremos detalles de los conceptos oprativos y de la puesta en marcha del Comité dentro del FNA. 
+
+Partimos de la definición de Comité de Arquitectura enunciada para el FNA.
+
+    El Comité de Arquitectura del FNA (CAF) materializa el gobierno SOA. Lleva a cabo los procesos de aprobación de las arquitecturas y contribuye al gobierno al realizar tareas de revisión, decisión, seguimiento (en menor grado) y divulgación de trabajos de arquitectura. 
+
+De esta definición destacamos el rol clave que el Comité juega para el gobierno y describiremos los procesos operativos que este debe realizar y que lo constituyen como tal.
+
+## Procesos del Comité de Arquitectura FNA (CAF)
+Para cumplir sus objetivos y funciones (ver [Objetivos Específicos del CAF](<04.a1.modelo comite.md>) debemos definir los procesos que este debe realizar.
+
+El Comité realiza los procesos siguientes
+1. Aprobar y publicar las arquitecturas resultantes (sean reformas, adaptaciones, migraciones, o arreglos), 
+1. Evaluar las arquitecturas resultantes y la adherencia a la arquitectura de referencia
+1. Determinar las acciones que los interesados de las nuevas arquitecturas, o sus transiciones, deben conocer para la corrección de las inconformidades
+
+<br>
+
+El la siguiente diagrama resumimos la actuación y colaboración del modelo operativo del Comité de Arquitectura. 
+
+![Comité de Arquitectura en colaboración y cumplimiento con otras áreas del FNA.](images/comiteModelo.png){#fig: width=}
+
+_Fuente: elaboración propia._
+
+<br>
+
+## Conformación del Comité para el Gobierno SOA del FNA
+El equipo de trabajo requerido conforme el modelo de gobierno SOA presentado aquí se compone del capital humano en los roles de gestión de la tecnología y arquitectura en los ámbitos de diseño de servicios SOA y componentes de software, infraestructura tecnológica y redes, aplicaciones de solución y herramientas de software, y del especialista de las estructuras de datos e información del negocio. Estos recursos deben ser preferiblemente propios de la organización (no terceros) debido a la gestión de conocimiento del _activo más importante del gobierno SOA, la arquitectura de referencia y los vínculos de esta con los contextos de negocio y TI_.
+
+![](images/comite.png)
+
+[Imagen 2.]() Roles y Grupos de trabajo del gobierno SOA del FNA.
+
+_Fuente: elaboración propia._
+
+<br>
 
 
 La evaluación de arquitectura queda ordenada en 3 aspectos:
@@ -264,9 +312,9 @@ tablenos-caption-name: Tabla
 >
 >    FNA, Stefanini
 >
->    03 Jul 2023
+>    04 Jul 2023
 >
->    **Versión** 1.dda745d
+>    **Versión** 1.f166c29
 
 <br>
 
@@ -312,7 +360,7 @@ _Fuente: Elaboración propia._
 | Palabras clave | SOA, Contexto, Áreas, Procesos, Objetivo                      |
 | Autor          |                                                               |
 | Fuente         |                                                               |
-| Versión        | **1.dda745d** del 03 Jul 2023                          |
+| Versión        | **1.f166c29** del 04 Jul 2023                          |
 | Vínculos       | [Ejecución Plan de Trabajo SOA](onenote:#N001d.sharepoint.com); [Procesos de Negocio FNA](onenote:#N003a.com)|
 
 <br>
@@ -416,7 +464,7 @@ _Fuente: ae_fna_as_is.archimate._
 |Palabras clave|SOA, Gobierno, Riesgo, Objetivos de negocio|
 |Autor||
 |Fuente||
-|Version|**dda745d** del 03 Jul 2023|
+|Version|**f166c29** del 04 Jul 2023|
 |Vínculos|[Fase 2 PR6 Gobierno SOA](N03a%a20Vsta%20aSegenta%20SOA%20FNA.md)|
 
 <br>
@@ -459,7 +507,7 @@ El modelo de colaboración muestra cómo la Oficina y el Gobierno 0.6 se relacio
 | Palabras clave | SOA, Riesgo técnico, Modelo, Arquitectura                     |
 | Autor          |                                                               |
 | Fuente         |                                                               |
-| Versión        | **1.dda745d** del 03 Jul 2023                          |
+| Versión        | **1.f166c29** del 04 Jul 2023                          |
 | Vínculos       | [Ejecución Plan de Trabajo SOA](onenote:#N001d.sharepoint.com); [Procesos de Negocio FNA](onenote:#N003a.com)|
 
 <br>
