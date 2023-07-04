@@ -26,8 +26,8 @@ header-includes: |
   <meta name="dc.date" content="2023-07-04" />
   <meta name="citation_publication_date" content="2023-07-04" />
   <meta property="article:published_time" content="2023-07-04" />
-  <meta name="dc.modified" content="2023-07-04T17:35:00+00:00" />
-  <meta property="article:modified_time" content="2023-07-04T17:35:00+00:00" />
+  <meta name="dc.modified" content="2023-07-04T17:42:42+00:00" />
+  <meta property="article:modified_time" content="2023-07-04T17:42:42+00:00" />
   <meta name="dc.language" content="en-US" />
   <meta name="citation_language" content="en-US" />
   <meta name="dc.relation.ispartof" content="Manubot" />
@@ -48,9 +48,9 @@ header-includes: |
   <meta name="citation_fulltext_html_url" content="https://hwong23.github.io/fna-dd-f2-e2/" />
   <meta name="citation_pdf_url" content="https://hwong23.github.io/fna-dd-f2-e2/manuscript.pdf" />
   <link rel="alternate" type="application/pdf" href="https://hwong23.github.io/fna-dd-f2-e2/manuscript.pdf" />
-  <link rel="alternate" type="text/html" href="https://hwong23.github.io/fna-dd-f2-e2/v/bc98c73e77bb71a9b9335f006c43eb33b160489e/" />
-  <meta name="manubot_html_url_versioned" content="https://hwong23.github.io/fna-dd-f2-e2/v/bc98c73e77bb71a9b9335f006c43eb33b160489e/" />
-  <meta name="manubot_pdf_url_versioned" content="https://hwong23.github.io/fna-dd-f2-e2/v/bc98c73e77bb71a9b9335f006c43eb33b160489e/manuscript.pdf" />
+  <link rel="alternate" type="text/html" href="https://hwong23.github.io/fna-dd-f2-e2/v/37f99394d052116e54f14b1fbe52feddb6e90690/" />
+  <meta name="manubot_html_url_versioned" content="https://hwong23.github.io/fna-dd-f2-e2/v/37f99394d052116e54f14b1fbe52feddb6e90690/" />
+  <meta name="manubot_pdf_url_versioned" content="https://hwong23.github.io/fna-dd-f2-e2/v/37f99394d052116e54f14b1fbe52feddb6e90690/manuscript.pdf" />
   <meta property="og:type" content="article" />
   <meta property="twitter:card" content="summary_large_image" />
   <link rel="icon" type="image/png" sizes="192x192" href="https://manubot.org/favicon-192x192.png" />
@@ -69,13 +69,13 @@ manubot-clear-requests-cache: false
 
 
 
-<small><em>Los productos contractuales (PR0n) de esta etapa([Web](https://hwong23.github.io/fna-dd-f2-e2/v/bc98c73e77bb71a9b9335f006c43eb33b160489e/))
+<small><em>Los productos contractuales (PR0n) de esta etapa([Web](https://hwong23.github.io/fna-dd-f2-e2/v/37f99394d052116e54f14b1fbe52feddb6e90690/))
 están basados en el resultado de la consultoría "Arquitectura E-Service",
-[Sharepoint STEF@bc98c73](https://stefaninilatam.sharepoint.com/:f:/r/sites/PROYECTOARQUITECTURAE-SERVICEFNA/Documentos%20compartidos/General/Repositorio%20SOA/Procesos%20Fase%20II/181-2020.%20E-SERV.%20Fase%202-ETAPA%200.%20docx?csf=1&web=1&e=BiNcBP)
+[Sharepoint STEF@37f9939](https://stefaninilatam.sharepoint.com/:f:/r/sites/PROYECTOARQUITECTURAE-SERVICEFNA/Documentos%20compartidos/General/Repositorio%20SOA/Procesos%20Fase%20II/181-2020.%20E-SERV.%20Fase%202-ETAPA%200.%20docx?csf=1&web=1&e=BiNcBP)
 del July 4, 2023.
 </em></small>
 
-|    **Versión** del producto 1.bc98c73 de 04 Jul 2023
+|    **Versión** del producto 1.37f9939 de 04 Jul 2023
 
 
 
@@ -141,7 +141,7 @@ Entrega de los productos de la Etapa 2, PR04. Definición de roles y responsabil
 | Palabras clave | SOA, E-Service, FNA, Análisis de brecha, GAP, Comparativa              |
 | Autor          |                            |
 | Fuente         |                            |
-| Versión        | 1.bc98c73 del 04 Jul 2023 |
+| Versión        | 1.37f9939 del 04 Jul 2023 |
 | Vínculos       | [N003a Vista Segmento SOA FNA](N03a%a20Vsta%20aSegenta%20SOA%20FNA.md) |
 
 <br>
@@ -182,7 +182,7 @@ tablenos-caption-name: Tabla
 >
 >    04 Jul 2023
 >
->    **Versión** 1.bc98c73
+>    **Versión** 1.37f9939
 
 <br>
 
@@ -227,7 +227,7 @@ _Fuente: Elaboración propia._
 | Palabras clave | SOA, Comité arquitectura, Procesos, Objetivos, Modelo        |
 | Autor          |                                                              |
 | Fuente         |                                                              |
-| Versión        | **1.bc98c73** del 04 Jul 2023                         |
+| Versión        | **1.37f9939** del 04 Jul 2023                         |
 | Vínculos       | [Ejecución Plan de Trabajo SOA](onenote:#N001d.sharepoint.com); [Procesos de Negocio FNA](onenote:#N003a.com)|
 
 <br>
@@ -286,7 +286,7 @@ Estos recursos deben funcionar como recursos propios de la organización, sin pe
 | Palabras clave | SOA, Evaluación de arquitectura, ATAM, Método  |
 | Autor          |                                                |
 | Fuente         |                                                |
-| Versión        | **1.bc98c73** del 04 Jul 2023           |
+| Versión        | **1.37f9939** del 04 Jul 2023           |
 | Vínculos       | [Ejecución Plan de Trabajo SOA](onenote:#N001d.sharepoint.com); [Procesos de Negocio FNA](onenote:#N003a.com) |
 
 <br>
@@ -300,6 +300,26 @@ El objetivo de los evaluadores (arquitectos de la oficina, normalmente) proporci
     La evaluación de arquitectura, como está definicda aquí, proporcionen garantías a los ingenieros, desarrolladores, proveedores y fábricas de software del FNA de que la diseño elegido cumplirá con los requisitos de calidad funcionales y sistémicos (no funcionales).
 
     Importante. Una máxima de la evaluación de arquitectura es que debe traer más beneficios que costos.
+
+En este aparte desarrollaremos el método de evaluación de arquitecturas acondicionado para la Oficina y el Comité de Arquitectura (CAF) del Fondo, tal que cumpla con las características determinadas en ([Características del Método de Evaluación de Arquitecturas](../../fna-dd-f2-e1/content/03n.3.evaluacion.md)) para esta herramienta.
+
+Las características que el método de evaluación debe cumplir son las indicadas en la siguiente table.
+
+| **1. Organización** |                                                          |
+|---------------------|----------------------------------------------------------|
+|                     | 1. Riesgos técnicos                                      |
+|                     | 2. Puntos de Sensibilidad al Cambio                      |
+|                     | 3. Compensaciones                                        |
+|                     | 4. Costo / Beneficio                                     |
+|                     |                                                          |
+| **2. Elementos**    |                                                          |
+|                     | 1. Escenarios de calidad                                 |
+|                     | 2. Sistema de puntuación                                 |
+|                     | 3. Árbol de utilidad (diversificación)                   |
+
+Table: Características que cumple el método de evaluación de arquitectura (MEVFNA) seleccionado para el FNA. {#tbl:atam-id}
+
+<br>
 
 # Evaluación Basda en Escenarios (ASAM)
 La evaluación por escenarios (ASAM, por sus siglas en inglés) basado en ATAM del Open Group, ofrece una manera efectiva (en compración con otros métodos [^evalcomp]) de encontrar el valor de aptitud de una arquitectura de servicios o de software respecto a atributos de calidad competitivos. 
@@ -380,42 +400,21 @@ _Fuente: ASAM. Department of CSE, SCSVMV University._
 <div style="page-break-before: always;"></div>
 \newpage
 
-| Tema           | Gobierno SOA del FNA: **Proceso de alineación de arquitecturas FNA**  |
+| Tema           | Gobierno SOA del FNA: **Proceso de soporte y alineación de arquitecturas con la Oficina FNA**  |
 |----------------|-----------------------------------------------------------------------|
-| Palabras clave | SOA, Evaluación de arquitectura, ATAM, Método  |
+| Palabras clave | SOA, Evaluación de arquitectura, ASAM, Método  |
 | Autor          |                                                |
 | Fuente         |                                                |
-| Versión        | **1.bc98c73** del 04 Jul 2023           |
+| Versión        | **1.37f9939** del 04 Jul 2023           |
 | Vínculos       | [Ejecución Plan de Trabajo SOA](onenote:#N001d.sharepoint.com); [Procesos de Negocio FNA](onenote:#N003a.com) |
 
 <br>
 
-# Método de Evaluación de Arquitecturas para el FNA
-En este aparte desarrollaremos el método de evaluación de arquitecturas acondicionado para la Oficina y el Comité de Arquitectura (CAF) del Fondo, tal que cumpla con las características determinadas en ([Características del Método de Evaluación de Arquitecturas](../../fna-dd-f2-e1/content/03n.3.evaluacion.md)) para esta herramienta.
-
-Las características que el método de evaluación debe cumplir son las indicadas en la siguiente table.
-
-| **1. Organización** |                                                          |
-|---------------------|----------------------------------------------------------|
-|                     | 1. Riesgos técnicos                                      |
-|                     | 2. Puntos de Sensibilidad al Cambio                      |
-|                     | 3. Compensaciones                                        |
-|                     | 4. Costo / Beneficio                                     |
-|                     |                                                          |
-| **2. Elementos**    |                                                          |
-|                     | 1. Escenarios de calidad                                 |
-|                     | 2. Sistema de puntuación                                 |
-|                     | 3. Árbol de utilidad (diversificación)                   |
-
-Table: Características que cumple el método de evaluación de arquitectura (MEVFNA) seleccionado para el FNA. {#tbl:atam-id}
-
-<br>
-
-# Pasos del Método de Evaluación para el FNA
+# Proceso de soporte y alineación de arquitecturas con la Oficina FNA
 ## 1. Identificar y priorizar los casos de uso significativos
 La primera tarea que debe ser realizada durante la definición de la arquitectura del proyecto es identificar los requerimientos funcionales y no funcionales que son significativos para la la arquitectura objetivo. El capítulo de visión dentro de la [Especificación Trabajo de Arquitectura](../../fna-dd-f2-e1/content/02n.2a.oficina.md) dada, más los requerimientos definidos en la etapa de levantamiento de los leideres de grupo del FNA son los insumos que le permiten al arquitecto involucrado identificar aquellos requerimientos que influencian la arquitectura de manera significativa.
 
-Los requerimientos identificados como significativos son los que se documentan en la [vista de casos de uso](https://stefaninilatam.sharepoint.com/SitePages/Home.aspx) del documento de arquitectura. 
+Los requerimientos identificados como significativos son los que se documentan en la [vista de casos de uso](https://stefaninilASAM.sharepoint.com/SitePages/Home.aspx) del documento de arquitectura. 
 
 ## 2. Establecer la arquitectura candidata
 El propósito de esta actividad es definir el bosquejo inicial de la arquitectura del sistema. Esta actividad se basa en revisar las experiencias pasadas de la organización (Revisión de la base de datos de conocimiento), la arquitectura candidata toma en cuenta los requerimientos funcionales y no funcionales (disponibilidad, desempeño, escalabilidad) de el sistema.
@@ -424,10 +423,10 @@ Ej. Una arquitectura en N-capas donde la aplicación es WEB-enabled, que probabl
 
 Para seleccionar la arquitectura se debe utilizar el proceso de PR-TDEC-001-Toma de Decisiones, dado que es necesario que el arquitecto plantee más de una alternativa de solución, defina escenarios de operación del sistema, defina criterios, evalúe y documente la decisión final.
 
-Expandir/Definir el modelo de despliegue inicial  
+/Definir el modelo de despliegue inicial  
 En este punto se define un diagrama de alto nivel de despliegue del nuevo sistema. En este diagrama se muestran los diferentes nodos en los cuales va a operar el nuevo sistema, así como los posibles escenarios de infraestructura en que se va a ejecutar el nuevo sistema.
 
-## Expandir/Identificar los elementos claves de diseño en la arquitectura
+## Identificar los elementos claves de diseño en la arquitectura
 A partir de los documentos de requerimientos (Visión, Casos de Uso, Glosarios, Requerimientos no funcionales) el arquitecto puede extraer los elementos técnicos y conceptuales claves de la solución. En este estado, es importante definir los elementos de vocabulario comunes al proyecto en la fase implementación.
 Algunos ejemplos de elementos claves de la solución son:
 
@@ -439,7 +438,7 @@ Históricos
 Seguridad
 Auditoría
 Tolerancia a Fallos.
-ExpandirRefinar el modelo de análisis.  
+Refinar el modelo de análisis.  
 El objetivo de esta actividad es complementar y refinar el análisis realizado para los casos de uso identificados en el paso 1.
 
 En este punto se vincula el modelo de análisis de los casos de uso significativos elaborados en la etapa de análisis del proyecto.
@@ -448,7 +447,7 @@ Los elementos de análisis son todas las clases de análisis involucradas en la 
 
 El modelo de análisis puede ser reutilizado para muchas diferentes implementaciones. Y la definición para sus componentes debe ser administrada por el área de procesos.
 
-## Expandir/Elaborar el modelo de diseño 
+## Elaborar el modelo de diseño 
 Una vez que las realizaciones de los casos de uso han sido documentadas en el modelo de análisis, es tiempo de profundizar y bajar al diseño concreto de los componentes.
 
 Mientras que el modelo de análisis es abstracto, el modelo del diseño debe estar mucho más cerca de la implementación real. El arquitecto de software necesita identificar una tecnología para implentar la solución. El arquitecto debe estar en capacidad de diseñar los mecanismos, tomando ventaja de los elementos que le brinda la tecnología.
@@ -476,29 +475,29 @@ Durante esta fase el arquitecto también completa un prototipo de operación del
 Establecer el modelo de paquetes y divisiones del sistema.
 
 El modelo de implementación es el que contiene el código fuente del sistema, como labor del diseño de la arquitectura se debe definir la estructura de los mismos, y publicarla para uso del equipo de trabajo del proyecto.
-ExpandirDocumentar los mecanismos de operación de los elementos claves.  
+Documentar los mecanismos de operación de los elementos claves.  
 El propósito de esta actividad es dejar en papel las guías de trabajo para los mecanismos que requiere el sistema, se trata de documentar las soluciones técnicas a los elementos claves del desarrollo definidos en el paso 4 de este procedimiento,
 
 Para la documentación de estos mecanismos el arquitecto debe utilizar los artefactos de UML que considere necesarios para especificar la solución que le sirva de guía a los diseñadores y desarrolladores para ejecutar el desarrollo. Para el diseño de los mecanismos se utiliza el procedimiento de diseño (4.3 Realizar Diseño).
 
 Por ejemplo, para el caso de concurrencia el arquitecto puede elaborar un modelo de despliegue, donde el arquitecto ilustra, por ejemplo, que la solución maneja un cluster para balanceo de carga.
 
-## ExpandirElaborar la estrategia de implementación  
+## Elaborar la estrategia de implementación  
 Como parte importante de la arquitectura, está la definición de la estrategia de desarrollo del proyecto, se trata de definir la forma como se debe priorizar los diferentes elementos y componentes del desarrollo de tal forma que se cumplan los objetivos del proyecto. La estrategia es el mecanismo con el que cuenta el arquitecto para mitigar los riesgos desde la visión técnica del proyecto.
 
 Cuando se trata de proyectos donde se desconoce el negocio y el grupo de trabajo desconoce la tecnología, la decisión sobre la estrategia de desarrollo es vital para el proyecto, por esta razón se deben plantear diferentes alternativas, definir criterios de selección, evaluarlas y documentar la alternativa ganadora, en este punto se debe hacer uso del proceso PR-TDEC-001-Toma de Decisiones.
 
-## Expandir/Solicitar Revisión de la arquitectura - ATAM  
-El Gerente o el Arquitecto del Proyecto debe someter el diseño al comité de Arquitectura quienes realizarán la revisión correspondiente aplicando el Método ATAM (Architecture Tradeoff Analysis Method).
+## Solicitar Revisión de la arquitectura - ASAM
+El Gerente o el Arquitecto del Proyecto debe someter el diseño al comité de Arquitectura quienes realizarán la revisión correspondiente aplicando el Método ASAM (Architecture Scenario Analysis Method).
 
-## Expandir/Planeación de la evaluación  
-El equipo evaluador se reúne con los principales stakeholders del proyecto a evaluar para crear un plan de evaluación. Las personas que participan en este paso son el gerente del proyecto cliente, y líder de equipo ATAM.
-ExpandirPresentación de proceso ATAM  
-El equipo evaluador hace una presentación del proceso ATAM y de las actividades que se llevarán a cabo para ejecutarlo. Para esto se debe contar con el proceso ATAM utilizando el documento (PT-INGE-037-Evaluación ATAM) y realizar la presentación de evaluación ATAM (PT-INGE-034-Presentación ATAM HBT). Luego de realizar la presentación los stakeholders estarán preparados para la evaluación.
+## Planeación de la evaluación  
+El equipo evaluador se reúne con los principales stakeholders del proyecto a evaluar para crear un plan de evaluación. Las personas que participan en este paso son el gerente del proyecto cliente, y líder de equipo ASAM.
+Presentación de proceso ASAM  
+El equipo evaluador hace una presentación del proceso ASAM y de las actividades que se llevarán a cabo para ejecutarlo. Para esto se debe contar con el proceso ASAM utilizando el documento (PT-INGE-037-Evaluación ASAM) y realizar la presentación de evaluación ASAM (PT-INGE-034-Presentación ASAM HBT). Luego de realizar la presentación los stakeholders estarán preparados para la evaluación.
 
 En esta labor participan el Gerente del proyecto evaluado, Arquitecto del proyecto evaluado, Stakeholders con poder de decisión y el equipo evaluador.
 
-Expandir/Presentación de motivadores de negocio  
+## Presentación de motivadores de negocio  
 El gerente del proyecto que está siendo evaluado hace una presentación de los motivadores de negocio (PT-INGE-032-Plantilla_motivadores_de_negocio). Para esto se hace uso de la plantilla de presentación de motivadores de negocio y como resultado de esta labor se definen:
 
 Los atributos de calidad
@@ -506,7 +505,7 @@ Las restricciones técnicas,económicas, administrativas ó políticas
 Los objetivos de negocio
 Motivadores arquitecturales
 Participan de esta labor el Gerente del proyecto evaluado, el Arquitecto del proyecto evaluado y el equipo evaluador.
-Expandir/Presentación de la arquitectura  
+/Presentación de la arquitectura  
 Teniendo en cuenta la presentación de arquitectura, los atributos de calidad identificados y las restricciones.
 
 El arquitecto del proyecto evaluado hace una presentación de la arquitectura del sistema (PT-INGE-033-Presentación de arquitectura). Debe explicarla con un nivel de detalle suficiente para el tiempo con que se cuenta, la cantidad de diseño elaborado, documentación disponible y naturaleza de los requerimientos.
@@ -517,12 +516,12 @@ Se deben establacer como salida los enfoques arquitecturales, estrategias de sol
 
 En esta labor participan el Gerente del proyecto, el Arquitecto del proyecto evaluado y el equipo evaluador.
 
-## Expandir/Identificar enfoques arquitecturales  
+## Identificar enfoques arquitecturales  
 Teniendo en cuenta la documentación de la arquitectura, la presentación de la arquitectura y los patrones arquitectónicos, en este paso el equipo evaluador se enfoca simplemente en catalogar los patrones y enfoques evidentes. Esta lista es capturada públicamente y sirve para el análisis posterior.
 El equipo evaluador debe obtener los patrones que se usan explícitamente de acuerdo a la presentación de la arquitectura y a la documentación disponible. Además deben analizar la solución para encontrar patrones que no sean mencionados o de los que quizá el arquitecto no es consciente.
 
 Como resultado de este paso se obtiene el catálogo de patrones y los enfoques arquitecturales usados en la solución y participan el Arquitecto del proyecto evaluado y el equipo evaluador.
-ExpandirGenerar árbol de utilidad  
+Generar árbol de utilidad  
 Se tienen en cuenta los atributos de calidad identificados y las presentaciones sobre la arquitectura y los motivadores de negocio 
 
 En este paso trabajan conjuntamente el equipo evaluador, el arquitecto o grupo de arquitectura, el gerente del proyecto y posiblemente un representante del cliente para identificar, priorizar y refinar los atributos de calidad más importantes. Este paso tiene un enfoque Top-Down.
@@ -543,13 +542,13 @@ A partir de la segunda iteración en este paso se realiza una revisión y refina
 
 Como resultado de la generación del árbol, habrá un listado de los escenarios priorizados por importancia y dificultad.
 
-A continuación se muestra un ejemplo del árbol de utilidad
+Más adelante se muestra un ejemplo del árbol de utilidad
 
 
-## Expandir: Definición y priorización de escenarios  
+## Definición y priorización de escenarios  
 Este paso tiene como objetivo reunir todos los stakeholders importantes del proyecto y generar un listado de escenarios para priorizar y analizar posteriormente. Con esta tarea se puede medir la alineación entre el diseño del arquitecto y los deseos reales de los stakeholders.
 
-Dado que esta tarea marca el comienzo de la segunda fase de la evaluación, debe comenzar con un repaso de la metodología ATAM y una guía sobre la generación de escenarios.
+Dado que esta tarea marca el comienzo de la segunda fase de la evaluación, debe comenzar con un repaso de la metodología ASAM y una guía sobre la generación de escenarios.
 Todos los participantes aportan escenarios relacionados con lo que será su interacción con el sistema. Por ejemplo un líder técnico puede referirse a la mantenibilidad, un líder de pruebas sobre la facilidad de realizar pruebas funcionales y vendedor sobre características de rendimiento y flexibilidad que faciliten su tarea.
 Los stakeholders pueden revisar los escenarios y mezclar varios que apunten hacia el mismo objetivo o dividir escenarios que afecten muchos atributos de calidad.
 Con el listado de escenarios preparado, se pasa al proceso de priorización que consiste en asignar a cada stakeholder un número de puntos igual al 30% del número de escenarios redondeado hacia arriba, por ejemplo para 20 escenarios cada usuario tendrá 6 votos. Cada stakeholder debe repartir sus puntos entre los escenarios disponibles de la forma que él quiera, por ejemplo asignando 2 puntos a 3 escenarios o asignar 6 a uno sólo.
@@ -559,7 +558,7 @@ El líder de la evaluación debe comparar los escenarios generados en esta activ
 
 Como resultado de esta labor se obtiene un nuevo grupo de escenarios priorizado y participan los stakeholders representativos del proyecto y el equipo evaluador.
 
-## Expandir: Evaluar arquitectura Vs Escenarios  
+## Evaluar arquitectura Vs Escenarios  
 Teniendo en cuenta el árbol de utilidades, los enfoques y patrones identificados, el formato PT-INGE-031-Análisis arquitectónico de escenarios, los patrones arquitectónicos con sus ventajas y desventajas asociadas y la caracterización de los atributos de calidad, se realizan lo siguiente:
 
 El equipo evaluador selecciona el grupo de escenario más importantes. Debe seleccionar un número de acuerdo al tiempo con que se cuenta para la evaluación y a lo pactado con el cliente.
@@ -572,13 +571,16 @@ Durante el transcurso de la evaluación del escenario los evaluadores documentan
 - No riesgos
 - Puntos sensibles
 - Compensaciones
+
+<br>
+
 Para la evaluación de cada escenario se puede usar el formato "Formato de Análisis Arquitectónico de Escenarios". Para cada escenario analizado, se tienen en cuenta: Decisiones más importantes, Riesgos, No riesgos, Puntos Sensibles, Puntos de Compensación.
-ExpandirConciliación de resultados  
+Conciliación de resultados  
 Teniendo en cuenta el análisis de los escenarios el equipo evaluador revisa con el equipo evaluado una versión preliminar de los hallazgos y realizan una conciliación de éstos. Ambos equipos deben estar de acuerdo en los resultados que se presentarán en la reunión con todos los stakeholders.
 
-En esta labor participan el Gerente del proyecto evaluado, el Arquitecto del proyecto evaluado, el Líder del equipo ATAM y el Líder de la evaluación con el fin de que la información como riesgos, no riesgos, puntos sensibles y puntos de compensación estén completos. 
+En esta labor participan el Gerente del proyecto evaluado, el Arquitecto del proyecto evaluado, el Líder del equipo ASAM y el Líder de la evaluación con el fin de que la información como riesgos, no riesgos, puntos sensibles y puntos de compensación estén completos. 
 
-ExpandirCorrecciones según evaluación  
+## Correcciones según evaluación  
 Teniendo en cuenta el reporte de la evaluación de los escenarios(Riesgos, no riesgos, puntos sensibles, puntos de compensación) y si hay nuevos escenarios/ítems por evaluar El arquitecto realiza los ajustes necesarios para continuar con la evaluación. Estos ajustes pueden ser:
 
 Mejorar la documentación de la arquitectura
@@ -588,23 +590,22 @@ Documentar nuevos artefactos/decisiones
 Etc
 Luego de realizar estas labores se define el plan para la siguiente iteración.
 
-ExpandirPrimera parte de presentación de resultados (hallazgos)  
+Primera parte de presentación de resultados (hallazgos)  
 Teniendo en cuenta la documentación presentada en los pasos anteriores, el equipo evaluador hace una presentación de los hallazgos encontrados y conciliados durante la evaluación.
 
 Como resultado de esta labor se tiene el informe con los resultados de la evaluación (Enfoques arquitecturales documentados, Listado de la lluvia de escenarios y su priorización, Árbol de utilidades, Riesgos, No iesgos, Puntos sensibles y de compensación). Participan de esta labor el equipo Evaluador y el equipo Evaluado.
 
-ExpandirSegunda parte de presentación de resultados (Mitigación de riesgos)  
+Segunda parte de presentación de resultados (Mitigación de riesgos)  
 El arquitecto y el equipo evaluado presentan un listado de las actividades que se usarán para mitigar los hallazgos encontrados por el equipo evaluador.
 
 Como resultado se deben crear las actividades propuestas para mitigar los hallazgos.
 
-## Expandir/Revisión y seguimiento de la arquitectura  
+## Revisión y seguimiento de la arquitectura  
 La definición de la arquitectura es una tarea que se hace durante todo el ciclo del proyecto y su documento está vivo a través de todo el ciclo de vida, aunque su énfasis es en las primeras etapas del proyecto. El arquitecto debe someter su diseño a la revisión de pares para la cual utiliza la lista de chequeo definida en la hoja "Arquitectura" del producto de trabajo PT-INGE-028-Listas de chequeo.
 
 Así mismo el arquitecto es el responsable de hacer seguimiento del cumplimiento de la arquitectura durante todo el proyecto, para esto diligencia la revisión de los documentos de diseño y del documento de arquitectura.
 
-Nota: Tenga en cuenta que el documento de arquitectura resume los temas más relevantes de los productos de trabajo de otras fases del proyecto, en la mayoría de los casos se crean vínculos a los documentos en donde están los productos de trabajo mencionados.
-— HUP. Heinsohn Business Tech.
+**Nota**. Tenga en cuenta que el documento de arquitectura resume los temas más relevantes de los productos de trabajo de otras fases del proyecto, en la mayoría de los casos se crean vínculos a los documentos en donde están los productos de trabajo mencionados.
 
 
 ---
@@ -630,7 +631,7 @@ tablenos-caption-name: Tabla
 >
 >    04 Jul 2023
 >
->    **Versión** 1.bc98c73
+>    **Versión** 1.37f9939
 
 <br>
 
@@ -676,7 +677,7 @@ _Fuente: Elaboración propia._
 | Palabras clave | SOA, Contexto, Áreas, Procesos, Objetivo                      |
 | Autor          |                                                               |
 | Fuente         |                                                               |
-| Versión        | **1.bc98c73** del 04 Jul 2023                          |
+| Versión        | **1.37f9939** del 04 Jul 2023                          |
 | Vínculos       | [Ejecución Plan de Trabajo SOA](onenote:#N001d.sharepoint.com); [Procesos de Negocio FNA](onenote:#N003a.com)|
 
 <br>
@@ -780,7 +781,7 @@ _Fuente: ae_fna_as_is.archimate._
 |Palabras clave|SOA, Gobierno, Riesgo, Objetivos de negocio|
 |Autor||
 |Fuente||
-|Version|**bc98c73** del 04 Jul 2023|
+|Version|**37f9939** del 04 Jul 2023|
 |Vínculos|[Fase 2 PR6 Gobierno SOA](N03a%a20Vsta%20aSegenta%20SOA%20FNA.md)|
 
 <br>
@@ -823,7 +824,7 @@ El modelo de colaboración muestra cómo la Oficina y el Gobierno 0.6 se relacio
 | Palabras clave | SOA, Riesgo técnico, Modelo, Arquitectura                     |
 | Autor          |                                                               |
 | Fuente         |                                                               |
-| Versión        | **1.bc98c73** del 04 Jul 2023                          |
+| Versión        | **1.37f9939** del 04 Jul 2023                          |
 | Vínculos       | [Ejecución Plan de Trabajo SOA](onenote:#N001d.sharepoint.com); [Procesos de Negocio FNA](onenote:#N003a.com)|
 
 <br>
