@@ -26,8 +26,8 @@ header-includes: |
   <meta name="dc.date" content="2023-07-04" />
   <meta name="citation_publication_date" content="2023-07-04" />
   <meta property="article:published_time" content="2023-07-04" />
-  <meta name="dc.modified" content="2023-07-04T12:40:05+00:00" />
-  <meta property="article:modified_time" content="2023-07-04T12:40:05+00:00" />
+  <meta name="dc.modified" content="2023-07-04T15:23:47+00:00" />
+  <meta property="article:modified_time" content="2023-07-04T15:23:47+00:00" />
   <meta name="dc.language" content="en-US" />
   <meta name="citation_language" content="en-US" />
   <meta name="dc.relation.ispartof" content="Manubot" />
@@ -48,9 +48,9 @@ header-includes: |
   <meta name="citation_fulltext_html_url" content="https://hwong23.github.io/fna-dd-f2-e2/" />
   <meta name="citation_pdf_url" content="https://hwong23.github.io/fna-dd-f2-e2/manuscript.pdf" />
   <link rel="alternate" type="application/pdf" href="https://hwong23.github.io/fna-dd-f2-e2/manuscript.pdf" />
-  <link rel="alternate" type="text/html" href="https://hwong23.github.io/fna-dd-f2-e2/v/d2b261b003ef90ac01aff74a07c28bccda560952/" />
-  <meta name="manubot_html_url_versioned" content="https://hwong23.github.io/fna-dd-f2-e2/v/d2b261b003ef90ac01aff74a07c28bccda560952/" />
-  <meta name="manubot_pdf_url_versioned" content="https://hwong23.github.io/fna-dd-f2-e2/v/d2b261b003ef90ac01aff74a07c28bccda560952/manuscript.pdf" />
+  <link rel="alternate" type="text/html" href="https://hwong23.github.io/fna-dd-f2-e2/v/f33d081c2ebf1191d78329e797a2f14f66eff544/" />
+  <meta name="manubot_html_url_versioned" content="https://hwong23.github.io/fna-dd-f2-e2/v/f33d081c2ebf1191d78329e797a2f14f66eff544/" />
+  <meta name="manubot_pdf_url_versioned" content="https://hwong23.github.io/fna-dd-f2-e2/v/f33d081c2ebf1191d78329e797a2f14f66eff544/manuscript.pdf" />
   <meta property="og:type" content="article" />
   <meta property="twitter:card" content="summary_large_image" />
   <link rel="icon" type="image/png" sizes="192x192" href="https://manubot.org/favicon-192x192.png" />
@@ -69,13 +69,13 @@ manubot-clear-requests-cache: false
 
 
 
-<small><em>Los productos contractuales (PR0n) de esta etapa([Web](https://hwong23.github.io/fna-dd-f2-e2/v/d2b261b003ef90ac01aff74a07c28bccda560952/))
+<small><em>Los productos contractuales (PR0n) de esta etapa([Web](https://hwong23.github.io/fna-dd-f2-e2/v/f33d081c2ebf1191d78329e797a2f14f66eff544/))
 están basados en el resultado de la consultoría "Arquitectura E-Service",
-[Sharepoint STEF@d2b261b](https://stefaninilatam.sharepoint.com/:f:/r/sites/PROYECTOARQUITECTURAE-SERVICEFNA/Documentos%20compartidos/General/Repositorio%20SOA/Procesos%20Fase%20II/181-2020.%20E-SERV.%20Fase%202-ETAPA%200.%20docx?csf=1&web=1&e=BiNcBP)
+[Sharepoint STEF@f33d081](https://stefaninilatam.sharepoint.com/:f:/r/sites/PROYECTOARQUITECTURAE-SERVICEFNA/Documentos%20compartidos/General/Repositorio%20SOA/Procesos%20Fase%20II/181-2020.%20E-SERV.%20Fase%202-ETAPA%200.%20docx?csf=1&web=1&e=BiNcBP)
 del July 4, 2023.
 </em></small>
 
-|    **Versión** del producto 1.d2b261b de 04 Jul 2023
+|    **Versión** del producto 1.f33d081 de 04 Jul 2023
 
 
 
@@ -141,7 +141,7 @@ Entrega de los productos de la Etapa 2, PR04. Definición de roles y responsabil
 | Palabras clave | SOA, E-Service, FNA, Análisis de brecha, GAP, Comparativa              |
 | Autor          |                            |
 | Fuente         |                            |
-| Versión        | 1.d2b261b del 04 Jul 2023 |
+| Versión        | 1.f33d081 del 04 Jul 2023 |
 | Vínculos       | [N003a Vista Segmento SOA FNA](N03a%a20Vsta%20aSegenta%20SOA%20FNA.md) |
 
 <br>
@@ -182,7 +182,7 @@ tablenos-caption-name: Tabla
 >
 >    04 Jul 2023
 >
->    **Versión** 1.d2b261b
+>    **Versión** 1.f33d081
 
 <br>
 
@@ -227,7 +227,7 @@ _Fuente: Elaboración propia._
 | Palabras clave | SOA, Comité arquitectura, Procesos, Objetivos, Modelo        |
 | Autor          |                                                              |
 | Fuente         |                                                              |
-| Versión        | **1.d2b261b** del 04 Jul 2023                         |
+| Versión        | **1.f33d081** del 04 Jul 2023                         |
 | Vínculos       | [Ejecución Plan de Trabajo SOA](onenote:#N001d.sharepoint.com); [Procesos de Negocio FNA](onenote:#N003a.com)|
 
 <br>
@@ -278,22 +278,38 @@ _Fuente: E-Service, Fase I (2022)._
 Estos recursos deben funcionar como recursos propios de la organización, sin perjuicio de que sean externos. Lo anterior, debido a la gestión de conocimiento del _activo más importante del gobierno SOA: las arquitecturas SOA y la arquitectura de referencia 2.0 del FNA, junto a los vínculos de estas con los contextos de negocio y TI_.
 
 
+<div style="page-break-before: always;"></div>
+\newpage
 
-La evaluación de arquitectura queda ordenada en 3 aspectos:
-1. Riesgos técnicos
-2. Puntos de Sensibilidad
-3. Compensaciones
+| Tema           | Gobierno SOA del FNA: **Métodos de evaluación de arquitecturas para el FNA**                                  |
+|----------------|---------------------------------------------------------------------------------------------------------------|
+| Palabras clave | SOA, Evaluación de arquitectura, ATAM, Método                                                                 |
+| Autor          |                                                                                                               |
+| Fuente         |                                                                                                               |
+| Versión        | **1.f33d081** del 04 Jul 2023                                                                          |
+| Vínculos       | [Ejecución Plan de Trabajo SOA](onenote:#N001d.sharepoint.com); [Procesos de Negocio FNA](onenote:#N003a.com) |
 
+<br>
 
-Mecánica
-1. Elaboración de escenarios (Arq.)
-2. Evaluación de escenarios (Eval.)
-3. Calificación del árbol utilidad (Arq.)
+# Métodos de Evaluación de Arquitecturas para el FNA
+En este aparte desarrollaremos el método de evaluación de arquitecturas acondicionado para la Oficina y el Comité de Arquitectura (CAF) del Fondo, tal que cumpla con las características determinadas en ([Características del Método de Evaluación de Arquitecturas](../../fna-dd-f2-e1/content/03n.3.evaluacion.md)) para esta herramienta.
 
+Las características que el método de evaluación debe cumplir son las indicadas en la siguiente table.
 
+| **1. Organización** |                                                          |
+|---------------------|----------------------------------------------------------|
+|                     | 1. Riesgos técnicos                                      |
+|                     | 2. Puntos de Sensibilidad al Cambio                      |
+|                     | 3. Compensaciones                                        |
+|                     | 4. Costo / Beneficio                                     |
+|                     |                                                          |
+| **2. Elementos**    |                                                          |
+|                     | 1. Escenarios de calidad                                 |
+|                     | 2. Sistema de puntuación                                 |
+|                     | 3. Árbol de utilidad (diversificación)                   |
 
-Escenarios
-* operaciones más usadas en el negocio: cuáles son?
+Table: Características que cumple el método de evaluación de arquitectura (MEVFNA) seleccionado para el FNA. {#tbl:atam-id}
+
 
 
 ---
@@ -319,7 +335,7 @@ tablenos-caption-name: Tabla
 >
 >    04 Jul 2023
 >
->    **Versión** 1.d2b261b
+>    **Versión** 1.f33d081
 
 <br>
 
@@ -365,7 +381,7 @@ _Fuente: Elaboración propia._
 | Palabras clave | SOA, Contexto, Áreas, Procesos, Objetivo                      |
 | Autor          |                                                               |
 | Fuente         |                                                               |
-| Versión        | **1.d2b261b** del 04 Jul 2023                          |
+| Versión        | **1.f33d081** del 04 Jul 2023                          |
 | Vínculos       | [Ejecución Plan de Trabajo SOA](onenote:#N001d.sharepoint.com); [Procesos de Negocio FNA](onenote:#N003a.com)|
 
 <br>
@@ -469,7 +485,7 @@ _Fuente: ae_fna_as_is.archimate._
 |Palabras clave|SOA, Gobierno, Riesgo, Objetivos de negocio|
 |Autor||
 |Fuente||
-|Version|**d2b261b** del 04 Jul 2023|
+|Version|**f33d081** del 04 Jul 2023|
 |Vínculos|[Fase 2 PR6 Gobierno SOA](N03a%a20Vsta%20aSegenta%20SOA%20FNA.md)|
 
 <br>
@@ -512,7 +528,7 @@ El modelo de colaboración muestra cómo la Oficina y el Gobierno 0.6 se relacio
 | Palabras clave | SOA, Riesgo técnico, Modelo, Arquitectura                     |
 | Autor          |                                                               |
 | Fuente         |                                                               |
-| Versión        | **1.d2b261b** del 04 Jul 2023                          |
+| Versión        | **1.f33d081** del 04 Jul 2023                          |
 | Vínculos       | [Ejecución Plan de Trabajo SOA](onenote:#N001d.sharepoint.com); [Procesos de Negocio FNA](onenote:#N003a.com)|
 
 <br>
