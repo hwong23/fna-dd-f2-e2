@@ -6,7 +6,7 @@ keywords:
 - gobierno
 - FNA
 lang: en-US
-date-meta: '2023-07-04'
+date-meta: '2023-07-06'
 author-meta:
 - Harry Wong, ing.
 - Wilson Morales, ing.
@@ -23,11 +23,11 @@ header-includes: |
   <meta name="citation_title" content="Etapa 2. Ejecución Gobierno. Incremento 1" />
   <meta property="og:title" content="Etapa 2. Ejecución Gobierno. Incremento 1" />
   <meta property="twitter:title" content="Etapa 2. Ejecución Gobierno. Incremento 1" />
-  <meta name="dc.date" content="2023-07-04" />
-  <meta name="citation_publication_date" content="2023-07-04" />
-  <meta property="article:published_time" content="2023-07-04" />
-  <meta name="dc.modified" content="2023-07-04T23:25:31+00:00" />
-  <meta property="article:modified_time" content="2023-07-04T23:25:31+00:00" />
+  <meta name="dc.date" content="2023-07-06" />
+  <meta name="citation_publication_date" content="2023-07-06" />
+  <meta property="article:published_time" content="2023-07-06" />
+  <meta name="dc.modified" content="2023-07-06T12:49:27+00:00" />
+  <meta property="article:modified_time" content="2023-07-06T12:49:27+00:00" />
   <meta name="dc.language" content="en-US" />
   <meta name="citation_language" content="en-US" />
   <meta name="dc.relation.ispartof" content="Manubot" />
@@ -48,9 +48,9 @@ header-includes: |
   <meta name="citation_fulltext_html_url" content="https://hwong23.github.io/fna-dd-f2-e2/" />
   <meta name="citation_pdf_url" content="https://hwong23.github.io/fna-dd-f2-e2/manuscript.pdf" />
   <link rel="alternate" type="application/pdf" href="https://hwong23.github.io/fna-dd-f2-e2/manuscript.pdf" />
-  <link rel="alternate" type="text/html" href="https://hwong23.github.io/fna-dd-f2-e2/v/3cd9be68ea1aef43a41609396644b09f6ba6075e/" />
-  <meta name="manubot_html_url_versioned" content="https://hwong23.github.io/fna-dd-f2-e2/v/3cd9be68ea1aef43a41609396644b09f6ba6075e/" />
-  <meta name="manubot_pdf_url_versioned" content="https://hwong23.github.io/fna-dd-f2-e2/v/3cd9be68ea1aef43a41609396644b09f6ba6075e/manuscript.pdf" />
+  <link rel="alternate" type="text/html" href="https://hwong23.github.io/fna-dd-f2-e2/v/8211c0afae11dd14d4dae97a261569683429586a/" />
+  <meta name="manubot_html_url_versioned" content="https://hwong23.github.io/fna-dd-f2-e2/v/8211c0afae11dd14d4dae97a261569683429586a/" />
+  <meta name="manubot_pdf_url_versioned" content="https://hwong23.github.io/fna-dd-f2-e2/v/8211c0afae11dd14d4dae97a261569683429586a/manuscript.pdf" />
   <meta property="og:type" content="article" />
   <meta property="twitter:card" content="summary_large_image" />
   <link rel="icon" type="image/png" sizes="192x192" href="https://manubot.org/favicon-192x192.png" />
@@ -69,13 +69,13 @@ manubot-clear-requests-cache: false
 
 
 
-<small><em>Los productos contractuales (PR0n) de esta etapa([Web](https://hwong23.github.io/fna-dd-f2-e2/v/3cd9be68ea1aef43a41609396644b09f6ba6075e/))
+<small><em>Los productos contractuales (PR0n) de esta etapa([Web](https://hwong23.github.io/fna-dd-f2-e2/v/8211c0afae11dd14d4dae97a261569683429586a/))
 están basados en el resultado de la consultoría "Arquitectura E-Service",
-[Sharepoint STEF@3cd9be6](https://stefaninilatam.sharepoint.com/:f:/r/sites/PROYECTOARQUITECTURAE-SERVICEFNA/Documentos%20compartidos/General/Repositorio%20SOA/Procesos%20Fase%20II/181-2020.%20E-SERV.%20Fase%202-ETAPA%200.%20docx?csf=1&web=1&e=BiNcBP)
-del July 4, 2023.
+[Sharepoint STEF@8211c0a](https://stefaninilatam.sharepoint.com/:f:/r/sites/PROYECTOARQUITECTURAE-SERVICEFNA/Documentos%20compartidos/General/Repositorio%20SOA/Procesos%20Fase%20II/181-2020.%20E-SERV.%20Fase%202-ETAPA%200.%20docx?csf=1&web=1&e=BiNcBP)
+del July 6, 2023.
 </em></small>
 
-|    **Versión** del producto 1.3cd9be6 de 04 Jul 2023
+|    **Versión** del producto 1.8211c0a de 06 Jul 2023
 
 
 
@@ -141,7 +141,7 @@ Entrega de los productos de la Etapa 2, PR04. Definición de roles y responsabil
 | Palabras clave | SOA, E-Service, FNA, Análisis de brecha, GAP, Comparativa              |
 | Autor          |                            |
 | Fuente         |                            |
-| Versión        | 1.3cd9be6 del 04 Jul 2023 |
+| Versión        | 1.8211c0a del 06 Jul 2023 |
 | Vínculos       | [N003a Vista Segmento SOA FNA](N03a%a20Vsta%20aSegenta%20SOA%20FNA.md) |
 
 <br>
@@ -180,9 +180,9 @@ tablenos-caption-name: Tabla
 >
 >    FNA, Stefanini
 >
->    04 Jul 2023
+>    06 Jul 2023
 >
->    **Versión** 1.3cd9be6
+>    **Versión** 1.8211c0a
 
 <br>
 
@@ -227,7 +227,7 @@ _Fuente: Elaboración propia._
 | Palabras clave | SOA, Comité arquitectura, Procesos, Objetivos, Modelo        |
 | Autor          |                                                              |
 | Fuente         |                                                              |
-| Versión        | **1.3cd9be6** del 04 Jul 2023                         |
+| Versión        | **1.8211c0a** del 06 Jul 2023                         |
 | Vínculos       | [Ejecución Plan de Trabajo SOA](onenote:#N001d.sharepoint.com); [Procesos de Negocio FNA](onenote:#N003a.com)|
 
 <br>
@@ -286,7 +286,7 @@ Estos recursos deben funcionar como recursos propios de la organización, sin pe
 | Palabras clave | SOA, Evaluación de arquitectura, ATAM, Método  |
 | Autor          |                                                |
 | Fuente         |                                                |
-| Versión        | **1.3cd9be6** del 04 Jul 2023           |
+| Versión        | **1.8211c0a** del 06 Jul 2023           |
 | Vínculos       | [Ejecución Plan de Trabajo SOA](onenote:#N001d.sharepoint.com); [Procesos de Negocio FNA](onenote:#N003a.com) |
 
 <br>
@@ -405,7 +405,7 @@ _Fuente: ASAM. Department of CSE, SCSVMV University._
 | Palabras clave | SOA, Evaluación de arquitectura, ASAM, Método  |
 | Autor          |                                                |
 | Fuente         |                                                |
-| Versión        | **1.3cd9be6** del 04 Jul 2023           |
+| Versión        | **1.8211c0a** del 06 Jul 2023           |
 | Vínculos       | [Ejecución Plan de Trabajo SOA](onenote:#N001d.sharepoint.com); [Procesos de Negocio FNA](onenote:#N003a.com) |
 
 <br>
@@ -629,9 +629,9 @@ tablenos-caption-name: Tabla
 >
 >    FNA, Stefanini
 >
->    04 Jul 2023
+>    06 Jul 2023
 >
->    **Versión** 1.3cd9be6
+>    **Versión** 1.8211c0a
 
 <br>
 
@@ -677,7 +677,7 @@ _Fuente: Elaboración propia._
 | Palabras clave | SOA, Contexto, Áreas, Procesos, Objetivo                      |
 | Autor          |                                                               |
 | Fuente         |                                                               |
-| Versión        | **1.3cd9be6** del 04 Jul 2023                          |
+| Versión        | **1.8211c0a** del 06 Jul 2023                          |
 | Vínculos       | [Ejecución Plan de Trabajo SOA](onenote:#N001d.sharepoint.com); [Procesos de Negocio FNA](onenote:#N003a.com)|
 
 <br>
@@ -781,7 +781,7 @@ _Fuente: ae_fna_as_is.archimate._
 |Palabras clave|SOA, Gobierno, Riesgo, Objetivos de negocio|
 |Autor||
 |Fuente||
-|Version|**3cd9be6** del 04 Jul 2023|
+|Version|**8211c0a** del 06 Jul 2023|
 |Vínculos|[Fase 2 PR6 Gobierno SOA](N03a%a20Vsta%20aSegenta%20SOA%20FNA.md)|
 
 <br>
@@ -824,7 +824,7 @@ El modelo de colaboración muestra cómo la Oficina y el Gobierno 0.6 se relacio
 | Palabras clave | SOA, Riesgo técnico, Modelo, Arquitectura                     |
 | Autor          |                                                               |
 | Fuente         |                                                               |
-| Versión        | **1.3cd9be6** del 04 Jul 2023                          |
+| Versión        | **1.8211c0a** del 06 Jul 2023                          |
 | Vínculos       | [Ejecución Plan de Trabajo SOA](onenote:#N001d.sharepoint.com); [Procesos de Negocio FNA](onenote:#N003a.com)|
 
 <br>
@@ -916,8 +916,6 @@ Para la identificación y trazabilidad del estado de un riesgo necesitamos etiqu
 
 <div style="page-break-before: always;"></div>
 \newpage
-
-Este es una cita a @soton403913 [pp. 17]
 
 # Referencias {.page_break_before}
 <!-- Explicitly insert bibliography here -->
