@@ -6,7 +6,7 @@ keywords:
 - gobierno
 - FNA
 lang: en-US
-date-meta: '2023-07-08'
+date-meta: '2023-07-21'
 author-meta:
 - Harry Wong, ing.
 - Wilson Morales, ing.
@@ -23,11 +23,11 @@ header-includes: |
   <meta name="citation_title" content="Etapa 2. Ejecución Gobierno. Incremento 1" />
   <meta property="og:title" content="Etapa 2. Ejecución Gobierno. Incremento 1" />
   <meta property="twitter:title" content="Etapa 2. Ejecución Gobierno. Incremento 1" />
-  <meta name="dc.date" content="2023-07-08" />
-  <meta name="citation_publication_date" content="2023-07-08" />
-  <meta property="article:published_time" content="2023-07-08" />
-  <meta name="dc.modified" content="2023-07-08T20:10:20+00:00" />
-  <meta property="article:modified_time" content="2023-07-08T20:10:20+00:00" />
+  <meta name="dc.date" content="2023-07-21" />
+  <meta name="citation_publication_date" content="2023-07-21" />
+  <meta property="article:published_time" content="2023-07-21" />
+  <meta name="dc.modified" content="2023-07-21T02:44:21+00:00" />
+  <meta property="article:modified_time" content="2023-07-21T02:44:21+00:00" />
   <meta name="dc.language" content="en-US" />
   <meta name="citation_language" content="en-US" />
   <meta name="dc.relation.ispartof" content="Manubot" />
@@ -48,9 +48,9 @@ header-includes: |
   <meta name="citation_fulltext_html_url" content="https://hwong23.github.io/fna-dd-f2-e2/" />
   <meta name="citation_pdf_url" content="https://hwong23.github.io/fna-dd-f2-e2/manuscript.pdf" />
   <link rel="alternate" type="application/pdf" href="https://hwong23.github.io/fna-dd-f2-e2/manuscript.pdf" />
-  <link rel="alternate" type="text/html" href="https://hwong23.github.io/fna-dd-f2-e2/v/15ea1eac66da7cb08a62d5b851fa6423bc8276f2/" />
-  <meta name="manubot_html_url_versioned" content="https://hwong23.github.io/fna-dd-f2-e2/v/15ea1eac66da7cb08a62d5b851fa6423bc8276f2/" />
-  <meta name="manubot_pdf_url_versioned" content="https://hwong23.github.io/fna-dd-f2-e2/v/15ea1eac66da7cb08a62d5b851fa6423bc8276f2/manuscript.pdf" />
+  <link rel="alternate" type="text/html" href="https://hwong23.github.io/fna-dd-f2-e2/v/330e1a9e8d9e794cf899d373c066a92980bd4ea1/" />
+  <meta name="manubot_html_url_versioned" content="https://hwong23.github.io/fna-dd-f2-e2/v/330e1a9e8d9e794cf899d373c066a92980bd4ea1/" />
+  <meta name="manubot_pdf_url_versioned" content="https://hwong23.github.io/fna-dd-f2-e2/v/330e1a9e8d9e794cf899d373c066a92980bd4ea1/manuscript.pdf" />
   <meta property="og:type" content="article" />
   <meta property="twitter:card" content="summary_large_image" />
   <link rel="icon" type="image/png" sizes="192x192" href="https://manubot.org/favicon-192x192.png" />
@@ -69,13 +69,13 @@ manubot-clear-requests-cache: false
 
 
 
-<small><em>Los productos contractuales (PR0n) de esta etapa([Web](https://hwong23.github.io/fna-dd-f2-e2/v/15ea1eac66da7cb08a62d5b851fa6423bc8276f2/))
+<small><em>Los productos contractuales (PR0n) de esta etapa([Web](https://hwong23.github.io/fna-dd-f2-e2/v/330e1a9e8d9e794cf899d373c066a92980bd4ea1/))
 están basados en el resultado de la consultoría "Arquitectura E-Service",
-[Sharepoint STEF@15ea1ea](https://stefaninilatam.sharepoint.com/:f:/r/sites/PROYECTOARQUITECTURAE-SERVICEFNA/Documentos%20compartidos/General/Repositorio%20SOA/Procesos%20Fase%20II/181-2020.%20E-SERV.%20Fase%202-ETAPA%200.%20docx?csf=1&web=1&e=BiNcBP)
-del July 8, 2023.
+[Sharepoint STEF@330e1a9](https://stefaninilatam.sharepoint.com/:f:/r/sites/PROYECTOARQUITECTURAE-SERVICEFNA/Documentos%20compartidos/General/Repositorio%20SOA/Procesos%20Fase%20II/181-2020.%20E-SERV.%20Fase%202-ETAPA%200.%20docx?csf=1&web=1&e=BiNcBP)
+del July 21, 2023.
 </em></small>
 
-|    **Versión** del producto 1.15ea1ea de 08 Jul 2023
+|    **Versión** del producto 1.330e1a9 de 21 Jul 2023
 
 
 
@@ -141,7 +141,7 @@ Entrega de los productos de la Etapa 2, PR04. Definición de roles y responsabil
 | Palabras clave | SOA, E-Service, FNA, Análisis de brecha, GAP, Comparativa              |
 | Autor          |                            |
 | Fuente         |                            |
-| Versión        | 1.15ea1ea del 08 Jul 2023 |
+| Versión        | 1.330e1a9 del 21 Jul 2023 |
 | Vínculos       | [N003a Vista Segmento SOA FNA](N03a%a20Vsta%20aSegenta%20SOA%20FNA.md) |
 
 <br>
@@ -180,9 +180,9 @@ tablenos-caption-name: Tabla
 >
 >    FNA, Stefanini
 >
->    08 Jul 2023
+>    21 Jul 2023
 >
->    **Versión** 1.15ea1ea
+>    **Versión** 1.330e1a9
 
 <br>
 
@@ -227,7 +227,7 @@ _Fuente: Elaboración propia._
 | Palabras clave | SOA, Comité arquitectura, Procesos, Objetivos, Modelo        |
 | Autor          |                                                              |
 | Fuente         |                                                              |
-| Versión        | **1.15ea1ea** del 08 Jul 2023                         |
+| Versión        | **1.330e1a9** del 21 Jul 2023                         |
 | Vínculos       | [Ejecución Plan de Trabajo SOA](onenote:#N001d.sharepoint.com); [Procesos de Negocio FNA](onenote:#N003a.com)|
 
 <br>
@@ -286,7 +286,7 @@ Estos recursos deben funcionar como recursos propios de la organización, sin pe
 | Palabras clave | SOA, Evaluación de arquitectura, ATAM, Método  |
 | Autor          |                                                |
 | Fuente         |                                                |
-| Versión        | **1.15ea1ea** del 08 Jul 2023           |
+| Versión        | **1.330e1a9** del 21 Jul 2023           |
 | Vínculos       | [Ejecución Plan de Trabajo SOA](onenote:#N001d.sharepoint.com); [Procesos de Negocio FNA](onenote:#N003a.com) |
 
 <br>
@@ -405,40 +405,44 @@ _Fuente: ASAM. Department of CSE, SCSVMV University._
 | Palabras clave | SOA, Evaluación de arquitectura, ASAM, Método  |
 | Autor          |                                                |
 | Fuente         |                                                |
-| Versión        | **1.15ea1ea** del 08 Jul 2023           |
+| Versión        | **1.330e1a9** del 21 Jul 2023           |
 | Vínculos       | [Ejecución Plan de Trabajo SOA](onenote:#N001d.sharepoint.com); [Procesos de Negocio FNA](onenote:#N003a.com) |
 
 <br>
 
-# Proceso de soporte y alineación de arquitecturas con la Oficina FNA
-## Identificar y priorizar los casos de uso significativos
-La primera tarea que debe ser realizada durante la definición de la arquitectura del proyecto es identificar los requerimientos funcionales y no funcionales que son significativos para la la arquitectura objetivo. El capítulo de visión dentro de la [Especificación Trabajo de Arquitectura](../../fna-dd-f2-e1/content/02n.2a.oficina.md) dada, más los requerimientos definidos en la etapa de levantamiento de los leideres de grupo del FNA son los insumos que le permiten al arquitecto involucrado identificar aquellos requerimientos que influencian la arquitectura de manera significativa.
+# Proceso de Soporte y Alineación de Arquitecturas con la Oficina FNA
+## Identificar y Priorizar los Casos de Uso Significativos
+La primera tarea que debe ser realizada durante la definición de la arquitectura del proyecto es identificar los requerimientos funcionales y no funcionales que son significativos para la la arquitectura objetivo. El capítulo de visión dentro de la [Especificación Trabajo de Arquitectura](../../fna-dd-f2-e1/content/02n.2a.oficina.md) dada, sumado a los requerimientos definidos en la etapa de levantamiento de los líderes de grupo del FNA son los insumos que le permiten al arquitecto involucrado identificar aquellos requerimientos que influencian la arquitectura de manera significativa.
 
 Los requerimientos identificados como significativos son los que se documentan en la [vista de casos de uso](https://stefaninilASAM.sharepoint.com/SitePages/Home.aspx) del documento de arquitectura. 
 
-## Establecer la arquitectura candidata
+## Establecer la Arquitectura Candidata
 El propósito de esta actividad es definir el bosquejo inicial de la arquitectura del sistema. Esta actividad se basa en revisar las experiencias pasadas de la organización (Revisión de la base de datos de conocimiento), la arquitectura candidata toma en cuenta los requerimientos funcionales y no funcionales (disponibilidad, desempeño, escalabilidad) de el sistema.
 
 Ej. Una arquitectura en N-capas donde la aplicación es WEB-enabled, que probablemente será accesada a través de Web Services en un futuro cercano.
 
 Para seleccionar la arquitectura se debe utilizar el proceso de PR-TDEC-001-Toma de Decisiones, dado que es necesario que el arquitecto plantee más de una alternativa de solución, defina escenarios de operación del sistema, defina criterios, evalúe y documente la decisión final.
 
-## Definir el modelo de despliegue inicial  
+## Definir el Modelo de Despliegue Inicial
 En este punto se define un diagrama de alto nivel de despliegue del nuevo sistema. En este diagrama se muestran los diferentes nodos en los cuales va a operar el nuevo sistema, así como los posibles escenarios de infraestructura en que se va a ejecutar el nuevo sistema.
 
-## Identificar los elementos claves de diseño en la arquitectura
+## Identificar los Elementos Claves de Diseño en la Arquitectura
 A partir de los documentos de requerimientos (Visión, Casos de Uso, Glosarios, Requerimientos no funcionales) el arquitecto puede extraer los elementos técnicos y conceptuales claves de la solución. En este estado, es importante definir los elementos de vocabulario comunes al proyecto en la fase implementación.
+
 Algunos ejemplos de elementos claves de la solución son:
 
-Integración con sistemas legados
-Concurrencia
-Persistencia
-Uso de tecnología desconocida por el equipo de trabajo
-Históricos
-Seguridad
-Auditoría
-Tolerancia a Fallos.
-Refinar el modelo de análisis.  
+* Integración con sistemas legados
+* Concurrencia
+* Persistencia
+* Uso de tecnología desconocida por el equipo de trabajo
+* Históricos
+* Seguridad
+* Auditoría
+* Tolerancia a Fallos
+* Refinar el modelo de análisis
+
+<br>
+
 El objetivo de esta actividad es complementar y refinar el análisis realizado para los casos de uso identificados en el paso 1.
 
 En este punto se vincula el modelo de análisis de los casos de uso significativos elaborados en la etapa de análisis del proyecto.
@@ -629,9 +633,9 @@ tablenos-caption-name: Tabla
 >
 >    FNA, Stefanini
 >
->    08 Jul 2023
+>    21 Jul 2023
 >
->    **Versión** 1.15ea1ea
+>    **Versión** 1.330e1a9
 
 <br>
 
@@ -677,7 +681,7 @@ _Fuente: Elaboración propia._
 | Palabras clave | SOA, Contexto, Áreas, Procesos, Objetivo                      |
 | Autor          |                                                               |
 | Fuente         |                                                               |
-| Versión        | **1.15ea1ea** del 08 Jul 2023                          |
+| Versión        | **1.330e1a9** del 21 Jul 2023                          |
 | Vínculos       | [Ejecución Plan de Trabajo SOA](onenote:#N001d.sharepoint.com); [Procesos de Negocio FNA](onenote:#N003a.com)|
 
 <br>
@@ -781,7 +785,7 @@ _Fuente: ae_fna_as_is.archimate._
 |Palabras clave|SOA, Gobierno, Riesgo, Objetivos de negocio|
 |Autor||
 |Fuente||
-|Version|**15ea1ea** del 08 Jul 2023|
+|Version|**330e1a9** del 21 Jul 2023|
 |Vínculos|[Fase 2 PR6 Gobierno SOA](N03a%a20Vsta%20aSegenta%20SOA%20FNA.md)|
 
 <br>
@@ -824,7 +828,7 @@ El modelo de colaboración muestra cómo la Oficina y el Gobierno 0.6 se relacio
 | Palabras clave | SOA, Riesgo técnico, Modelo, Arquitectura                     |
 | Autor          |                                                               |
 | Fuente         |                                                               |
-| Versión        | **1.15ea1ea** del 08 Jul 2023                          |
+| Versión        | **1.330e1a9** del 21 Jul 2023                          |
 | Vínculos       | [Ejecución Plan de Trabajo SOA](onenote:#N001d.sharepoint.com); [Procesos de Negocio FNA](onenote:#N003a.com)|
 
 <br>
