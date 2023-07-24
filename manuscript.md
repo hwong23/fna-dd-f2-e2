@@ -26,8 +26,8 @@ header-includes: |
   <meta name="dc.date" content="2023-07-24" />
   <meta name="citation_publication_date" content="2023-07-24" />
   <meta property="article:published_time" content="2023-07-24" />
-  <meta name="dc.modified" content="2023-07-24T16:11:07+00:00" />
-  <meta property="article:modified_time" content="2023-07-24T16:11:07+00:00" />
+  <meta name="dc.modified" content="2023-07-24T16:44:07+00:00" />
+  <meta property="article:modified_time" content="2023-07-24T16:44:07+00:00" />
   <meta name="dc.language" content="en-US" />
   <meta name="citation_language" content="en-US" />
   <meta name="dc.relation.ispartof" content="Manubot" />
@@ -48,9 +48,9 @@ header-includes: |
   <meta name="citation_fulltext_html_url" content="https://hwong23.github.io/fna-dd-f2-e2/" />
   <meta name="citation_pdf_url" content="https://hwong23.github.io/fna-dd-f2-e2/manuscript.pdf" />
   <link rel="alternate" type="application/pdf" href="https://hwong23.github.io/fna-dd-f2-e2/manuscript.pdf" />
-  <link rel="alternate" type="text/html" href="https://hwong23.github.io/fna-dd-f2-e2/v/01587389f897a05bcbc40b08268b78efd5d91da6/" />
-  <meta name="manubot_html_url_versioned" content="https://hwong23.github.io/fna-dd-f2-e2/v/01587389f897a05bcbc40b08268b78efd5d91da6/" />
-  <meta name="manubot_pdf_url_versioned" content="https://hwong23.github.io/fna-dd-f2-e2/v/01587389f897a05bcbc40b08268b78efd5d91da6/manuscript.pdf" />
+  <link rel="alternate" type="text/html" href="https://hwong23.github.io/fna-dd-f2-e2/v/8cea2853a7ae57987e9354ce0471e1f6da524068/" />
+  <meta name="manubot_html_url_versioned" content="https://hwong23.github.io/fna-dd-f2-e2/v/8cea2853a7ae57987e9354ce0471e1f6da524068/" />
+  <meta name="manubot_pdf_url_versioned" content="https://hwong23.github.io/fna-dd-f2-e2/v/8cea2853a7ae57987e9354ce0471e1f6da524068/manuscript.pdf" />
   <meta property="og:type" content="article" />
   <meta property="twitter:card" content="summary_large_image" />
   <link rel="icon" type="image/png" sizes="192x192" href="https://manubot.org/favicon-192x192.png" />
@@ -69,13 +69,13 @@ manubot-clear-requests-cache: false
 
 
 
-<small><em>Los productos contractuales (PR0n) de esta etapa([Web](https://hwong23.github.io/fna-dd-f2-e2/v/01587389f897a05bcbc40b08268b78efd5d91da6/))
+<small><em>Los productos contractuales (PR0n) de esta etapa([Web](https://hwong23.github.io/fna-dd-f2-e2/v/8cea2853a7ae57987e9354ce0471e1f6da524068/))
 están basados en el resultado de la consultoría "Arquitectura E-Service",
-[Sharepoint STEF@0158738](https://stefaninilatam.sharepoint.com/:f:/r/sites/PROYECTOARQUITECTURAE-SERVICEFNA/Documentos%20compartidos/General/Repositorio%20SOA/Procesos%20Fase%20II/181-2020.%20E-SERV.%20Fase%202-ETAPA%200.%20docx?csf=1&web=1&e=BiNcBP)
+[Sharepoint STEF@8cea285](https://stefaninilatam.sharepoint.com/:f:/r/sites/PROYECTOARQUITECTURAE-SERVICEFNA/Documentos%20compartidos/General/Repositorio%20SOA/Procesos%20Fase%20II/181-2020.%20E-SERV.%20Fase%202-ETAPA%200.%20docx?csf=1&web=1&e=BiNcBP)
 del July 24, 2023.
 </em></small>
 
-|    **Versión** del producto 1.0158738 de 24 Jul 2023
+|    **Versión** del producto 1.8cea285 de 24 Jul 2023
 
 
 
@@ -141,7 +141,7 @@ Entrega de los productos de la Etapa 2, PR04. Definición de roles y responsabil
 | Palabras clave | SOA, E-Service, FNA, Análisis de brecha, GAP, Comparativa              |
 | Autor          |                            |
 | Fuente         |                            |
-| Versión        | 1.0158738 del 24 Jul 2023 |
+| Versión        | 1.8cea285 del 24 Jul 2023 |
 | Vínculos       | [N003a Vista Segmento SOA FNA](N03a%a20Vsta%20aSegenta%20SOA%20FNA.md) |
 
 <br>
@@ -182,7 +182,7 @@ tablenos-caption-name: Tabla
 >
 >    24 Jul 2023
 >
->    **Versión** 1.0158738
+>    **Versión** 1.8cea285
 
 <br>
 
@@ -227,7 +227,7 @@ _Fuente: Elaboración propia._
 | Palabras clave | SOA, Comité arquitectura, Procesos, Objetivos, Modelo        |
 | Autor          |                                                              |
 | Fuente         |                                                              |
-| Versión        | **1.0158738** del 24 Jul 2023                         |
+| Versión        | **1.8cea285** del 24 Jul 2023                         |
 | Vínculos       | [Ejecución Plan de Trabajo SOA](onenote:#N001d.sharepoint.com); [Procesos de Negocio FNA](onenote:#N003a.com)|
 
 <br>
@@ -286,7 +286,7 @@ Estos recursos deben funcionar como recursos propios de la organización, sin pe
 | Palabras clave | SOA, Evaluación de arquitectura, ATAM, Método  |
 | Autor          |                                                |
 | Fuente         |                                                |
-| Versión        | **1.0158738** del 24 Jul 2023           |
+| Versión        | **1.8cea285** del 24 Jul 2023           |
 | Vínculos       | [Ejecución Plan de Trabajo SOA](onenote:#N001d.sharepoint.com); [Procesos de Negocio FNA](onenote:#N003a.com) |
 
 <br>
@@ -405,7 +405,7 @@ _Fuente: ASAM. Department of CSE, SCSVMV University._
 | Palabras clave | SOA, Evaluación de arquitectura, ASAM, Método  |
 | Autor          |                                                |
 | Fuente         |                                                |
-| Versión        | **1.0158738** del 24 Jul 2023           |
+| Versión        | **1.8cea285** del 24 Jul 2023           |
 | Vínculos       | [Ejecución Plan de Trabajo SOA](onenote:#N001d.sharepoint.com); [Procesos de Negocio FNA](onenote:#N003a.com) |
 
 <br>
@@ -647,7 +647,7 @@ tablenos-caption-name: Tabla
 >
 >    24 Jul 2023
 >
->    **Versión** 1.0158738
+>    **Versión** 1.8cea285
 
 <br>
 
@@ -693,7 +693,7 @@ _Fuente: Elaboración propia._
 | Palabras clave | SOA, Contexto, Áreas, Procesos, Objetivo                      |
 | Autor          |                                                               |
 | Fuente         |                                                               |
-| Versión        | **1.0158738** del 24 Jul 2023                          |
+| Versión        | **1.8cea285** del 24 Jul 2023                          |
 | Vínculos       | [Ejecución Plan de Trabajo SOA](onenote:#N001d.sharepoint.com); [Procesos de Negocio FNA](onenote:#N003a.com)|
 
 <br>
@@ -730,7 +730,7 @@ Para elaborar los antecedentes de los riesgos técnicos de arquitectura del FNA,
 
 
 ## Identificación de Riesgos Técnicos del FNA
-Junto a esta complicación, que de por sí hace obligatoria la introdución de la figura del gobierno SOA en el Fondo, y que organizaciones como el OpenGroup señalan que se dan por la falta de Arquitectura SOA y Arquitectura Empresarial, y por consiguiente, por un débil gobierno SOA, se encuentran otras que fueron levantadas en la Fase 1 del presente diagnóstico: agilidad limitada, complejidad e imprecisión en la trazabilidad, ocultamiento de funcionalidades (ver [04b.Resumen Fase 1](N03a%a20Vsta%20aSegenta%20SOA%20FNA.md)).
+Junto a esta complicación, que de por sí hace obligatoria la introducción de la figura del gobierno SOA en el Fondo, y que organizaciones como el OpenGroup señalan que se dan por la falta de Arquitectura SOA y Arquitectura Empresarial, y por consiguiente, por un débil gobierno SOA, se encuentran otras que fueron levantadas en la Fase 1 del presente diagnóstico: agilidad limitada, complejidad e imprecisión en la trazabilidad, ocultamiento de funcionalidades (ver [04b.Resumen Fase 1](N03a%a20Vsta%20aSegenta%20SOA%20FNA.md)).
 
 Los análisis siguientes dan cuenta de los riesgos técnicos hallados en Fase I.
 
@@ -753,16 +753,17 @@ De los análisis nombrados extraemos siete áreas de riesgo técnico de arquitec
 
 <br>
 
-Mostraremos a continuación la relación causal de estas áreas con los problemáticas encontradas en dichos diagneosticos.
+Mostraremos a continuación la relación causal de estas áreas con los problemáticas encontradas en dichos diagnósticos.
 
 | Diagnóstico FNA                                    | Área de Riesgo/Riesgo Arquitectura |
 |-----------------------------------------------------------------------------------|-----|
 | FNA realiza soluciones de herramientas de software y servicios SOA a la medida para responder a las necesidades y requerimientos de información de las áreas funcionales, en particular la vicepresidencia de Crédito y la de Operaciones (segmento de la empresa objeto de este diagnóstico). El peligro con esto es que hace a la operación (creación, uso y mantenimiento) y a la gestión, entendida como mejora, explotación y distribución de los datos proclive a la proliferación de silos de datos.          | R6, R7     |
 | El análisis del repositorio SOA del FNA evidencia que existen modelos de datos independientes para las diferentes aplicaciones. Por lo tanto, _no existe un modelo de datos común (modelo de datos canónico) en la organización_. Así mismo, existen inconvenientes en la gestión del ciclo de vida del dato debido a la relación de dependencia con el proveedor Cobiscorp, el ERP del FNA, que dificultan incluir reglas de negocio o nuevas entidades de datos.                                                  | R1, R6, R7 |
-| Desde la perspectiva de madurez SOA, la primera iteración del proceso de evaluación de madurez SOA del FNA determina que _FNA es una empresa reactiva_, resultado además que es consistente co las otras dimensiones de OSIMM diagnosticadas (negocio, aplicaciones, gobierno, etc).                                         | R1, R2     |
+| Desde la perspectiva de madurez SOA, la primera iteración del proceso de evaluación de madurez SOA del FNA determina que _FNA es una empresa reactiva_, resultado además que es consistente con las otras dimensiones de OSIMM diagnosticadas (negocio, aplicaciones, gobierno, etc.).                                         | R1, R2     |
 | Mejorar los indicadores de eficacia y madurez SOA, como el de soporte y flexibilidad de negocio, el de diseño de soluciones, servicios y aplicaciones, gestionar los cambios desde arquitectura, mejorar los problemas de uso y gestión de la información e infraestructura. Niveles bajos causados principalmente por (1.) El bajo grado de independencia de proveedor: (ver imagen abajo) _38 puntos / 100 puntos_ (2.) Baja flexibilidad y tiempos de entrega (time-to-market): _20 / 100 puntos_.  | R1, R3, R4, R5               |
 | El futuro gobierno SOA, en conjunto con el plan de la Dirección de Tecnología del FNA, y el próximo plan estratégico (febrero del 2023) debe procurar la ejecución y los recursos necesarios para la realización de estas iteraciones que tienen por objeto profundizar la adopción SOA del Fondo hasta llevarla al siguiente estadio: superar los 50 puntos de madurez SOA.                                  | R1, R7                       |
 | El gobierno SOA debe aumentar el índice de independencia de proveedor del Fondo. El resultado interno (ver imagen abajo) en la dimensión de Gobierno obtuvo el puntaje más bajo en este análisis: _35 / 100 puntos_ (los otros análisis, flexibilidad y fortaleza SOA, en esta misma dimensión, obtuvieron en promedio 40 puntos).          | R1, R3, R4  |
+
 
 ## Hallazgos en le Identificación de Riesgos Técnicos del FNA
 En esta parte ejemplificaremos con diagramas y modelos aquellas áreas sensibles de tratamiento de riesgo que nombramos en los temas anteriores y que tienen como base el diagnóstco SOA de Fase 1 (ver [03.Fase 1 PR3 Resultado Diagnóstico Situación Actual](N03a%a20Vsta%20aSegenta%20SOA%20FNA.md)). Estas áreas de riesgo serán incorporados a las vigilancias del gobierno SOA propuesto, objeto de este proyecto. A la vez, los riesgos derivados de estas deben ser agregados a la matriz de gestión actual del Fondo, y gestionados por los métodos propios con los que ya cuenta el FNA.
@@ -797,7 +798,7 @@ _Fuente: ae_fna_as_is.archimate._
 |Palabras clave|SOA, Gobierno, Riesgo, Objetivos de negocio|
 |Autor||
 |Fuente||
-|Version|**0158738** del 24 Jul 2023|
+|Versión|**8cea285** del 24 Jul 2023|
 |Vínculos|[Fase 2 PR6 Gobierno SOA](N03a%a20Vsta%20aSegenta%20SOA%20FNA.md)|
 
 <br>
@@ -807,9 +808,9 @@ Organizados como estamos bajo la definición de riesgo de arquitectura adoptada 
 
 
 ## Gobierno SOA del FNA con Gestión de Riesgos de Arquitectura (versión 0.6)
-La versión 0.6 del Gobierno realiará el tratamiento de las áreas de riesgo R1 a R7 sumando la capacidad de registro de riesgos del repositorio de arquitectura (Gestor de riesgo, en la gráfica). 
+La versión 0.6 del Gobierno realizará el tratamiento de las áreas de riesgo R1 a R7 sumando la capacidad de registro de riesgos del repositorio de arquitectura (Gestor de riesgo, en la gráfica). 
 
-![Modelo de gobierno SOA del FNA, versión 0.6. Incorpora las actividades de gestión de riesgo, y las capaciddes del repositorio de arquitectura.  ](images/modelogob06.png){#fig: width=}
+![Modelo de gobierno SOA del FNA, versión 0.6. Incorpora las actividades de gestión de riesgo, y las capacidades del repositorio de arquitectura.  ](images/modelogob06.png){#fig: width=}
 
 _Fuente: elaboración propia._
 
@@ -817,7 +818,7 @@ _Fuente: elaboración propia._
 
 El modelo de gobierno 0.6 agrega además al repositorio de análisis los pertinentes a la gestión de riesgos del FNA:
 
-1. Relación Area FNA - Riesgo
+1. Relación Área FNA - Riesgo
 1. Valoración del riesgo
 1. Relación Arquitectura FNA - Riesgo
 
@@ -840,7 +841,7 @@ El modelo de colaboración muestra cómo la Oficina y el Gobierno 0.6 se relacio
 | Palabras clave | SOA, Riesgo técnico, Modelo, Arquitectura                     |
 | Autor          |                                                               |
 | Fuente         |                                                               |
-| Versión        | **1.0158738** del 24 Jul 2023                          |
+| Versión        | **1.8cea285** del 24 Jul 2023                          |
 | Vínculos       | [Ejecución Plan de Trabajo SOA](onenote:#N001d.sharepoint.com); [Procesos de Negocio FNA](onenote:#N003a.com)|
 
 <br>
