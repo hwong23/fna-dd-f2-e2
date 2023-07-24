@@ -26,8 +26,8 @@ header-includes: |
   <meta name="dc.date" content="2023-07-24" />
   <meta name="citation_publication_date" content="2023-07-24" />
   <meta property="article:published_time" content="2023-07-24" />
-  <meta name="dc.modified" content="2023-07-24T16:44:30+00:00" />
-  <meta property="article:modified_time" content="2023-07-24T16:44:30+00:00" />
+  <meta name="dc.modified" content="2023-07-24T16:46:13+00:00" />
+  <meta property="article:modified_time" content="2023-07-24T16:46:13+00:00" />
   <meta name="dc.language" content="en-US" />
   <meta name="citation_language" content="en-US" />
   <meta name="dc.relation.ispartof" content="Manubot" />
@@ -48,9 +48,9 @@ header-includes: |
   <meta name="citation_fulltext_html_url" content="https://hwong23.github.io/fna-dd-f2-e2/" />
   <meta name="citation_pdf_url" content="https://hwong23.github.io/fna-dd-f2-e2/manuscript.pdf" />
   <link rel="alternate" type="application/pdf" href="https://hwong23.github.io/fna-dd-f2-e2/manuscript.pdf" />
-  <link rel="alternate" type="text/html" href="https://hwong23.github.io/fna-dd-f2-e2/v/63249cf3fdf345321ea877516920abd909ba0fc3/" />
-  <meta name="manubot_html_url_versioned" content="https://hwong23.github.io/fna-dd-f2-e2/v/63249cf3fdf345321ea877516920abd909ba0fc3/" />
-  <meta name="manubot_pdf_url_versioned" content="https://hwong23.github.io/fna-dd-f2-e2/v/63249cf3fdf345321ea877516920abd909ba0fc3/manuscript.pdf" />
+  <link rel="alternate" type="text/html" href="https://hwong23.github.io/fna-dd-f2-e2/v/73d168f32537121d12f1e9b840c5985dccd1c6c8/" />
+  <meta name="manubot_html_url_versioned" content="https://hwong23.github.io/fna-dd-f2-e2/v/73d168f32537121d12f1e9b840c5985dccd1c6c8/" />
+  <meta name="manubot_pdf_url_versioned" content="https://hwong23.github.io/fna-dd-f2-e2/v/73d168f32537121d12f1e9b840c5985dccd1c6c8/manuscript.pdf" />
   <meta property="og:type" content="article" />
   <meta property="twitter:card" content="summary_large_image" />
   <link rel="icon" type="image/png" sizes="192x192" href="https://manubot.org/favicon-192x192.png" />
@@ -69,13 +69,13 @@ manubot-clear-requests-cache: false
 
 
 
-<small><em>Los productos contractuales (PR0n) de esta etapa([Web](https://hwong23.github.io/fna-dd-f2-e2/v/63249cf3fdf345321ea877516920abd909ba0fc3/))
+<small><em>Los productos contractuales (PR0n) de esta etapa([Web](https://hwong23.github.io/fna-dd-f2-e2/v/73d168f32537121d12f1e9b840c5985dccd1c6c8/))
 están basados en el resultado de la consultoría "Arquitectura E-Service",
-[Sharepoint STEF@63249cf](https://stefaninilatam.sharepoint.com/:f:/r/sites/PROYECTOARQUITECTURAE-SERVICEFNA/Documentos%20compartidos/General/Repositorio%20SOA/Procesos%20Fase%20II/181-2020.%20E-SERV.%20Fase%202-ETAPA%200.%20docx?csf=1&web=1&e=BiNcBP)
+[Sharepoint STEF@73d168f](https://stefaninilatam.sharepoint.com/:f:/r/sites/PROYECTOARQUITECTURAE-SERVICEFNA/Documentos%20compartidos/General/Repositorio%20SOA/Procesos%20Fase%20II/181-2020.%20E-SERV.%20Fase%202-ETAPA%200.%20docx?csf=1&web=1&e=BiNcBP)
 del July 24, 2023.
 </em></small>
 
-|    **Versión** del producto 1.63249cf de 24 Jul 2023
+|    **Versión** del producto 1.73d168f de 24 Jul 2023
 
 
 
@@ -141,7 +141,7 @@ Entrega de los productos de la Etapa 2, PR04. Definición de roles y responsabil
 | Palabras clave | SOA, E-Service, FNA, Análisis de brecha, GAP, Comparativa              |
 | Autor          |                            |
 | Fuente         |                            |
-| Versión        | 1.63249cf del 24 Jul 2023 |
+| Versión        | 1.73d168f del 24 Jul 2023 |
 | Vínculos       | [N003a Vista Segmento SOA FNA](N03a%a20Vsta%20aSegenta%20SOA%20FNA.md) |
 
 <br>
@@ -182,7 +182,7 @@ tablenos-caption-name: Tabla
 >
 >    24 Jul 2023
 >
->    **Versión** 1.63249cf
+>    **Versión** 1.73d168f
 
 <br>
 
@@ -227,7 +227,7 @@ _Fuente: Elaboración propia._
 | Palabras clave | SOA, Comité arquitectura, Procesos, Objetivos, Modelo        |
 | Autor          |                                                              |
 | Fuente         |                                                              |
-| Versión        | **1.63249cf** del 24 Jul 2023                         |
+| Versión        | **1.73d168f** del 24 Jul 2023                         |
 | Vínculos       | [Ejecución Plan de Trabajo SOA](onenote:#N001d.sharepoint.com); [Procesos de Negocio FNA](onenote:#N003a.com)|
 
 <br>
@@ -286,7 +286,7 @@ Estos recursos deben funcionar como recursos propios de la organización, sin pe
 | Palabras clave | SOA, Evaluación de arquitectura, ATAM, Método  |
 | Autor          |                                                |
 | Fuente         |                                                |
-| Versión        | **1.63249cf** del 24 Jul 2023           |
+| Versión        | **1.73d168f** del 24 Jul 2023           |
 | Vínculos       | [Ejecución Plan de Trabajo SOA](onenote:#N001d.sharepoint.com); [Procesos de Negocio FNA](onenote:#N003a.com) |
 
 <br>
@@ -405,7 +405,7 @@ _Fuente: ASAM. Department of CSE, SCSVMV University._
 | Palabras clave | SOA, Evaluación de arquitectura, ASAM, Método  |
 | Autor          |                                                |
 | Fuente         |                                                |
-| Versión        | **1.63249cf** del 24 Jul 2023           |
+| Versión        | **1.73d168f** del 24 Jul 2023           |
 | Vínculos       | [Ejecución Plan de Trabajo SOA](onenote:#N001d.sharepoint.com); [Procesos de Negocio FNA](onenote:#N003a.com) |
 
 <br>
@@ -647,7 +647,7 @@ tablenos-caption-name: Tabla
 >
 >    24 Jul 2023
 >
->    **Versión** 1.63249cf
+>    **Versión** 1.73d168f
 
 <br>
 
@@ -693,7 +693,7 @@ _Fuente: Elaboración propia._
 | Palabras clave | SOA, Contexto, Áreas, Procesos, Objetivo                      |
 | Autor          |                                                               |
 | Fuente         |                                                               |
-| Versión        | **1.63249cf** del 24 Jul 2023                          |
+| Versión        | **1.73d168f** del 24 Jul 2023                          |
 | Vínculos       | [Ejecución Plan de Trabajo SOA](onenote:#N001d.sharepoint.com); [Procesos de Negocio FNA](onenote:#N003a.com)|
 
 <br>
@@ -798,7 +798,7 @@ _Fuente: ae_fna_as_is.archimate._
 |Palabras clave|SOA, Gobierno, Riesgo, Objetivos de negocio|
 |Autor||
 |Fuente||
-|Version|**63249cf** del 24 Jul 2023|
+|Versión|**73d168f** del 24 Jul 2023|
 |Vínculos|[Fase 2 PR6 Gobierno SOA](N03a%a20Vsta%20aSegenta%20SOA%20FNA.md)|
 
 <br>
@@ -808,9 +808,9 @@ Organizados como estamos bajo la definición de riesgo de arquitectura adoptada 
 
 
 ## Gobierno SOA del FNA con Gestión de Riesgos de Arquitectura (versión 0.6)
-La versión 0.6 del Gobierno realiará el tratamiento de las áreas de riesgo R1 a R7 sumando la capacidad de registro de riesgos del repositorio de arquitectura (Gestor de riesgo, en la gráfica). 
+La versión 0.6 del Gobierno realizará el tratamiento de las áreas de riesgo R1 a R7 sumando la capacidad de registro de riesgos del repositorio de arquitectura (Gestor de riesgo, en la gráfica). 
 
-![Modelo de gobierno SOA del FNA, versión 0.6. Incorpora las actividades de gestión de riesgo, y las capaciddes del repositorio de arquitectura.  ](images/modelogob06.png){#fig: width=}
+![Modelo de gobierno SOA del FNA, versión 0.6. Incorpora las actividades de gestión de riesgo, y las capacidades del repositorio de arquitectura.  ](images/modelogob06.png){#fig: width=}
 
 _Fuente: elaboración propia._
 
@@ -818,7 +818,7 @@ _Fuente: elaboración propia._
 
 El modelo de gobierno 0.6 agrega además al repositorio de análisis los pertinentes a la gestión de riesgos del FNA:
 
-1. Relación Area FNA - Riesgo
+1. Relación Área FNA - Riesgo
 1. Valoración del riesgo
 1. Relación Arquitectura FNA - Riesgo
 
@@ -841,13 +841,13 @@ El modelo de colaboración muestra cómo la Oficina y el Gobierno 0.6 se relacio
 | Palabras clave | SOA, Riesgo técnico, Modelo, Arquitectura                     |
 | Autor          |                                                               |
 | Fuente         |                                                               |
-| Versión        | **1.63249cf** del 24 Jul 2023                          |
+| Versión        | **1.73d168f** del 24 Jul 2023                          |
 | Vínculos       | [Ejecución Plan de Trabajo SOA](onenote:#N001d.sharepoint.com); [Procesos de Negocio FNA](onenote:#N003a.com)|
 
 <br>
 
 # Técnica para Modelar Riesgos de Arquitectura para el FNA
-Para completar el cumplimiento del objetivo de manejo de riesgos del Gobierno SOA del FNA, versión 0.6, y de dotar a la oficina de arquitectura de los recursos para cumplir tal objetivo, desarrollamos a continuación las consideraciones para modelar en el repositorio de arquitectura los riesgos de la arquitectura, lo cual contribye de gran manera a la gestión y tratamiento de los mismos.
+Para completar el cumplimiento del objetivo de manejo de riesgos del Gobierno SOA del FNA, versión 0.6, y de dotar a la oficina de arquitectura de los recursos para cumplir tal objetivo, desarrollamos a continuación las consideraciones para modelar en el repositorio de arquitectura los riesgos de la arquitectura, lo cual contribuye de gran manera a la gestión y tratamiento de los mismos.
 
 ## Correspondencia de Conceptos del Riesgo y Arquitectura
 Es fundamental establecer una correspondencia de conceptos con el "mundo" y el lenguaje de modelado, que en el caso de la arquitectura es ArchiMate 2.1 (o superior). La siguiente tabla presenta una posible correspondencia entre los conceptos del riesgo técnico de la arquitectura y el lenguaje indicado.
@@ -885,7 +885,7 @@ Table: Correspondencia de Conceptos del Riesgo del Gobierno SOA del FNA, versió
 En los siguientes contenidos describiremos las técnicas para el uso de los conceptos de ArchiMate que resulten en el modelamiento y la documentación generada de los riesgos, tal que contribuyan a la gestión de los riesgos, y que contribuyan al Gobierno SOA, versión 0.6, del FNA.
 
 ## Referencia para Modelar el Riesgo de Arquitectura del FNA
-La idea central del modelamiento de los riesgos de arquitectura es darle alguna respuesta a las siguientes preguntas de control respecto a cada eventos de riesgo o amenaza que problematice las funciones de la Oficina de Arquitcuta del FNA.
+La idea central del modelamiento de los riesgos de arquitectura es darles alguna respuesta a las siguientes preguntas de control respecto a cada eventos de riesgo o amenaza que problematice las funciones de la Oficina de Arquitectura del FNA.
 
 Ante un evento riesgoso o amenaza el modelo busca responder las siguientes preguntas de control.
 
@@ -896,7 +896,7 @@ Ante un evento riesgoso o amenaza el modelo busca responder las siguientes pregu
 
 <br>
 
-A continuación presentamos la propuesta de uso y organización de los conceptos generales para el modelamiento de los riesgos de arquitectura del FNA. 
+A continuación, presentamos la propuesta de uso y organización de los conceptos generales para el modelamiento de los riesgos de arquitectura del FNA. 
 
 ![Modelo de ejemplo para la representación de los artefactos, recursos, actividades y activos (software) afectados.](images/modeloriesgo.png){#fig: width=}
 
@@ -904,7 +904,7 @@ _Fuente: elaboración propia._
 
 <br>
 
-Podemos comprobar la efectividad del modelo de riesgo relacionándolo con las pregunta de control consignadas arriba. En la siguiente ilustración mostramos cómo el modelo responde a estas preguntas.
+Podemos comprobar la efectividad del modelo de riesgo relacionándolo con las preguntas de control consignadas arriba. En la siguiente ilustración mostramos cómo el modelo responde a estas preguntas.
 
 ![Relación de los conceptos del modelo de riesgo con las preguntas de control del tratamiento de riesgos de arquitectura del FNA.](images/modeloriesgo1a.png){#fig: width=}
 
@@ -912,10 +912,10 @@ _Fuente: Diagnóstico SOA. E-Service (2022)._
 
 <br>
 
-    Importante: Para todos los riesgos, la herramienta de implementación del repositorio de arquitecrtura del FNA (que para el proyecto es Mega) debe tener la capacidad de generar la documentación técnica del riesgo a partir de su modelo. 
+    Importante: Para todos los riesgos, la herramienta de implementación del repositorio de arquitectura del FNA (que para el proyecto es Mega) debe tener la capacidad de generar la documentación técnica del riesgo a partir de su modelo. 
 
 ## Modelo Simple de Riesgo de Arquitectura
-Desarrollamos un modelo de riesgo tomando como entrada un caso particular del FNA descrito anteriomente.
+Desarrollamos un modelo de riesgo tomando como entrada un caso particular del FNA descrito anteriormente.
 
 ![Modelo de ejemplo para la representación de los artefactos, recursos, actividades y activos (software) afectados.](images/modeloriesgo001.png){#fig: width=}
 
@@ -925,7 +925,7 @@ _Fuente: elaboración propia._
 
 Para la identificación y trazabilidad del estado de un riesgo necesitamos etiquetar con una identificación única a cada riesgo gestionado. En el modelo que presentamos el identificador es el 001.
 
-    Importante: Para todos los riesgos, la herramienta de implementación del repositorio de arquitecrtura del FNA (que para el proyecto es Mega) debe tener la capacidad de generar la documentación técnica del riesgo a partir de su modelo. 
+    Importante: Para todos los riesgos, la herramienta de implementación del repositorio de arquitectura del FNA (que para el proyecto es Mega) debe tener la capacidad de generar la documentación técnica del riesgo a partir de su modelo. 
 
 <br>
 
