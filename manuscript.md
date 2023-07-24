@@ -26,8 +26,8 @@ header-includes: |
   <meta name="dc.date" content="2023-07-24" />
   <meta name="citation_publication_date" content="2023-07-24" />
   <meta property="article:published_time" content="2023-07-24" />
-  <meta name="dc.modified" content="2023-07-24T13:58:32+00:00" />
-  <meta property="article:modified_time" content="2023-07-24T13:58:32+00:00" />
+  <meta name="dc.modified" content="2023-07-24T16:09:09+00:00" />
+  <meta property="article:modified_time" content="2023-07-24T16:09:09+00:00" />
   <meta name="dc.language" content="en-US" />
   <meta name="citation_language" content="en-US" />
   <meta name="dc.relation.ispartof" content="Manubot" />
@@ -48,9 +48,9 @@ header-includes: |
   <meta name="citation_fulltext_html_url" content="https://hwong23.github.io/fna-dd-f2-e2/" />
   <meta name="citation_pdf_url" content="https://hwong23.github.io/fna-dd-f2-e2/manuscript.pdf" />
   <link rel="alternate" type="application/pdf" href="https://hwong23.github.io/fna-dd-f2-e2/manuscript.pdf" />
-  <link rel="alternate" type="text/html" href="https://hwong23.github.io/fna-dd-f2-e2/v/a009c6daa17a04e0230e5fc3dba6ebaf831821f3/" />
-  <meta name="manubot_html_url_versioned" content="https://hwong23.github.io/fna-dd-f2-e2/v/a009c6daa17a04e0230e5fc3dba6ebaf831821f3/" />
-  <meta name="manubot_pdf_url_versioned" content="https://hwong23.github.io/fna-dd-f2-e2/v/a009c6daa17a04e0230e5fc3dba6ebaf831821f3/manuscript.pdf" />
+  <link rel="alternate" type="text/html" href="https://hwong23.github.io/fna-dd-f2-e2/v/6a862adcf62f6d619db17d770d0d4bf89d7bd895/" />
+  <meta name="manubot_html_url_versioned" content="https://hwong23.github.io/fna-dd-f2-e2/v/6a862adcf62f6d619db17d770d0d4bf89d7bd895/" />
+  <meta name="manubot_pdf_url_versioned" content="https://hwong23.github.io/fna-dd-f2-e2/v/6a862adcf62f6d619db17d770d0d4bf89d7bd895/manuscript.pdf" />
   <meta property="og:type" content="article" />
   <meta property="twitter:card" content="summary_large_image" />
   <link rel="icon" type="image/png" sizes="192x192" href="https://manubot.org/favicon-192x192.png" />
@@ -69,13 +69,13 @@ manubot-clear-requests-cache: false
 
 
 
-<small><em>Los productos contractuales (PR0n) de esta etapa([Web](https://hwong23.github.io/fna-dd-f2-e2/v/a009c6daa17a04e0230e5fc3dba6ebaf831821f3/))
+<small><em>Los productos contractuales (PR0n) de esta etapa([Web](https://hwong23.github.io/fna-dd-f2-e2/v/6a862adcf62f6d619db17d770d0d4bf89d7bd895/))
 están basados en el resultado de la consultoría "Arquitectura E-Service",
-[Sharepoint STEF@a009c6d](https://stefaninilatam.sharepoint.com/:f:/r/sites/PROYECTOARQUITECTURAE-SERVICEFNA/Documentos%20compartidos/General/Repositorio%20SOA/Procesos%20Fase%20II/181-2020.%20E-SERV.%20Fase%202-ETAPA%200.%20docx?csf=1&web=1&e=BiNcBP)
+[Sharepoint STEF@6a862ad](https://stefaninilatam.sharepoint.com/:f:/r/sites/PROYECTOARQUITECTURAE-SERVICEFNA/Documentos%20compartidos/General/Repositorio%20SOA/Procesos%20Fase%20II/181-2020.%20E-SERV.%20Fase%202-ETAPA%200.%20docx?csf=1&web=1&e=BiNcBP)
 del July 24, 2023.
 </em></small>
 
-|    **Versión** del producto 1.a009c6d de 24 Jul 2023
+|    **Versión** del producto 1.6a862ad de 24 Jul 2023
 
 
 
@@ -141,7 +141,7 @@ Entrega de los productos de la Etapa 2, PR04. Definición de roles y responsabil
 | Palabras clave | SOA, E-Service, FNA, Análisis de brecha, GAP, Comparativa              |
 | Autor          |                            |
 | Fuente         |                            |
-| Versión        | 1.a009c6d del 24 Jul 2023 |
+| Versión        | 1.6a862ad del 24 Jul 2023 |
 | Vínculos       | [N003a Vista Segmento SOA FNA](N03a%a20Vsta%20aSegenta%20SOA%20FNA.md) |
 
 <br>
@@ -182,7 +182,7 @@ tablenos-caption-name: Tabla
 >
 >    24 Jul 2023
 >
->    **Versión** 1.a009c6d
+>    **Versión** 1.6a862ad
 
 <br>
 
@@ -227,13 +227,13 @@ _Fuente: Elaboración propia._
 | Palabras clave | SOA, Comité arquitectura, Procesos, Objetivos, Modelo        |
 | Autor          |                                                              |
 | Fuente         |                                                              |
-| Versión        | **1.a009c6d** del 24 Jul 2023                         |
+| Versión        | **1.6a862ad** del 24 Jul 2023                         |
 | Vínculos       | [Ejecución Plan de Trabajo SOA](onenote:#N001d.sharepoint.com); [Procesos de Negocio FNA](onenote:#N003a.com)|
 
 <br>
 
 # Modelo operativo del Comité de Arquitectura del FNA
-A partir del modelo inicial del Comité descrito en [Descripción del Comité de Gobierno de Arquitecturas del FNA](<../../fna-dd-f2-e1/content/03n.1.descripcion comite.md>), en esta sección ampliaremos detalles de los conceptos oprativos y de la puesta en marcha del Comité dentro del FNA. 
+A partir del modelo inicial del Comité descrito en [Descripción del Comité de Gobierno de Arquitecturas del FNA](<../../fna-dd-f2-e1/content/03n.1.descripcion comite.md>), en esta sección ampliaremos detalles de los conceptos operativos y de la puesta en marcha del Comité dentro del FNA. 
 
 Partimos de la definición de Comité de Arquitectura enunciada para el FNA.
 
@@ -244,9 +244,9 @@ De esta definición destacamos el rol clave que el Comité juega para el gobiern
 ## Procesos del Comité de Arquitectura FNA (CAF)
 Para cumplir sus objetivos y funciones (ver [Objetivos Específicos del CAF](<04.a1.modelo comite.md>) debemos definir los procesos que este debe realizar.
 
-Un error frecuente es asumir que el Comité influye en las decisiones de la empresa, o en sus estrategias. No lo hace. Tampoco en las estrategias de TI de la empresa, como son la adopción de prácticas o tecnologías que este ha determinado ya convenientes. El Comité no modifica ni controvierte este tipo de deciciones. No es un Comité de decisiones. El Comité de arquitectura, para ser exitoso, deben apegarse y apoyar a los procesos de gobierno de las arquitecturas del FNA, y ejecutar, por tanto, sus propio procesos.
+Un error frecuente es asumir que el Comité influye en las decisiones de la empresa, o en sus estrategias. No lo hace. Tampoco en las estrategias de TI de la empresa, como son la adopción de prácticas o tecnologías que este ha determinado ya convenientes. El Comité no modifica ni controvierte este tipo de decisiones. No es un Comité de decisiones. El Comité de arquitectura, para ser exitoso, deben apegarse y apoyar a los procesos de gobierno de las arquitecturas del FNA, y ejecutar, por tanto, sus propios procesos.
 
-    Importante. El CAF no es un Comité de decisiones porque no incide en las estrategias de negocio ni en las de TI. El Comité de arquitectura, para ser exitoso, deben apegarse y apoyar a los procesos de gobierno de las arquitecturas del FNA, y ejecutar, por tanto, sus propio procesos.
+    Importante. El CAF no es un Comité de decisiones porque no incide en las estrategias de negocio ni en las de TI. El Comité de arquitectura, para ser exitoso, deben apegarse y apoyar a los procesos de gobierno de las arquitecturas del FNA, y ejecutar, por tanto, sus propios procesos.
 
 El Comité de Arquitectura debe realizar los procesos siguientes, que a la vez, explican el por qué el FNA deben este tipo de entes de gobierno.
 1. Aprobar y publicar las arquitecturas resultantes (sean reformas, adaptaciones, migraciones, o arreglos), 
@@ -256,7 +256,7 @@ El Comité de Arquitectura debe realizar los procesos siguientes, que a la vez, 
 
 <br>
 
-El la siguiente diagrama resumimos la actuación y colaboración del modelo operativo del Comité de Arquitectura. 
+En el siguiente diagrama resumimos la actuación y colaboración del modelo operativo del Comité de Arquitectura. 
 
 ![Comité de Arquitectura en colaboración y cumplimiento con otras áreas del FNA.](images/comiteModelo.png){#fig: width=}
 
@@ -265,7 +265,7 @@ _Fuente: elaboración propia._
 <br>
 
 ## Conformación del Comité para el Gobierno SOA del FNA
-El equipo del trabajo del CAF requerido, conforme el modelo de gobierno SOA presentado en este proyecto, se compone de los roles de gestión de la tecnología y arquitectura en los ámbitos de diseño de servicios SOA y componentes de software: arquitecto SOA, o quien haga las veces de este); infraestructura tecnológica y redes: arquitecto de TI; aplicaciones de solución y herramientas de software: arquitecto de aplicaciones; y del especialista de las estructuras de datos e información del negocio: arq. de datos.
+El equipo del trabajo del CAF requerido, conforme el modelo de gobierno SOA presentado en este proyecto, se compone de los roles de gestión de la tecnología y arquitectura en los ámbitos de diseño de servicios SOA y componentes de software: arquitecto SOA, o quien haga las veces de este); infraestructura tecnológica y redes: arquitecto de TI; aplicaciones de solución y herramientas de software: arquitecto de aplicaciones; y del especialista de las estructuras de datos e información del negocio: Arq. de datos.
 
 ![](images/comite.png)
 
@@ -286,7 +286,7 @@ Estos recursos deben funcionar como recursos propios de la organización, sin pe
 | Palabras clave | SOA, Evaluación de arquitectura, ATAM, Método  |
 | Autor          |                                                |
 | Fuente         |                                                |
-| Versión        | **1.a009c6d** del 24 Jul 2023           |
+| Versión        | **1.6a862ad** del 24 Jul 2023           |
 | Vínculos       | [Ejecución Plan de Trabajo SOA](onenote:#N001d.sharepoint.com); [Procesos de Negocio FNA](onenote:#N003a.com) |
 
 <br>
@@ -405,7 +405,7 @@ _Fuente: ASAM. Department of CSE, SCSVMV University._
 | Palabras clave | SOA, Evaluación de arquitectura, ASAM, Método  |
 | Autor          |                                                |
 | Fuente         |                                                |
-| Versión        | **1.a009c6d** del 24 Jul 2023           |
+| Versión        | **1.6a862ad** del 24 Jul 2023           |
 | Vínculos       | [Ejecución Plan de Trabajo SOA](onenote:#N001d.sharepoint.com); [Procesos de Negocio FNA](onenote:#N003a.com) |
 
 <br>
@@ -647,7 +647,7 @@ tablenos-caption-name: Tabla
 >
 >    24 Jul 2023
 >
->    **Versión** 1.a009c6d
+>    **Versión** 1.6a862ad
 
 <br>
 
@@ -693,7 +693,7 @@ _Fuente: Elaboración propia._
 | Palabras clave | SOA, Contexto, Áreas, Procesos, Objetivo                      |
 | Autor          |                                                               |
 | Fuente         |                                                               |
-| Versión        | **1.a009c6d** del 24 Jul 2023                          |
+| Versión        | **1.6a862ad** del 24 Jul 2023                          |
 | Vínculos       | [Ejecución Plan de Trabajo SOA](onenote:#N001d.sharepoint.com); [Procesos de Negocio FNA](onenote:#N003a.com)|
 
 <br>
@@ -797,7 +797,7 @@ _Fuente: ae_fna_as_is.archimate._
 |Palabras clave|SOA, Gobierno, Riesgo, Objetivos de negocio|
 |Autor||
 |Fuente||
-|Version|**a009c6d** del 24 Jul 2023|
+|Version|**6a862ad** del 24 Jul 2023|
 |Vínculos|[Fase 2 PR6 Gobierno SOA](N03a%a20Vsta%20aSegenta%20SOA%20FNA.md)|
 
 <br>
@@ -840,7 +840,7 @@ El modelo de colaboración muestra cómo la Oficina y el Gobierno 0.6 se relacio
 | Palabras clave | SOA, Riesgo técnico, Modelo, Arquitectura                     |
 | Autor          |                                                               |
 | Fuente         |                                                               |
-| Versión        | **1.a009c6d** del 24 Jul 2023                          |
+| Versión        | **1.6a862ad** del 24 Jul 2023                          |
 | Vínculos       | [Ejecución Plan de Trabajo SOA](onenote:#N001d.sharepoint.com); [Procesos de Negocio FNA](onenote:#N003a.com)|
 
 <br>
