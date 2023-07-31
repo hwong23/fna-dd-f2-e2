@@ -26,8 +26,8 @@ header-includes: |
   <meta name="dc.date" content="2023-07-31" />
   <meta name="citation_publication_date" content="2023-07-31" />
   <meta property="article:published_time" content="2023-07-31" />
-  <meta name="dc.modified" content="2023-07-31T10:30:46+00:00" />
-  <meta property="article:modified_time" content="2023-07-31T10:30:46+00:00" />
+  <meta name="dc.modified" content="2023-07-31T10:34:40+00:00" />
+  <meta property="article:modified_time" content="2023-07-31T10:34:40+00:00" />
   <meta name="dc.language" content="en-US" />
   <meta name="citation_language" content="en-US" />
   <meta name="dc.relation.ispartof" content="Manubot" />
@@ -48,9 +48,9 @@ header-includes: |
   <meta name="citation_fulltext_html_url" content="https://hwong23.github.io/fna-dd-f2-e2/" />
   <meta name="citation_pdf_url" content="https://hwong23.github.io/fna-dd-f2-e2/manuscript.pdf" />
   <link rel="alternate" type="application/pdf" href="https://hwong23.github.io/fna-dd-f2-e2/manuscript.pdf" />
-  <link rel="alternate" type="text/html" href="https://hwong23.github.io/fna-dd-f2-e2/v/8f72adc093a4b90f363de89e03b42ebe89e286f8/" />
-  <meta name="manubot_html_url_versioned" content="https://hwong23.github.io/fna-dd-f2-e2/v/8f72adc093a4b90f363de89e03b42ebe89e286f8/" />
-  <meta name="manubot_pdf_url_versioned" content="https://hwong23.github.io/fna-dd-f2-e2/v/8f72adc093a4b90f363de89e03b42ebe89e286f8/manuscript.pdf" />
+  <link rel="alternate" type="text/html" href="https://hwong23.github.io/fna-dd-f2-e2/v/ac807c505e87b9a818c2fb7403303eba26777dff/" />
+  <meta name="manubot_html_url_versioned" content="https://hwong23.github.io/fna-dd-f2-e2/v/ac807c505e87b9a818c2fb7403303eba26777dff/" />
+  <meta name="manubot_pdf_url_versioned" content="https://hwong23.github.io/fna-dd-f2-e2/v/ac807c505e87b9a818c2fb7403303eba26777dff/manuscript.pdf" />
   <meta property="og:type" content="article" />
   <meta property="twitter:card" content="summary_large_image" />
   <link rel="icon" type="image/png" sizes="192x192" href="https://manubot.org/favicon-192x192.png" />
@@ -69,13 +69,13 @@ manubot-clear-requests-cache: false
 
 
 
-<small><em>Los productos contractuales (PR0n) de esta etapa([Web](https://hwong23.github.io/fna-dd-f2-e2/v/8f72adc093a4b90f363de89e03b42ebe89e286f8/))
+<small><em>Los productos contractuales (PR0n) de esta etapa([Web](https://hwong23.github.io/fna-dd-f2-e2/v/ac807c505e87b9a818c2fb7403303eba26777dff/))
 están basados en el resultado de la consultoría "Arquitectura E-Service",
-[Sharepoint STEF@8f72adc](https://stefaninilatam.sharepoint.com/:f:/r/sites/PROYECTOARQUITECTURAE-SERVICEFNA/Documentos%20compartidos/General/Repositorio%20SOA/Procesos%20Fase%20II/181-2020.%20E-SERV.%20Fase%202-ETAPA%200.%20docx?csf=1&web=1&e=BiNcBP)
+[Sharepoint STEF@ac807c5](https://stefaninilatam.sharepoint.com/:f:/r/sites/PROYECTOARQUITECTURAE-SERVICEFNA/Documentos%20compartidos/General/Repositorio%20SOA/Procesos%20Fase%20II/181-2020.%20E-SERV.%20Fase%202-ETAPA%200.%20docx?csf=1&web=1&e=BiNcBP)
 del July 31, 2023.
 </em></small>
 
-|    **Versión** del producto 1.8f72adc de 31 Jul 2023
+|    **Versión** del producto 1.ac807c5 de 31 Jul 2023
 
 
 
@@ -141,7 +141,7 @@ Entrega de los productos de la Etapa 2, PR04. Definición de roles y responsabil
 | Palabras clave | SOA, E-Service, FNA, Análisis de brecha, GAP, Comparativa              |
 | Autor          |                            |
 | Fuente         |                            |
-| Versión        | 1.8f72adc del 31 Jul 2023 |
+| Versión        | 1.ac807c5 del 31 Jul 2023 |
 | Vínculos       | [N003a Vista Segmento SOA FNA](N03a%a20Vsta%20aSegenta%20SOA%20FNA.md) |
 
 <br>
@@ -182,7 +182,7 @@ tablenos-caption-name: Tabla
 >
 >    31 Jul 2023
 >
->    **Versión** 1.8f72adc
+>    **Versión** 1.ac807c5
 
 <br>
 
@@ -227,7 +227,7 @@ _Fuente: Elaboración propia._
 | Palabras clave | SOA, Comité arquitectura, Procesos, Objetivos, Modelo        |
 | Autor          |                                                              |
 | Fuente         |                                                              |
-| Versión        | **1.8f72adc** del 31 Jul 2023                         |
+| Versión        | **1.ac807c5** del 31 Jul 2023                         |
 | Vínculos       | [Ejecución Plan de Trabajo SOA](onenote:#N001d.sharepoint.com); [Procesos de Negocio FNA](onenote:#N003a.com)|
 
 <br>
@@ -284,7 +284,7 @@ Estos recursos deben funcionar como recursos propios de la organización, sin pe
 | Palabras clave | SOA, Evaluación de arquitectura, ATAM, Método  |
 | Autor          |                                                |
 | Fuente         |                                                |
-| Versión        | **1.8f72adc** del 31 Jul 2023           |
+| Versión        | **1.ac807c5** del 31 Jul 2023           |
 | Vínculos       | [Ejecución Plan de Trabajo SOA](onenote:#N001d.sharepoint.com); [Procesos de Negocio FNA](onenote:#N003a.com) |
 
 <br>
@@ -403,7 +403,7 @@ _Fuente: ASAM. Department of CSE, SCSVMV University._
 | Palabras clave | SOA, Evaluación de arquitectura, ASAM, Método  |
 | Autor          |                                                |
 | Fuente         |                                                |
-| Versión        | **1.8f72adc** del 31 Jul 2023           |
+| Versión        | **1.ac807c5** del 31 Jul 2023           |
 | Vínculos       | [Ejecución Plan de Trabajo SOA](onenote:#N001d.sharepoint.com); [Procesos de Negocio FNA](onenote:#N003a.com) |
 
 <br>
@@ -645,7 +645,7 @@ tablenos-caption-name: Tabla
 >
 >    31 Jul 2023
 >
->    **Versión** 1.8f72adc
+>    **Versión** 1.ac807c5
 
 <br>
 
@@ -691,7 +691,7 @@ _Fuente: Elaboración propia._
 | Palabras clave | SOA, Contexto, Áreas, Procesos, Objetivo                      |
 | Autor          |                                                               |
 | Fuente         |                                                               |
-| Versión        | **1.8f72adc** del 31 Jul 2023                          |
+| Versión        | **1.ac807c5** del 31 Jul 2023                          |
 | Vínculos       | [Ejecución Plan de Trabajo SOA](onenote:#N001d.sharepoint.com); [Procesos de Negocio FNA](onenote:#N003a.com)|
 
 <br>
@@ -715,7 +715,7 @@ Vemos que para esta organización especializada el riesgo técnico de arquitectu
 
 En este proyecto, y en el mismo sentido de la definición de riesgo técnico de ambas definiciones (ERM y Open Group), por su relación con las arquitecturas del FNA, acogemos parte de esta definición y la acotamos necesariamente al tratar únicamente sobre los _riesgos tecnológicos que amenazan (afectan) a las arquitecturas SOA y a la consecución de objetivos de la Oficina de Arquitectura del FNA_.
 
-    Por tanto, en este proyecto definimos, y trataremos sobre, el riesgo técnico como aquellos que afectan a los objetivos de la Oficina de Arquitectura, a la tecnología, al software y a los servicios SOA del FNA, que se identifiquen dentro del ejercicio del flujo de trabajo de dicha oficina y en los proyectos de arquitectura que sus involucrados ejecuten.
+    Por tanto, en este proyecto definimos, y trataremos sobre, el riesgo técnico como todo aquello que afecta a los objetivos de la Oficina de Arquitectura, a la tecnología, al software y a los servicios SOA del FNA, que se identifiquen dentro del ejercicio del flujo de trabajo de dicha oficina y en los proyectos de arquitectura que sus involucrados ejecuten.
 
 Desde aquí consideramos el concepto de riesgo técnico de arquitectura FNA que se dan por las decisiones de diseño, selección y migración de tecnología, transición de arquitecturas, alineación funcional, sobrecosto de inversión TI, complejidad de la implementación, entre otros. _Es intencional que al hacer foco en el tratamiento a estos aspectos de riesgos de las arquitecturas del FNA la utilidad, calidad y efectividad del repositorio de arquitectura, y la misma arquitectura del FNA mejorará_ y su valor será evidente. 
 
@@ -796,7 +796,7 @@ _Fuente: ae_fna_as_is.archimate._
 |Palabras clave|SOA, Gobierno, Riesgo, Objetivos de negocio|
 |Autor||
 |Fuente||
-|Versión|**8f72adc** del 31 Jul 2023|
+|Versión|**ac807c5** del 31 Jul 2023|
 |Vínculos|[Fase 2 PR6 Gobierno SOA](N03a%a20Vsta%20aSegenta%20SOA%20FNA.md)|
 
 <br>
@@ -839,7 +839,7 @@ El modelo de colaboración muestra cómo la Oficina y el Gobierno 0.6 se relacio
 | Palabras clave | SOA, Riesgo técnico, Modelo, Arquitectura                     |
 | Autor          |                                                               |
 | Fuente         |                                                               |
-| Versión        | **1.8f72adc** del 31 Jul 2023                          |
+| Versión        | **1.ac807c5** del 31 Jul 2023                          |
 | Vínculos       | [Ejecución Plan de Trabajo SOA](onenote:#N001d.sharepoint.com); [Procesos de Negocio FNA](onenote:#N003a.com)|
 
 <br>
